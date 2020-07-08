@@ -1,0 +1,15 @@
+Package: contributing-guidance
+Title: rOpenSci Contributing Guidelines
+Version: 0.0.0.9000
+Authors@R: 
+    c(person(given = "Stefanie",
+             family = "Butland",
+             role = c("aut", "cre"),
+             email = "stefaniebutland@gmail.com"))
+             comment = c(ORCID = "0000-0002-5427-8951"))
+Description: Provides blabla.
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+Imports: 
+    bookdown
