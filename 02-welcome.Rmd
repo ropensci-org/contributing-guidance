@@ -12,7 +12,7 @@ rOpenSci creates technical infrastructure for open and reproducible research in 
 
 The **purpose of this guide** is to help you recognize yourself as a potential contributor, help you figure out what you want to get out of giving your time, expertise and experience, match that with some things that will help us in [our mission](https://ropensci.org/about/), and link to the resources that help you get that done. 
 
-What are some benefits of contributing? {#benefits}
+## What are some benefits of contributing? {#benefits}
 
 *   Connect with like-minded people who share your interests and values
 *   Gain visibility or recognition for your open source work
@@ -24,7 +24,7 @@ What are some benefits of contributing? {#benefits}
 
 _“My life took a turn thanks to rOpenSci - the community I was welcomed into there gave me deep friendships, new skills & confidence to get out of my comfort zone. And the #rstats world as a whole is better for rOpenSci’s existence.” [Jennifer Thompson](https://twitter.com/jent103/status/1232460524031545344)_
 
-Common ways people contribute:
+## Common ways people contribute:
 
 *   Cite the packages you use in a presentation or publication
 *   Share your use case for a package or resource
