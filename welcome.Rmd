@@ -2,7 +2,9 @@
 
 Welcome. We’re so happy you’re here!
 
-**test** link to another chapter \@ref(applications)
+**test** link to another chapter "What brings you here?" \@ref(motivations)
+
+**test** link to another chapter \@rOpenSci resources(resources)
 
 **test** link to section below \@ref(benefits)
 

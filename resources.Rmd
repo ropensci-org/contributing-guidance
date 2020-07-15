@@ -1,4 +1,4 @@
-# Applications {#applications}
+# rOpenSci Resources {#resources}
 
 Some _significant_ applications are demonstrated in this chapter.
 
