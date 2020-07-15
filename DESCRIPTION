@@ -1,5 +1,5 @@
 Package: contributing-guidance
-Title: rOpenSci Contributing Guidelines
+Title: rOpenSci Community Contributing Guide
 Version: 0.0.0.9000
 Authors@R: 
     c(person(given = "Stefanie",
@@ -7,7 +7,7 @@ Authors@R:
              role = c("aut", "cre"),
              email = "stefaniebutland@gmail.com"))
              comment = c(ORCID = "0000-0002-5427-8951"))
-Description: Provides blabla.
+Description: A guide to help people find ways to contribute to rOpenSci
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
