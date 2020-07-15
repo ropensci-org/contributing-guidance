@@ -3,3 +3,8 @@
 .RData
 .Ruserdata
 _book
+_bookdown_files
+.DS_Store
+*.rds
+.Rapp.history
+docs
