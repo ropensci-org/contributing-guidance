@@ -2,13 +2,17 @@
 
 Welcome. We’re so happy you’re here!
 
+**test** link to another chapter \@ref(applications)
+
+**test** link to section below \@ref(benefits)
+
 rOpenSci needs contributors and we’d love to help you figure out where you fit. We welcome code and non-code contributions from novices, experts, and the “nexperts” in between, at any career stage in any sector. You don’t have to be a developer! Maybe you want to spend one hour learning by attending a Community Call, or five hours reviewing an R package submitted for open peer review, or maybe you want to make an ongoing commitment to help maintain a package.
 
 rOpenSci creates technical infrastructure for open and reproducible research in the form of carefully vetted, staff- and community-contributed R software tools that lower barriers to working with scientific data. We are changing the game for online coding communities by creating a welcoming environment where you’ll find users and developers from different backgrounds and skill levels, learning, sharing ideas and innovating together.
 
 The **purpose of this guide** is to help you recognize yourself as a potential contributor, help you figure out what you want to get out of giving your time, expertise and experience, match that with some things that will help us in [our mission](https://ropensci.org/about/), and link to the resources that help you get that done. 
 
-What are some benefits of contributing?
+What are some benefits of contributing? {#benefits}
 
 *   Connect with like-minded people who share your interests and values
 *   Gain visibility or recognition for your open source work
