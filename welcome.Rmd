@@ -2,11 +2,7 @@
 
 Welcome. We’re so happy you’re here!
 
-**test** link to another chapter "What brings you here?" \@ref(motivations)
-
-**test** link to another chapter rOpenSci Resources \@ref(resources)
-
-**test** link to section below \@ref(benefits)
+**test** link to section below [Benefits](#benefits)
 
 rOpenSci needs contributors and we’d love to help you figure out where you fit. We welcome code and non-code contributions from novices, experts, and the “nexperts” in between, at any career stage in any sector. You don’t have to be a developer! Maybe you want to spend one hour learning by attending a Community Call, or five hours reviewing an R package submitted for open peer review, or maybe you want to make an ongoing commitment to help maintain a package.
 
