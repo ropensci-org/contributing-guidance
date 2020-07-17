@@ -1,7 +1,96 @@
 # rOpenSci Resources {#resources}
 
-Some _significant_ applications are demonstrated in this chapter.
+short preamble
 
-## Example one
+## Our Mission {#mission}
 
-## Example two
+content
+
+## Our Community {#community}
+
+content
+
+
+## Communication channels {#channels}
+The rOpenSci team and community members live and work on the internet across many timezones. We connect and contribute online through multiple channels that offer different levels of interaction and contribution.
+
+Table of channels (see gdoc)
+
+content
+
+## Blog {#blog}
+
+content
+
+
+## Community Calls {#commcalls}
+
+content
+
+
+## Packages and their documentation {#packages}
+
+content
+
+
+## Use cases {#usecases}
+
+content
+
+
+
+## Development, maintenance, and peer review of rOpenSci packages {#devguide}
+
+short preamble. rOpenSci has been running a software peer review system since 2015. 
+
+Our free online guide “[rOpenSci Packages: Development, Maintenance, and Peer Review](https://devguide.ropensci.org/)” a.k.a. the “dev guide”, has proven to be invaluable to authors, maintainers, reviewers and editors of rOpenSci packages. 
+
+The first section of the book contains guidelines for creating and testing R packages.
+
+The second section is dedicated to rOpenSci’s software peer review process: what it is, our policies, and specific guides for authors, editors and reviewers throughout the process.
+
+The third and last section features our best practice for nurturing your package once it has passed peer review: how to collaborate with other developers, how to document releases, how to promote your package and how to leverage GitHub as a development platform. The third section also features a chapter for anyone wishing to start contributing to rOpenSci packages.
+
+Read how our dev guide has been used in the wild in a manuscript review: [When Standards Go Wild - Software Review for a Manuscript](https://ropensci.org/blog/2019/04/18/wild-standards/), and in the core curriculum of a Master of Data Science program: [Using rOpenSci Software Peer Review Guidelines for Teaching](https://ropensci.org/blog/2019/08/27/software-peer-review-guidelines-for-teaching/), by Tiffany Timbers.
+
+
+### How to contribute {#contribute-devguide}
+
+#### Volunteer to review a package {#review}
+
+> As a useR, you are qualified as a potential package reviewer if you have some appreciation for what makes your favourite packages useful. Miles McBain in [Where is the value in package peer review?](https://ropensci.org/blog/2018/04/06/peer-review-value/)
+
+
+The guide answers the question, [Why review packages for rOpenSci?](https://devguide.ropensci.org/softwarereviewintro.html#whyreview) Are you wondering what it’s like to review a package for the first time, or how long it might take? Read [blog posts with the “reviewer” tag](https://ropensci.org/tags/reviewer/). Many people review an R package before ever making one. Check out the [list of past reviewers](https://devguide.ropensci.org/softwarereviewintro.html#reviewers). Maybe you know one of them and can ask about their experience. 
+
+Fill out [this form to volunteer to review a package](https://ropensci.org/onboarding/). You’ll be contacted by an editor when a submitted package fits your profile. First-time reviewers are always paired with more experienced reviewers who can provide guidance if needed. 
+
+#### Submit your package for peer review {#submit}
+
+The guide answers the question: [Why submit your package to rOpenSci?](https://devguide.ropensci.org/softwarereviewintro.html#whysubmit) Read [blog posts with the “software-peer-review” tag](https://ropensci.org/tags/software-peer-review/) to get the perspectives of authors whose packages have passed peer review as well as learn about the process itself.
+
+Once you’ve submitted your package and an editor has assigned reviewers, the package author and reviewers will be invited to join rOpenSci’s Slack workspace where you can connect more directly with members of the rOpenSci community, including other reviewers, package authors, users, and the rOpenSci staff and leadership team.
+
+#### Make your package easy to cite {#cite} 
+
+Out of scope for now but maybe [link to issue](https://github.com/ropensci/dev_guide/issues/115) or a tech note coming soon
+
+
+## Statistical software peer review {#statspeerreview}
+
+content
+
+
+## Blog guide {#blogguide}
+
+content
+
+
+## Issues list {#issues}
+
+content 
+
+
+## Wish list {#wishlist}
+
+content

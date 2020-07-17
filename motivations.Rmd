@@ -1,3 +1,108 @@
 # What brings you here? {#motivations}
 
-We describe some stuff in this chapter.
+short preamble
+
+## I want to feel like I belong to a community 
+
+content
+
+## I want to learn {#learn}
+
+short preamble. Lots of ways to learn: by reading/ listening (blog, comm calls)...by doing (participate in software peer review as a reviewer or submitter)
+
+**I want to: **
+
+Learn in an atmosphere of trust
+
+
+
+*   Read about our community, supported by our Code of Conduct. 
+*   Attend a Community Call to get a feel for how we work and communicate with each other
+
+Be informed by reading / lurking / listening 
+
+
+
+*   Follow rOpenSci on Twitter
+*   Subscribe to our biweekly newsletter
+*   Read our blog and tech notes
+*   Attend a Community Call or watch recordings of past calls and read the collaborative notes 
+*   Browse our public forum with discussions on best practices, use cases for our packages (shared by community members!), discussions about statistical software peer review, and Q & A.
+
+Get answers to my questions, from peers and experts, quickly, in a safe space where there are no stupid questions
+
+
+
+*   Forum 
+*   ?nice way to mention Slack
+
+Learn more about the practice of open and reproducible research
+
+
+
+*   Community Calls
+*   Submit your R package for software peer review
+
+Know about specific best practices recommended by rOpenSci and by expert community members
+
+
+
+*   Read the “dev guide” for xyz
+
+Improve my R skills
+
+
+
+*   Sign up to [review a package](#review)
+*   [Submit your package](#submit) for open peer review
+
+Use robust, well-documented R packages
+
+
+
+*   How helps learning? Good documentation
+
+Access and analyze public data and document my work reproducibly
+
+
+
+*   Use rOpenSci packages that access open data (link to covid-ish blog post under Resources: Packages)
+
+Help document packages to improve my understanding
+
+Review an R package
+
+
+
+*   State how this helps person learn. Helps improve your own coding; prepares you to make a package and/or submit yours for review. Add quotes from reviewers to support this. 
+*   Read blog posts from first-time reviewers. Add Miles McBain’s quote here.
+*   Read section X of dev guide
+*   Complete the volunteer form
+
+Submit my R package for peer review
+
+
+
+*   State how this helps person learn. 
+*   Read section X of dev guide
+*   Read blog posts from authors of community-contributed packages (same examples as in blog guide)
+
+Figure out how to get my package on CRAN and how to have it remain there
+
+
+
+*   Read section X of dev guide
+*   cranchecks pkg & tech note?
+*   Ask questions in our forum 
+
+## I want to develop my career
+
+content
+
+## I want to discover tools and best practices
+
+content
+
+## I want to use packages and influence their development
+
+content
