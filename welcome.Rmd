@@ -2,8 +2,6 @@
 
 Welcome. We’re so happy you’re here!
 
-**test** link to section below [Benefits](#benefits)
-
 rOpenSci needs contributors and we’d love to help you figure out where you fit. We welcome code and non-code contributions from novices, experts, and the “nexperts” in between, at any career stage in any sector. You don’t have to be a developer! Maybe you want to spend one hour learning by attending a Community Call, or five hours reviewing an R package submitted for open peer review, or maybe you want to make an ongoing commitment to help maintain a package.
 
 rOpenSci creates technical infrastructure for open and reproducible research in the form of carefully vetted, staff- and community-contributed R software tools that lower barriers to working with scientific data. We are changing the game for online coding communities by creating a welcoming environment where you’ll find users and developers from different backgrounds and skill levels, learning, sharing ideas and innovating together.
@@ -20,7 +18,8 @@ The **purpose of this guide** is to help you recognize yourself as a potential c
 *   Get the software you use to work the way you want it to 
 *   Get more users for your package
 
-_“My life took a turn thanks to rOpenSci - the community I was welcomed into there gave me deep friendships, new skills & confidence to get out of my comfort zone. And the #rstats world as a whole is better for rOpenSci’s existence.” [Jennifer Thompson](https://twitter.com/jent103/status/1232460524031545344)_
+> My life took a turn thanks to rOpenSci - the community I was welcomed into there gave me deep friendships, new skills & confidence to get out of my comfort zone. And the #rstats world as a whole is better for rOpenSci’s existence. [Jennifer Thompson](https://twitter.com/jent103/status/1232460524031545344)
+
 
 ## Common ways people contribute:
 
@@ -31,8 +30,8 @@ _“My life took a turn thanks to rOpenSci - the community I was welcomed into t
 *   Participate in open software peer review - submit your package or review a package
 *   Attend a Community Call
 
-“_Just learned that the webchem package was cited in a paper by a group of oncologists. It totally made my morning to think that my code might someday contribute a teensy tiny bit to better treatments for cancer._” [Eric Scott](https://twitter.com/LeafyEricScott/status/1273605411577442304)
+> Just learned that the webchem package was cited in a paper by a group of oncologists. It totally made my morning to think that my code might someday contribute a teensy tiny bit to better treatments for cancer.  [Eric Scott](https://twitter.com/LeafyEricScott/status/1273605411577442304)
 
 Our community is our best asset. We support you with an enforceable [Code of Conduct](https://ropensci.org/code-of-conduct/) that has clear guidelines for reporting and is backed by a 3-person committee. 
 
-Read Chapter 2 to find your fit and choose your adventure or jump to Chapter 3 to find the resources that will help you contribute. 
+Read [Chapter X](#motivations) to find your fit and choose your adventure or jump to [Chapter X](#resources) to find the resources that will help you contribute. 

@@ -2,10 +2,40 @@
 
 short preamble
 
+## Our Mission {#mission}
+
+content
+
+## Our Community {#community}
+
+content
+
+
 ## Communication channels {#channels}
 The rOpenSci team and community members live and work on the internet across many timezones. We connect and contribute online through multiple channels that offer different levels of interaction and contribution.
 
 Table of channels (see gdoc)
+
+content
+
+## Blog {#blog}
+
+content
+
+
+## Community Calls {#commcalls}
+
+content
+
+
+## Packages and their documentation {#packages}
+
+content
+
+
+## Use cases {#usecases}
+
+content
 
 
 
@@ -28,7 +58,8 @@ Read how our dev guide has been used in the wild in a manuscript review: [When S
 
 #### Volunteer to review a package {#review}
 
-_“As a useR, you are qualified as a potential package reviewer if you have some appreciation for what makes your favourite packages useful.” Miles McBain in [Where is the value in package peer review?](https://ropensci.org/blog/2018/04/06/peer-review-value/)_
+> As a useR, you are qualified as a potential package reviewer if you have some appreciation for what makes your favourite packages useful. Miles McBain in [Where is the value in package peer review?](https://ropensci.org/blog/2018/04/06/peer-review-value/)
+
 
 The guide answers the question, [Why review packages for rOpenSci?](https://devguide.ropensci.org/softwarereviewintro.html#whyreview) Are you wondering what it’s like to review a package for the first time, or how long it might take? Read [blog posts with the “reviewer” tag](https://ropensci.org/tags/reviewer/). Many people review an R package before ever making one. Check out the [list of past reviewers](https://devguide.ropensci.org/softwarereviewintro.html#reviewers). Maybe you know one of them and can ask about their experience. 
 
@@ -45,4 +76,21 @@ Once you’ve submitted your package and an editor has assigned reviewers, the p
 Out of scope for now but maybe [link to issue](https://github.com/ropensci/dev_guide/issues/115) or a tech note coming soon
 
 
+## Statistical software peer review {#statspeerreview}
 
+content
+
+
+## Blog guide {#blogguide}
+
+content
+
+
+## Issues list {#issues}
+
+content 
+
+
+## Wish list {#wishlist}
+
+content

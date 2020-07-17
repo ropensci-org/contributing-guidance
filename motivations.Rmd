@@ -1,6 +1,10 @@
 # What brings you here? {#motivations}
 
+short preamble
+
 ## I want to feel like I belong to a community 
+
+content
 
 ## I want to learn {#learn}
 
@@ -95,7 +99,7 @@ Figure out how to get my package on CRAN and how to have it remain there
 
 content
 
-## I want to discover and use tools and best practices
+## I want to discover tools and best practices
 
 content
 
