@@ -2,7 +2,7 @@
 
 Welcome. We’re so happy you’re here!
 
-rOpenSci needs contributors and we’d love to help you figure out where you fit. We welcome code and non-code contributions from novices, experts, and the “nexperts” in between, at any career stage in any sector. You don’t have to be a developer! Maybe you want to spend one hour learning by attending a Community Call, or five hours reviewing an R package submitted for open peer review, or maybe you want to make an ongoing commitment to help maintain a package.
+rOpenSci needs contributors and we’d love to help you figure out where you fit. We welcome code and non-code contributions from novices, experts, and those in between, at any career stage in any sector. You don’t have to be a developer! Maybe you want to **spend one hour** learning by attending a Community Call, **or five hours** reviewing an R package submitted for open peer review, **or maybe you want to make an ongoing commitment** to help maintain a package.
 
 rOpenSci creates technical infrastructure for open and reproducible research in the form of carefully vetted, staff- and community-contributed R software tools that lower barriers to working with scientific data. We are changing the game for online coding communities by creating a welcoming environment where you’ll find users and developers from different backgrounds and skill levels, learning, sharing ideas and innovating together.
 
@@ -34,4 +34,4 @@ The **purpose of this guide** is to help you recognize yourself as a potential c
 
 Our community is our best asset. We support you with an enforceable [Code of Conduct](https://ropensci.org/code-of-conduct/) that has clear guidelines for reporting and is backed by a 3-person committee. 
 
-Read [Chapter X](#motivations) to find your fit and choose your adventure or jump to [Chapter X](#resources) to find the resources that will help you contribute. 
+Read [What brings you here?](#motivations) to find your fit and choose your adventure or jump to [rOpenSci resources](#resources) to find the resources that will help you contribute. 
