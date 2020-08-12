@@ -1,0 +1,18 @@
+## Our Mission {#mission}
+
+Our work is driven by [our vision and mission](https://ropensci.org/about/).
+
+rOpenSci fosters a culture that values **open and reproducible research** using shared data and reusable software.
+
+We do this by:
+
+- Creating technical **infrastructure** in the form of carefully vetted, staff- and community-contributed R software tools that lower barriers to working with scientific data sources on the web
+- Creating social infrastructure through a welcoming and diverse **community**
+- Making the right data, tools and best practices more **discoverable**
+- Building **capacity** of software users and developers and fostering a sense of pride in their work
+- Promoting **advocacy** for a culture of data sharing and reusable software.
+
+Our goal is to build confidence and a sense of belonging for people of all backgrounds, particularly those who might not see themselves as software developers (as many scientists may not!). We do this through building trust and establishing shared norms for working openly, leveraging and creating open source software and resources that support open, reproducible science.
+
+
+> “Everyone in the community, no matter how accomplished they are in their own specialty, comes with a mind open to learning from, with, and for each other. We learn from others by using their code and documentation, their blogs and tutorials, their talks and webinars. We learn with others online through Twitter, discussion forums and Slack channels, and in person through coding clubs, hacky hours, meetups, workshops and conferences. And we learn for others by writing tutorials and blogs about our own learning processes, or adding or fulfilling feature requests, which we can then contribute back to the community.” - <https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/>

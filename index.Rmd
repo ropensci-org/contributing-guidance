@@ -18,9 +18,31 @@ favicon: "favicon/favicon.ico"
 
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/us/88x31.png" /></a><br /> This work is licensed under [a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 United States License](https://creativecommons.org/licenses/by-nc-sa/3.0/us/).
 
-
 # Welcome! {#welcome}
 
-# Preface {-}
+Includes title, authors - Stefanie Butland & Steffi LaZerte, the text below, licence, thank contributors (Julia Stewart Lowndes, Scott Chamberlain, Karthik Ram, Noam Ross, Maelle Salmon)
 
-_We appreciate the feedback and contributions from [Scott Chamberlain] [Karthik Ram] [Noam Ross] [Maëlle Salmon]. Please tell us if we forgot to acknowledge your contribution!_ 
+We’re so happy you found your way here!
+
+The purpose of this guide is to welcome you to rOpenSci and help you recognize yourself as a potential contributor. It will help you figure out what you might gain by giving your time, expertise, and experience, match your needs with things that will help rOpenSci’s mission, and connect you with resources to help you along the way. 
+
+rOpenSci creates technical and community infrastructure for open and reproducible research that lowers barriers to working with scientific data in R. Our staff and community actively foster a welcoming environment where users and developers from different backgrounds and skill levels learn, share ideas and innovate together openly through shared norms and software. Participation in all rOpenSci activities is supported by our [Code of Conduct](#conduct).
+
+We welcome code and non-code contributions from new and seasoned coders at any career stage, and in any sector. You don’t have to be a developer! Maybe you want to spend 30 minutes sharing your package use case in our public forum or reporting a bug, one hour learning by attending a Community Call, five hours reviewing an R package submitted for open peer review, or maybe you want to make an ongoing commitment to help maintain a package.
+
+What are some benefits of contributing?
+Connect with a community  who shares your interest in making science more open
+Learn from people outside your domain who use R with challenges similar to yours
+Ask new research questions by getting to know new software tools and allies
+Feel confident and supported in your efforts to write code and develop software
+Gain visibility for your open source work
+Improve the software you use or built
+Level up your R skills
+Level up your writing skills
+Get more exposure for your package
+
+Read [rOpenSci & Our Community](#intro) for an introduction to our mission, what it means to be part of our community, and to meet some of the [Humans of rOpenSci](#humans).
+
+Browse [What brings you here?](#motivations) to find which “I want to …” statements fit you best and choose your path! 
+
+Or jump directly into [Resources](#resources) to find the rOpenSci resources that will guide your contributions.
