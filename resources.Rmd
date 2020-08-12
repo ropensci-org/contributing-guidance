@@ -37,6 +37,6 @@ short preamble
 ```{r child="rsrc_statsreview.Rmd", echo=FALSE}
 ```
 
+<!-- Currently not evaluated, so not added (This comment can't be in the code block or rmarkdown complains-->
 ```{r child="rsrc_wishlist.Rmd", echo=FALSE, eval = FALSE}
-# Currently not evaluated, so not added
 ```
