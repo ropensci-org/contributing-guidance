@@ -1,0 +1,42 @@
+## The Dev Guide: Development, maintenance, and peer review of rOpenSci packages {#devguide}
+
+Our online guide “[rOpenSci Packages: Development, Maintenance, and Peer Review](https://devguide.ropensci.org/)” a.k.a. the “Dev Guide”, is an invaluable resource for authors, maintainers, reviewers and editors of rOpenSci packages.
+
+rOpenSci has been running a software peer review system since 2015 to combine the best of academic peer review with software review. Having robust and reliable software tools is an important component of supporting open science and open research. The Dev Guide was developed as a resource to help support and streamline these efforts and to promote best practices. It contains a huge amount of information on best practices including:
+
+*   [Creating and testing packages](https://devguide.ropensci.org/building.html)
+*   [Continuous integration](https://devguide.ropensci.org/ci.html)
+*   [Package Security](https://devguide.ropensci.org/package-development-security-best-practices.html) 
+*   [Reviewer guide](https://devguide.ropensci.org/softwarereviewintro.html)
+*   <span style="text-decoration:underline;">C[ollaborating on package maintenance](https://devguide.ropensci.org/collaboration.html)</span>
+*   [Changing package maintainers](https://devguide.ropensci.org/changing-maintainers.html)
+*   [Releasing packages](https://devguide.ropensci.org/releasing.html)
+*   [CRAN Gotchas](https://devguide.ropensci.org/building.html#crangotchas)
+*   and much more…!
+
+**_Compelling statement from Noam about benefits of reviewing/submitting/maintaining packages._**
+
+Read how our dev guide has been used in the wild in a manuscript review: [When Standards Go Wild - Software Review for a Manuscript](https://ropensci.org/blog/2019/04/18/wild-standards/), and in the core curriculum of a Master of Data Science program: [Using rOpenSci Software Peer Review Guidelines for Teaching](https://ropensci.org/blog/2019/08/27/software-peer-review-guidelines-for-teaching/), by Tiffany Timbers.
+
+> “As a useR, you are qualified as a potential package reviewer if you have some appreciation for what makes your favourite packages useful.”, _Miles McBain in [Where is the value in package peer review?](https://ropensci.org/blog/2018/04/06/peer-review-value/)_
+
+Are you wondering what it’s like to review a package for the first time, or how long it might take? Explore the Dev Guides sections on [Why submit your package to rOpenSci? a](https://devguide.ropensci.org/softwarereviewintro.html#whysubmit)nd [Guide for Reviewers](https://devguide.ropensci.org/reviewerguide.html). Read [blog posts with the “reviewer” tag](https://ropensci.org/tags/reviewer/). Many people review an R package before ever making one. Check out the [list of past reviewers](https://devguide.ropensci.org/softwarereviewintro.html#reviewers). Maybe you know one of them and can ask about their experience. 
+
+If you’re interested in submitting a package for peer-review, read the Dev Guide section [Why review packages for rOpenSci?](https://devguide.ropensci.org/softwarereviewintro.html#whyreview) or read [blog posts with the “software-peer-review” tag](https://ropensci.org/tags/software-peer-review/) to get the perspectives of authors whose packages have passed peer review as well as learn about the process itself.
+
+Once you’ve submitted your package and an editor has assigned reviewers, you and the reviewers will be invited to join rOpenSci’s Slack workspace where you can connect more directly with members of the rOpenSci community, including other reviewers, package authors, users, and the rOpenSci staff and leadership team.
+
+When you submit your package for review, consider also publishing a journal article about your package. You can submit such a publication to a journal like [Methods in Ecology and Evolution](http://www.methodsinecologyandevolution.org/) _after_ you’ve completed your software review, or, you can [submit your package to rOpenSci for review and simultaneously](https://devguide.ropensci.org/guide-for-authors.html) submit an article to the [Journal of Open Source Software (JOSS)](https://joss.theoj.org/).
+
+Sometimes package maintainers find that maintaining a package is no longer feasible. As such, rOpenSci works hard to find new maintainers for existing packages. If you think you might be interested, the Dev Guide Chapter on [Changing Maintainers](https://devguide.ropensci.org/changing-maintainers.html) is a good place to start. If taking on a whole package seems like a bit much, checkout our Section here on [“Issues”](#issues) to find specific issues you could help tackle in a package.
+
+
+### How to contribute
+
+*   **Learn about reviewer guidelines. **Read the [Guide for Reviewers](https://devguide.ropensci.org/reviewerguide.html)
+*   **Volunteer to review a package**. Fill out [this form to get started](https://ropensci.org/onboarding/). You’ll be contacted by an editor when a submitted package fits your profile. First-time reviewers are always paired with more experienced reviewers who can provide guidance if needed. 
+*   **Submit your package for peer review**. Read the [Guide for Authors](https://devguide.ropensci.org/guide-for-authors.html) and then submit a Pre-submission inquiry to the [onboarding GitHub Repository](https://github.com/ropensci/software-review/issues) to see if your package is in scope for rOpenSci.
+*   **Publish a paper about your package.** Choose to publish [simultaneously](https://devguide.ropensci.org/guide-for-authors.html) in the Journal of Open Source Software or after your package has gone through review to Methods in Ecology and Evolution.
+*   **Volunteer to maintain a package**. Check out the [rOpenSci Newsletter](https://news.ropensci.org/), the last section is a “Call For Maintainers” and consists of a list of packages specifically looking for maintainers.
+*   **Request a co-maintainer for your package. Post a request in the  #package-maintenance Slack channel**
+*   **Make your package easilymore citable** (check out this issue for the discussion)

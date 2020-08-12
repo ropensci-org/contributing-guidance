@@ -1,0 +1,8 @@
+## Community Contributing Guide {#contributing}
+
+This book you’re reading right now is the rOpenSci Community Contributing Guide. {insert purpose statement from Welcome}
+
+### How to contribute
+
+*   **Is there something you would like to contribute that isn’t addressed in the guide?** Open an issue in the GitHub repo for the Guide and tag our Community Manager Stefanie Butland, or ping her on Slack or by email to discuss your idea. 
+*   **Submit a typo fix or clarification**

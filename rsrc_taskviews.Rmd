@@ -1,0 +1,18 @@
+## Task Views {#taskviews}
+
+Task Views are excellent resources for guidance on which packages are relevant to a certain topic. They can include sections like data retrieval, visualization, manipulation, and analysis. Here we list some [task views](https://github.com/topics/task-view) maintained by rOpenSci staff and community members. They contain packages that are on CRAN and/or on GitHub.
+
+**[Taxonomy](https://github.com/ropensci/taxonomy/blob/master/README.md)**, maintained by Scott Chamberlain, contains information on retrieving and manipulating taxonomic data in R.
+
+**[Antarctic and Southern Ocean Science](https://github.com/SCAR/ropensci/blob/master/task_view/README.md)**, maintained by Ben Raymond, covers a diverse range of topics within the geosciences, life sciences, physical sciences, and humanities and social sciences of particular interest to Antarctic and Southern Ocean researchers. 
+
+**[Hydrological Data and Modeling](https://github.com/ropensci/Hydrology/blob/master/README.md)**, maintained by Sam Zipper, Sam Albers, Ilaria Prosdocimi, contains information about packages broadly relevant to hydrology, defined as the movement, distribution and quality of water and water resources over a broad spatial scale of landscapes. The maintainers built on this task view in a [blog post](https://ropensci.org/blog/2019/04/02/hydrology-task-view/).
+
+**[Archaeological Science](https://github.com/benmarwick/ctv-archaeology/blob/master/README.md)**, maintained by Ben Marwick, contains packages useful for scientific work in Archaeology, grouped by topic. 
+
+**[Web Technologies and Services](https://github.com/ropensci/webservices/blob/master/README.md)**, maintained by Scott Chamberlain, Thomas Leeper, Patrick Mair, Karthik Ram, and Christopher Gandrud, contains information about how to use R and the world wide web together. It focuses on packages for obtaining web-based data and information, frameworks for building web-based R applications, and online services that can be accessed from R. You can contribute to Task Views by taking a look at the project’s contributing guide, then comment in the issue to discuss your approach with the maintainer. Create a pull request and submit your proposed changes! However, if you have a problem with one of the packages discussed it’s best to contact the maintainer of that package directly.
+
+### How to contribute
+
+*   **Browse existing Task Views**
+*   **Make a pull request to add packages or details**

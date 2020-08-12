@@ -9,3 +9,34 @@ short preamble
 
 ```{r child="rsrc_channels.Rmd", echo=FALSE}
 ```
+
+```{r child="rsrc_commcalls.Rmd", echo=FALSE}
+```
+
+```{r child="rsrc_blog.Rmd", echo=FALSE}
+```
+
+```{r child="rsrc_blogguide.Rmd", echo=FALSE}
+```
+
+```{r child="rsrc_packages.Rmd", echo=FALSE}
+```
+
+```{r child="rsrc_taskviews.Rmd", echo=FALSE}
+```
+
+```{r child="rsrc_usecases.Rmd", echo=FALSE}
+```
+
+```{r child="rsrc_issues.Rmd", echo=FALSE}
+```
+
+```{r child="rsrc_devguide.Rmd", echo=FALSE}
+```
+
+```{r child="rsrc_statsreview.Rmd", echo=FALSE}
+```
+
+```{r child="rsrc_wishlist.Rmd", echo=FALSE, eval = FALSE}
+# Currently not evaluated, so not added
+```
