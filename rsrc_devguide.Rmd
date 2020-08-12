@@ -8,7 +8,7 @@ rOpenSci has been running a software peer review system since 2015 to combine th
 *   [Continuous integration](https://devguide.ropensci.org/ci.html)
 *   [Package Security](https://devguide.ropensci.org/package-development-security-best-practices.html) 
 *   [Reviewer guide](https://devguide.ropensci.org/softwarereviewintro.html)
-*   <span style="text-decoration:underline;">C[ollaborating on package maintenance](https://devguide.ropensci.org/collaboration.html)</span>
+*   [Collaborating on package maintenance](https://devguide.ropensci.org/collaboration.html)
 *   [Changing package maintainers](https://devguide.ropensci.org/changing-maintainers.html)
 *   [Releasing packages](https://devguide.ropensci.org/releasing.html)
 *   [CRAN Gotchas](https://devguide.ropensci.org/building.html#crangotchas)
