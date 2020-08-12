@@ -3,18 +3,8 @@
 short preamble
 
 
-```{r child="2_discover.Rmd", echo=FALSE}
+```{r child="mtv_discover.Rmd", echo=FALSE}
 ```
 
-```{r child="2_connect.Rmd", echo=FALSE}
-```
-
-```{r child="2_learn.Rmd", echo=FALSE}
-```
-
-```{r child="2_influence.Rmd", echo=FALSE}
-```
-
-
-```{r child="2_help.Rmd", echo=FALSE}
+```{r child="mtv_connect.Rmd", echo=FALSE}
 ```
