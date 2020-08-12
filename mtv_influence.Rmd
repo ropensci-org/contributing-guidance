@@ -1,0 +1,59 @@
+## Influence {#influence}
+
+_Stef to write preamble_
+
+This refers to influencing package development (and documentation) and things like categories and criteria for stats peer reivew
+
+**I want to:**
+
+Influence package development
+
+*   [**Volunteer to review a package**](#devguide)
+*   [**Report a bug**](#packages) in an rOpenSci package
+*   [**Make a feature request**](#packages)
+*   [**Make a pull request**](#packages) to fix a bug or add a feature
+
+Improve and promote open science in my field
+
+*   [**Volunteer to review a package**](#devguide)
+*   Contribute to or make a task view
+*   Develop a package and [**submit it for peer review**](#devguide) if it is in scope for rOpenSci
+*   [**Recommend topics or speakers for Community Calls**](#commcalls)
+*   [**Help organize a Community Call**](#commcalls)
+*   [**Write a personal blog post about using rOpenSci packages**](#packages)
+*   [**Cite rOpenSci packages in manuscripts and presentations**](#packages)
+
+Promote best practices for R development
+
+*   [**Engage with us on Twitter**](#channels). Amplify best practices from our social media to your networks
+*   [**Ask or answer questions**](#channels) in the the “Best Practices” category in our forum or on Slack
+*   **Propose your idea for a blog post or tech note** about the development of your rOpenSci package or your implementation of best practices** **(see both the [Blog](#blog) and the [Blog Guide](#blogguide))
+*   [**Recommend topics or speakers for Community Calls**](#commcalls)
+*   [**Help organize a Community Call**](#commcalls)
+
+Promote software citations
+
+*   [**Cite rOpenSci packages in manuscripts and presentations**](#packages)
+*   [**Make a pull request**](#packages) to add/update a citation file in an rOpenSci package
+*   [**Encourage your colleagues to cite software**](#packages)
+
+Improve package documentation and examples
+
+*   [**Review documentation**](#packages)
+*   [**Write a vignette/article for a package**](#packages)
+*   [**Share a use case**](#usecases)
+*   [**Encourage your peers to submit use cases**](#usecases)
+*   [**Make a pull request**](#packages) to add/fix examples or to add/clarify documentation
+
+Get more visibility and more users for my rOpenSci package
+
+*   [**Make your package more citable**](#devguide)
+*   [**Publish a paper about your package**](#devguide)
+*   [**Write a personal blog post about your package**](#packages)
+*   Propose your idea for a blog post or tech note about your package (see both the [Blog](#blog) and the [Blog Guide](#blogguide))
+
+Get people to work on open issues in my rOpenSci package
+
+*   [**Label your issues**](#issues) 
+*   [**Include future plans for your package**](#issues)
+*   [**Request a co-maintainer for your package**](#devguide). Bringing on an additional maintainer can be a way to manage the volume of work, work through issues, and increase package sustainability.

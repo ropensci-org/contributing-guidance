@@ -8,3 +8,12 @@ short preamble
 
 ```{r child="mtv_connect.Rmd", echo=FALSE}
 ```
+
+```{r child="mtv_learn.Rmd", echo=FALSE}
+```
+
+```{r child="mtv_influence.Rmd", echo=FALSE}
+```
+
+```{r child="mtv_help.Rmd", echo=FALSE}
+```

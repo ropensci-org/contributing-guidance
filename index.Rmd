@@ -19,6 +19,8 @@ favicon: "favicon/favicon.ico"
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/us/88x31.png" /></a><br /> This work is licensed under [a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 United States License](https://creativecommons.org/licenses/by-nc-sa/3.0/us/).
 
 
+# Welcome! {#welcome}
+
 # Preface {-}
 
 _We appreciate the feedback and contributions from [Scott Chamberlain] [Karthik Ram] [Noam Ross] [Maëlle Salmon]. Please tell us if we forgot to acknowledge your contribution!_ 

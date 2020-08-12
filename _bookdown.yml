@@ -5,6 +5,8 @@ output_dir: docs
 language:
   ui:
     chapter_name: "Chapter "
-rmd_files: ["index.Rmd", "welcome.Rmd",
-            "motivations.Rmd", "resources.Rmd"]
+rmd_files: ["index.Rmd", 
+            "intro.Rmd",
+            "motivations.Rmd", 
+            "resources.Rmd"]
             
