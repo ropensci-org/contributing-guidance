@@ -36,7 +36,7 @@ The benefit of posting to our forum, rather than our semi-closed Slack space or 
 We use Slack as a semi-closed space for communications among people who have made specific contributions to rOpenSci. Read [our definition of community contributions](#community) and become a contributor! The benefit of Slack is the ability to access experts and more experienced folks. People consider it an easier place to ask questions or explore ideas because while it has over 500 members, it’s not fully “in the open”. People join Slack by invitation from rOpenSci staff, a software review editor, or a strategic advisor. 
 
 
-### How to contribute?  {#how-to-contribute}
+### How to contribute?
 
 *   **Read our [Code of Conduct ](https://ropensci.org/code-of-conduct/)**to ensure you are ready to participate
 *   **Follow [rOpenSci on Twitter](https://twitter.com/rOpenSci)**

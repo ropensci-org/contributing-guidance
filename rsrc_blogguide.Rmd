@@ -1,0 +1,11 @@
+## Blog Guide {#blogguide}
+
+Our [Blog Guide](https://blogguide.ropensci.org/) is written to help authors and editors of blog posts and tech notes for the rOpenSci website to address many frequently asked questions, and frequently given suggestions. We created it after reviewing and publishing over 100 posts by community members.
+
+Chapter 1 coaches you in thinking through what you might say in a post and points to examples on different themes. Chapter 2 provides detailed technical guidelines for submitting a post - from drafting in an R Markdown or Markdown template to submitting it for review using GitHub pull request infrastructure. We provide templates, code snippets, our style guide, and checklists to help. One chapter provides some motivation for doing the extra work to contribute a post by outlining what we do to promote it to our large audience. Another outlines how to respond to an editor’s review of your draft post.
+
+
+### How to contribute?
+
+*   See a typo or something that’s not clear in the Blog Guide? **Submit a correction.** Open an issue in the repository or make a pull request with your suggestion and our Community Manager will review it. GitHub has helpful [documentation](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests) for [opening issues](https://docs.github.com/en/github/managing-your-work-on-github/managing-your-work-with-issues) and [making pull requests](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork).
+*   Propose your idea for a blog post or tech note (where?) after reading about our [blog themes](#blog) and browsing our [blog guide](https://blogguide.ropensci.org/).
