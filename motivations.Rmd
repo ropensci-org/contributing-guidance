@@ -2,34 +2,19 @@
 
 short preamble
 
-## Connect {#connect} 
 
-content
+```{r child="2_discover.Rmd", echo=FALSE}
+```
 
-## Learn {#learn}
+```{r child="2_connect.Rmd", echo=FALSE}
+```
 
-short preamble
+```{r child="2_learn.Rmd", echo=FALSE}
+```
 
-**I want to: **
+```{r child="2_influence.Rmd", echo=FALSE}
+```
 
-### Improve my R skills
 
-
-*   Sign up to [review a package](#review)
-*   [Submit your package](#submit) for open peer review
-
-### Review a package
-
-*   action text
-
-## Discover {#discover}
-
-content
-
-## Influence {#influence}
-
-content
-
-## Help {#help}
-
-content
+```{r child="2_help.Rmd", echo=FALSE}
+```
