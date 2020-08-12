@@ -1,5 +1,4 @@
-
-### 2.1 Discover {#discover}
+## Discover {#discover}
 
 Stef to write preamble
 

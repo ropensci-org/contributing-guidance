@@ -1,4 +1,4 @@
-### 2.2 Connect {#connect}
+## Connect {#connect}
 
 Stef to write preamble
 
