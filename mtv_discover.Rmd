@@ -10,7 +10,7 @@ Discover packages I can use to facilitate my research
 
 *   [**Browse rOpenSci packages**](#packages)
 *   [**Explore use cases for rOpenSci packages**](#usecases)
-*   [**Read blog posts or tech notes**](#blog-usecase) about creative use cases for multiple rOpenSci packages
+*   [Read blog posts or tech notes](#blog-usecase) about creative use cases for multiple rOpenSci packages
 *   [**Read blog posts or tech notes**](#blog) about rOpenSci packages
 *   Explore task views 
 *   [**Follow rOpenSci on Twitter**](#channels)
