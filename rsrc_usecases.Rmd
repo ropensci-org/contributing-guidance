@@ -1,4 +1,4 @@
-### Use cases {#usecases}
+## Use cases {#usecases}
 
 
 You can **find use cases** for rOpenSci packages and resources in [our public forum UseCases category](https://discuss.ropensci.org/c/usecases/10). 
