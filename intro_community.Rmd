@@ -28,7 +28,7 @@ rOpenSci was **founded** in 2011 by Karthik Ram, Scott Chamberlain, and Carl Boe
 
 Get to know some of the **more experienced folks in our community** by reading the [.Rprofile series of posts](https://ropensci.org/tags/rprofile/) for which Kelly O’Briant interviewed Mara Averick, Jenny Bryan, Julia Stewart Lowndes, Karthik Ram, Julia Silge, and David Smith.
 
-Over [150 people have reviewed](https://devguide.ropensci.org/softwarereviewintro.html#editors-and-reviewers)** packages** by XX **package authors**. XX people have made code and non-code contributions (measured as GitHub commits in ropensci & ropenscilabs orgs). 
+Over [150 people have reviewed](https://devguide.ropensci.org/softwarereviewintro.html#editors-and-reviewers) **packages** by XX **package authors**. XX people have made code and non-code contributions (measured as GitHub commits in ropensci & ropenscilabs orgs). 
 
 More than 35 people have presented in our Community Calls that have been attended by people in xx countries. 
 
