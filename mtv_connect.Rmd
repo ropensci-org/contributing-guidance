@@ -2,7 +2,9 @@
 
 An implicit value in participating in rOpenSci is the connections people make with other scientists, R users, developers, or research software engineers who want to do their research in a more open and reproducible fashion. The rOpenSci community is a welcoming place to connect with like-minded people who share interests and values and a motivation to develop the related skills, techniques, and practices. 
 
-> [Hey! You there! You are welcome here](https://ropensci.org/blog/2017/06/23/community/), Shannon Ellis
+> Hey! You there! You are welcome here
+> 
+> Shannon Ellis in [Hey! You there! You are welcome here](https://ropensci.org/blog/2017/06/23/community/)
 
 Scan the “I want to” statements below to find something that interests you. Click on any action under a statement to go to a description of the relevant rOpenSci resource with details on how to contribute.
 

@@ -58,6 +58,10 @@ Between 2014 and 2019 we held in-person hackathon-flavored unconferences - five 
 
 Rest assured, we’re pondering how to continue building this trust network through collaborative online events.
 
-> The rOpenSci model has contributed much hidden skills and relationship infrastructure that has helped #rstats flourish. It's been a delight to participate in this and see people that got a start at an unconf gain confidence and grow into heavyweight community contributors and leaders over the years. [Miles McBain](twitter.com/MilesMcBain/status/1232458838307065858)
+> The rOpenSci model has contributed much hidden skills and relationship infrastructure that has helped #rstats flourish. It's been a delight to participate in this and see people that got a start at an unconf gain confidence and grow into heavyweight community contributors and leaders over the years.
+>
+> [Miles McBain on Twitter](twitter.com/MilesMcBain/status/1232458838307065858)
 
-> My life took a turn thanks to rOpenSci - the community I was welcomed into there gave me deep friendships, new skills & confidence to get out of my comfort zone. And the #rstats world as a whole is better for rOpenSci’s existence. [Jennifer Thompson](https://twitter.com/jent103/status/1232460524031545344)
+> My life took a turn thanks to rOpenSci - the community I was welcomed into there gave me deep friendships, new skills & confidence to get out of my comfort zone. And the #rstats world as a whole is better for rOpenSci’s existence.
+> 
+> [Jennifer Thompson on Twitter](https://twitter.com/jent103/status/1232460524031545344)

@@ -35,7 +35,9 @@ FOR CITING - STEF we need to decide where to point for citations info. SCOTT if 
 *   **Browse citations of rOpenSci packages** to find interesting applications
 *   **Cite rOpenSci packages in manuscripts and presentations** and **encourage your colleagues to cite software**. Manuscript citations will appear on our packages page.
 
-> Just learned that the webchem package was cited in a paper by a group of oncologists. It totally made my morning to think that my code might someday contribute a teensy tiny bit to better treatments for cancer. [Eric Scott](https://twitter.com/LeafyEricScott/status/1273605411577442304) 
+> Just learned that the webchem package was cited in a paper by a group of oncologists. It totally made my morning to think that my code might someday contribute a teensy tiny bit to better treatments for cancer.
+> 
+> [Eric Scott on Twitter](https://twitter.com/LeafyEricScott/status/1273605411577442304) 
 
 *   **Write a post about using rOpenSci packages** on your own blog
 *   [Report a bug by opening an issue](#channels-github). If you’re asking for R help, reporting a bug, or requesting a new feature, you’re more likely to succeed if you include a good [reprex](https://reprex.tidyverse.org/articles/reprex-dos-and-donts.html) (a reproducible example).
