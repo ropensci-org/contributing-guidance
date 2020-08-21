@@ -1,6 +1,6 @@
 --- 
 title: "rOpenSci Community Contributing Guide"
-author: "Stefanie Butland"
+author: "Stefanie Butland and Steffi LaZerte"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
@@ -15,10 +15,6 @@ apple-touch-icon-size: 120
 favicon: "favicon/favicon.ico"
 ---
 # Welcome! {-}
-
-<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/us/88x31.png" /></a><br /> This work is licensed under [a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 United States License](https://creativecommons.org/licenses/by-nc-sa/3.0/us/).
-
-Includes title, authors - Stefanie Butland & Steffi LaZerte, the text below, licence, thank contributors (Julia Stewart Lowndes, Scott Chamberlain, Karthik Ram, Noam Ross, Maelle Salmon)
 
 We’re so happy you found your way here!
 
@@ -44,3 +40,9 @@ Read [rOpenSci & Our Community](#intro) for an introduction to our mission, what
 Browse [What brings you here?](#motivations) to find which “I want to …” statements fit you best and choose your path! 
 
 Or jump directly into [Resources](#resources) to find the rOpenSci resources that will guide your contributions.
+
+Huge thanks to everyone who has contributed to this guide so far! (alphabetical order with community members followed by staff) Julia Stewart Lowndes, Toby Hodges, Scott Chamberlain, Jeroen Ooms, Karthik Ram, Noam Ross, Maelle Salmon
+
+Ackowledgements: NumFOCUS SDG grant, Nadia Eghbal’s thing for structure inspiration
+
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/us/88x31.png" /></a><br /> This work is licensed under [a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 United States License](https://creativecommons.org/licenses/by-nc-sa/3.0/us/).
