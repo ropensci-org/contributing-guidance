@@ -27,19 +27,24 @@ tribble(~Channel, ~Purpose,
 ```
 
 
-GitHub<div id="channels-github"></div>
+<div id="channels-github"></div>
+
+**GitHub**
 
 The majority of rOpenSci’s work happens on GitHub. In this Guide we use terms like “opening an issue” to refer to tracking ideas, enhancements, tasks, or bugs in a project, and “making a pull request” to submit your proposed fix or new feature. If you’d like some general information on the language and workflow of GitHub, see [Collaborating with issues and pull requests](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests). To learn about Markdown formatting for interacting with others in issues and pull requests see [Getting started with writing and formatting on GitHub](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github). For guidance on connecting R to GitHub we recommend Happy Git and GitHub for the useR - [https://happygitwithr.com/](https://happygitwithr.com/). 
 
 
-[Public discussion forum](https://discuss.ropensci.org/)<div id="channels-forum"></div>
+<div id="channels-forum"></div>
+
+[Public discussion forum](https://discuss.ropensci.org/)
 
 This is where we encourage people to have Q & A on a wide range of topics. The forum is organized in categories including [Use Cases](#usecases) where people post examples of how they’ve used rOpenSci packages, [Blog](#blog) where an entry is made every time a new post or tech note appears on our blog, [Statistical Software Peer Review](#statsreview) for discussion related to developing a software peer review system for statistical software in R, Antarctic for discussions about R in Antarctic and Southern Ocean science. It includes posts like "How do you hire data people in a fair and unbiased way?" in the Community category, to specific help requests about our packages like "Taxize: Get rank of lowest common taxon". 
 
 The benefit of posting to our forum, rather than our semi-open Slack space or by email, is that it is open for others to benefit, searchable within the forum, and discoverable by browser-based searches. Posting in the forum requires login and we encourage people to use their real names. 
 
+<div id="channels-slack"></div>
 
-Slack<div id="channels-slack"></div>
+**Slack**
 
 We use [Slack](https://slack.com/intl/en-ca/help/articles/115004071768-What-is-Slack-) as a semi-open space for communications among people who have made specific contributions to rOpenSci. These include people who:
 
@@ -57,7 +62,9 @@ People join Slack by invitation from our Community Manager, other staff, a softw
 
 The benefit of Slack is the ability to more directly access rOpenSci staff and community members, including some more experienced folks in channels like #software-review or #package-maintenance, or to watch for postings in #jobs. People consider it an easier place to ask questions or explore ideas because while it has over 500 members, it’s not fully “in the open”. We actively welcome new members and ensure that all conversations are collegial. 
 
-How to get help <div id="channels-help"></div>
+<div id="channels-help"></div>
+
+**How to get help**
 
 There is an etiquette to getting help and asking questions. We focus on using, developing, documenting code and infrastructure, and building community, as they specifically align with [our mission](#mission). 
 
