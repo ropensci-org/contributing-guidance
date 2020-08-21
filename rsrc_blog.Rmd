@@ -17,7 +17,7 @@ make_category <- function(category, posts) {
     ),
     "</ul>")
     
-   glue::glue("<li><details closed>\n<summary> <span title='Click to Expand'> {category} </span> </summary>\n{post_list}\n</details></li>")
+   glue::glue("<li><details closed>\n<summary> <span title='Click to Expand' class='blue'> {category} </span> </summary>\n{post_list}\n</details></li>")
 }
 posts <- readr::read_csv2("blog_themes/blog_themes.csv")
 cat(paste0(
