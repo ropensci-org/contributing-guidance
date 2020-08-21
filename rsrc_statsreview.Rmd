@@ -1,14 +1,15 @@
 ## Statistical Software Peer Review Book {#statsreview}
 
-We invite you to join us in developing standards for peer-reviewed evaluation of statistical software. Browse our free online book [rOpenSci Statistical Software Peer Review](https://ropenscilabs.github.io/statistical-software-peer-review/index.html). 
+We invite you to join us in developing new standards for peer-reviewed evaluation of statistical software. Learn about this work in progress at [rOpenSci Statistical Software Peer Review](https://ropenscilabs.github.io/statistical-software-peer-review/index.html). 
 
-rOpenSci runs software peer review for R packages focused on data life cycle management. To apply these processes to software implementing statistical methods and algorithms, we need new ways of evaluating and testing software, and managing the review process. This book serves as a home for collecting research and developing those standards, documenting not only our guidelines for statistical software but also the process of expanding the scope of review so it may be reproduced in other domains.
+Until recently, rOpenSci's software peer review program  focused on R packages for reproducible data life cycle management. To apply these processes to software implementing statistical methods and algorithms, we need new ways of evaluating and testing software, and of managing the review process, and to bring in new expert editors and reviewers. This book serves as a home for collecting research and developing those standards, documenting not only our guidelines for statistical software but also the process of expanding the scope of review so the general processes of software review may be adapted and reproduced in other domains.
 
 This work is [supported by the Sloan Foundation](https://ropensci.org/blog/2019/07/15/expanding-software-review/) and is organized under an R Consortium Working Group.
 
 
 ### How to contribute
 
-*   We welcome contributions to this project by filing suggestions as [issues in the book’s GitHub repository](https://github.com/ropenscilabs/statistical-software-peer-review/issues). 
-*   We’re actively seeking more input. These sections are highlighted in the [book](https://ropenscilabs.github.io/statistical-software-peer-review/index.html) with their titles in red and marked [SEEKING FEEDBACK].
-*   Browse the dedicated [area for discussion on the rOpenSci forum](https://discuss.ropensci.org/c/statistical-software-peer-review/28) and share your comments or questions.
+*   **Read our in-progress book** [rOpenSci Statistical Software Peer Review](https://ropenscilabs.github.io/statistical-software-peer-review/index.html) to familiarize yourself with standards and processes under development
+*   **Follow the discussion**. Browse the dedicated [area for discussion on the rOpenSci forum](https://discuss.ropensci.org/c/statistical-software-peer-review/28) or in the #stats-peer-review [Slack](#channels-slack) channel and share your comments or questions.
+*   **Make a suggestion**. We welcome contributions to the project either by filing suggestions as [issues in the book’s GitHub repository](https://github.com/ropenscilabs/statistical-software-peer-review/issues), or by submitting a pull request. 
+*   **Contact us** directly (via [Slack](#channels-slack) or our [contact form](https://ropensci.org/contact/)) to inquire about submitting a statistical software package for pre-review.

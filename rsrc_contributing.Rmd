@@ -1,8 +1,12 @@
 ## Community Contributing Guide {#contributing}
 
-This book you’re reading right now is the rOpenSci Community Contributing Guide. {insert purpose statement from Welcome}
+
+This book you’re reading right now is the [rOpenSci Community Contributing Guide](https://contributing.ropensci.org/). Its purpose is to welcome you to rOpenSci and help you recognize yourself as a potential contributor. It will help you figure out what you might gain by giving your time, expertise, and experience, match your needs with things that will help rOpenSci’s mission, and connect you with resources to help you along the way. 
+
+This Guide is an evolving document and we want people to tell us what’s missing or what’s not clear. 
+
 
 ### How to contribute
 
-*   **Is there something you would like to contribute that isn’t addressed in the guide?** Open an issue in the GitHub repo for the Guide and tag our Community Manager Stefanie Butland, or ping her on Slack or by email to discuss your idea. 
-*   **Submit a typo fix or clarification**
+*   **Submit a typo fix or clarification or tell us what’s missing**. Open an issue in the [GitHub repository for the Guide](https://github.com/ropensci-org/contributing-guidance) and tag our Community Manager [Stefanie Butland](https://github.com/stefaniebutland), or ping her on [Slack](#channels-slack) or via our [contact form](https://ropensci.org/contact/) to discuss your idea.
+*   **Contribute something that isn’t addressed in the guide**. Is there something you might like to contribute that isn’t addressed here? Open an issue in the [GitHub repository for the Guide](https://github.com/ropensci-org/contributing-guidance) and tag our Community Manager [Stefanie Butland](https://github.com/stefaniebutland), or ping her on [Slack](#channels-slack) or via our [contact form](https://ropensci.org/contact/) to discuss your idea. 
