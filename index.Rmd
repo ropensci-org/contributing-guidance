@@ -16,30 +16,32 @@ favicon: "favicon/favicon.ico"
 ---
 # Welcome! {-}
 
+
 We’re so happy you found your way here!
 
-The purpose of this guide is to welcome you to rOpenSci and help you recognize yourself as a potential contributor. It will help you figure out what you might gain by giving your time, expertise, and experience, match your needs with things that will help rOpenSci’s mission, and connect you with resources to help you along the way. 
+The **purpose of this guide** is to welcome you to rOpenSci and help you recognize yourself as a potential contributor. It will help you figure out what you might gain by giving your time, expertise, and experience; match your needs with things that will help rOpenSci’s mission; and connect you with resources to help you along the way. 
 
 rOpenSci creates technical and community infrastructure for open and reproducible research that lowers barriers to working with scientific data in R. Our staff and community actively foster a welcoming environment where users and developers from different backgrounds and skill levels learn, share ideas and innovate together openly through shared norms and software. Participation in all rOpenSci activities is supported by our [Code of Conduct](#conduct).
 
-We welcome code and non-code contributions from new and seasoned coders at any career stage, and in any sector. You don’t have to be a developer! Maybe you want to spend 30 minutes sharing your package use case in our public forum or reporting a bug, one hour learning by attending a Community Call, five hours reviewing an R package submitted for open peer review, or maybe you want to make an ongoing commitment to help maintain a package.
+We welcome code and non-code contributions from new and seasoned coders at any career stage, and in any sector. You don’t have to be a developer! Maybe you want to **spend 30 minutes** sharing your package use case in our public forum or reporting a bug, **one hour** learning by attending a Community Call, **five hours** reviewing an R package submitted for open peer review, **or maybe you want to make an ongoing commitment** to help maintain a package.
 
 What are some benefits of contributing?
-Connect with a community  who shares your interest in making science more open
-Learn from people outside your domain who use R with challenges similar to yours
-Ask new research questions by getting to know new software tools and allies
-Feel confident and supported in your efforts to write code and develop software
-Gain visibility for your open source work
-Improve the software you use or built
-Level up your R skills
-Level up your writing skills
-Get more exposure for your package
 
-Read [rOpenSci & Our Community](#intro) for an introduction to our mission, what it means to be part of our community, and to meet some of the [Humans of rOpenSci](#humans).
+*   Connect with a community  who shares your interest in making science more open
+*   Learn from people outside your domain who use R with challenges similar to yours
+*   Ask and answer new research questions by getting to know new software tools and allies
+*   Feel confident and supported in your efforts to write code and develop software
+*   Gain visibility for your open source work
+*   Improve the software you use or build
+*   Level up your R skills and help others level up theirs
+*   Level up your writing skills
+*   Get more exposure for your package
 
-Browse [What brings you here?](#motivations) to find which “I want to …” statements fit you best and choose your path! 
+Read [rOpenSci & Our Community](#intro) learn about our mission, what it means to be part of our community, and to meet some [Humans of rOpenSci](#humans).
 
-Or jump directly into [Resources](#resources) to find the rOpenSci resources that will guide your contributions.
+Browse [What brings you here?](#motivations) to find which “I want to …” statements fit you best and choose your path! To help you recognize yourself, we’ve grouped these into: [Discover](#discover); [Connect](#connect); [Learn](#learn); [Build](#build); [Help](#help). For each category, we list examples of what those contributions might look like and we link to our [resources](#resources) to help you get started. 
+
+Or jump directly into rOpenSci [Resources](#resources) to find descriptions and links to guide specific contributions.
 
 
 _Huge thanks to everyone who has contributed to this guide so far! (alphabetical order with community members followed by staff) Julia Stewart Lowndes, Toby Hodges, Scott Chamberlain, Jeroen Ooms, Karthik Ram, Noam Ross, Maelle Salmon_
