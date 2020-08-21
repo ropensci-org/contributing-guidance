@@ -4,7 +4,7 @@ An implicit value in participating in rOpenSci is the connections people make wi
 
 > [Hey! You there! You are welcome here](https://ropensci.org/blog/2017/06/23/community/)
 > 
-> Shannon Ellis' Blog Post
+> Shannon Ellis' rOpenSci blog post
 
 Scan the “I want to” statements below to find something that interests you. Click on any action under a statement to go to a description of the relevant rOpenSci resource with details on how to contribute.
 
