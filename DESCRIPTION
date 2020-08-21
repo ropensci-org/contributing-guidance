@@ -13,8 +13,11 @@ LazyData: true
 Roxygen: list(markdown = TRUE)
 Imports: 
     bookdown,
-    magrittr,
+    glue,
     kableExtra,
+    magrittr,
+    purrr,
+    readr,
     tibble
 URL: https://github.com/ropensci-org/contributing-guidance
 BugReports: https://github.com/ropensci-org/contributing-guidance/issues
