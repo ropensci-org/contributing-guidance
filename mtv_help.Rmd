@@ -1,34 +1,29 @@
 ## Help {#help}
 
-_Need to write preamble_
+One major motivation for contributing to rOpenSci is people’s desire to “give back” in appreciation of good software, good infrastructure, and a good community in which folks share their gratitude often and openly. The ways you can help rOpenSci and our community are limitless. We encourage people to support others by sharing their experience or expertise. Don’t underestimate the value of sharing your first-time experience doing a thing; that is an immense help to others who don’t yet recognize the value of their own contributions.
 
-Supporting others by sharing expertise & experience
+Scan the “I want to” statements below to find something that interests you. Click on any action under a statement to go to a description of the relevant rOpenSci resource with details on how to contribute.
 
-**I want to: **
+**I want to:**
 
-Support rOpenSci
+Support rOpenSci or give back to open source
 
-*   [**Read about our mission**](#mission)
-*   [**Use an rOpenSci package**](#packages)
-*   [**Tell your friends what you like about a package**](#packages)
-*   [**Cite rOpenSci packages in manuscripts and presentations**](#packages). Highlighting software and its maintainers will help promote the critical role software plays in research
-*   [**Encourage your colleagues to cite software**](#packages)
-*   [Engage with us on Twitter](#channels). Amplify best practices from our social media to your networks. Reply to or quote a tweet to share your experience or expertise on a topic.Amplify best practices from our social media to your networks
-*   [**Weigh in on tough technical issues on software review threads**](#devguide)
-*   [**Volunteer to review a package**](#devguide)
+*   [Read about our mission](#mission)
+*   [Tell a friend about an rOpenSci package that may be useful for their work](#packages)
+*   [Cite rOpenSci packages](#packages) in manuscripts and presentations and encourage your colleagues to cite software
+*   [Submit a use case](#usecases) for an rOpenSci package
+*   [Engage with us on Twitter](#channels). Amplify best practices from our social media to your networks. Reply to or quote a tweet to share your experience or expertise on a topic
+*   [Weigh in on tough technical issues on software review threads](#devguide)
+*   [Donate](https://ropensci.org/donate/) to rOpenSci
 
-Give back to open source
 
-*   [**Volunteer to review a package**](#devguide). Experienced reviewers may be paired with a first time reviewer as a mentor
-*   [**Answer questions**](#channels) in the forum or on Slack
-*   [**Submit a use case**](#usecases)
+Help other community members
 
-Help other members
+*   [Volunteer to review a package](#devguide). We appreciate having experienced reviewers who are willing to be paired with a first-time reviewer
+*   [Answer questions](#channels) in the forum or on [Slack](#channels-slack)
+*   [Support fellow community members](#channels) (e.g., by welcoming newcomers, giving credit, connecting members with people or resources)
 
-*   Mentor someone doing first pkg review
-*   [**Answer questions**](#channels) in the forum or on Slack
-*   [**Support fellow community members**](#channels) (e.g., by welcoming newcomers, giving credit, connecting members with people or resources)
 
 Provide something I think the community is missing 
 
-* [**Contribute something that isn’t addressed in this Contributing Guide**](#contributing)
+*   [Contribute something that isn’t addressed in this Contributing Guide](#contributing)

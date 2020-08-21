@@ -1,37 +1,33 @@
 ## Discover {#discover}
 
-Stef to write preamble
+Making data, tools, and best practices more discoverable is part of [our mission](#mission). For many, using an rOpenSci package is their first encounter with our organization. It’s the most common gateway to further involvement through connections with other users, or sharing use cases, for example. 
 
-Making data, tools more discoverable is part of our mission. This section is about finding and using rOpenSci’s packages. Discovering and using rOpenSci packages is a great way to contribute as without users, we have no reason to curate packages!  is a good first entryway, and then you are motivated to Connect and Learn, and then Influence and Help. Frequent gateway to rOpenSci is the "Use a package" action
+Scan the “I want to” statements below to find something that interests you. Click on any action under a statement to go to a description of the relevant rOpenSci resource with details on how to contribute.
 
 **I want to:**
 
-Discover packages I can use to facilitate my research 
+Discover packages I can use to facilitate my research and access open data
 
-*   [**Browse rOpenSci packages**](#packages)
-*   [**Explore use cases for rOpenSci packages**](#usecases)
-*   [Read blog posts or tech notes](#blog-usecase) about creative use cases for multiple rOpenSci packages
-*   [**Read blog posts or tech notes**](#blog) about rOpenSci packages
-*   Explore task views 
-*   [**Follow rOpenSci on Twitter**](#channels)
-*   [**Follow roknowtifier on Twitter**](#channels) to get notified about new packages and package updates
-*   [**Subscribe to our Newsletter**](#channels)
-*   [**Browse citations of rOpenSci packages**](#packages) to see what other researchers are using
+*   [Browse rOpenSci packages](#packages)
+*   [Explore use cases for rOpenSci packages](#usecases)
+*   [Read blog posts or tech notes](#blog) about specific rOpenSci packages, about [creative use cases](#blog-usecases) for multiple rOpenSci packages, or about [open data accessible through our packages](#blog-opendata)
+*   [Browse task views](#taskviews) to discover packages to use
+*   [Subscribe to our Newsletter](#channels)
+*   [Follow rOpenSci on Twitter](#channels)
+*   [Follow roknowtifier on Twitter](#channels) to get notified about new packages and package updates in real time
+*   [Browse citations of rOpenSci packages](#packages) to see what other researchers are using
 
-Discover packages that facilitate access to open data
-
-*   Use rOpenSci packages that access open data ([covid-ish blog post](https://ropensci.org/blog/2020/05/19/covid-19-open-data/))
-*   {packages tag: open-data etc.}
-*   {blog-tag: open etc.}
 
 Discover resources on best practices for software development
 
-*   [**Read the Dev Guide**](#devguide)
-*   [**Read or ask questions**](#channels) in the “Best Practices” category in our forum or on Slack
-*   [**Attend a Community Call**](#commcalls)
-*   [**Watch recordings and read collaborative notes from past Community Calls**](#commcalls)
-*   [**Read blog posts or tech notes**](#blog)
+*   [Read the Dev Guide](#devguide)
+*   [Read or ask questions](#channels) in the “Best Practices” category in our forum or on [Slack](#channels-slack)
+*   [Attend a Community Call](#commcalls)
+*   [Watch recordings and read collaborative notes from past Community Calls](#commcalls)
+*   [Read blog posts or tech notes](#blog)
+
 
 Discover resources on community building
 
-*   [**Read blog posts or tech notes**](#blog), particularly those tagged with [“Welcome”](#blog-welcome) or [“unconf”](#blog-unconf)
+*   [Read blog posts or tech notes](#blog), particularly those tagged with [“welcome”](#blog-welcome), [“unconf”](#blog-unconf), or [“icebreaker”](#blog-icebreaker)
+*   [Read about our community](#community) and some of the communities built by our members

@@ -1,42 +1,43 @@
 ## Connect {#connect}
 
-Stef to write preamble
+An implicit value in participating in rOpenSci is the connections people make with other scientists, R users, developers, or research software engineers who want to do their research in a more open and reproducible fashion. The rOpenSci community is a welcoming place to connect with like-minded people who share interests and values and a motivation to develop the related skills, techniques, and practices. 
 
-An implicit value in participating in rOpenSci’s activities is the connections people make with other scientists or research software engineers who want to do their research in a more open fashion. Many people trying to do more open science in their work environments can feel isolated. The rOpenSci community is a welcoming place to connect with like-minded R users and developers who share interests and the related skills, techniques, practices, and values.
+> [Hey! You there! You are welcome here](https://ropensci.org/blog/2017/06/23/community/), Shannon Ellis
 
-All interactions are governed by our [Code of Conduct](#conduct).
-
-> “[Hey! You there! You are welcome here](https://ropensci.org/blog/2017/06/23/community/)”, Shannon Ellis
+Scan the “I want to” statements below to find something that interests you. Click on any action under a statement to go to a description of the relevant rOpenSci resource with details on how to contribute.
 
 **I want to:**
 
-Belong to a community
+Belong to a supportive community
 
-*   [**Read about our community**](#community)
-*   [**Meet the Humans of rOpenSci**](#humans) and learn about their roles, their research, career paths, and contributions
-*   [**Read our Code of Conduct**](#conduct) to ensure you’re prepared to participate
-*   [**Attend a Community Call**](#commcalls) to get a feel for how we work and communicate with each other. See who else is interested in a topic, what questions they’re asking, ask your own questions in a collegial environment, share your expertise in a collaborative notes resource for the call
-*   [**Read blog posts or tech notes**](#blog), particularly those [tagged with “Welcome”](#blog-welcome) to get a feel for how we value people in our community.[**Try a 2-hour remote co-working session**](#channels) with someone in our Slack #co-working channel
-*   [**Support fellow community members**](#channels) (e.g., by welcoming newcomers, giving credit, connecting members with people or resources)
-*   [**Ask or answer questions**](#channels) in the forum or on Slack
+*   [Read about our community](#community)
+*   [Meet the Humans of rOpenSci](#humans) and learn about their roles, their research, career paths, and contributions
+*   [Read our Code of Conduct](#conduct) to ensure you’re prepared to participate
+*   [Attend a Community Call](#commcalls) to get a feel for how we work and communicate with each other. See who else is interested in a topic, what questions they’re asking, ask your own questions in a collegial environment, share your expertise in a collaborative notes resource for the call
+*   [Read blog posts or tech notes](#blog), particularly those [tagged with “Welcome”](#blog-welcome) to get a feel for how we value people in our community.
+*   [Support fellow community members](#channels) (e.g., by welcoming newcomers, giving credit, connecting members with people or resources)
+*   [Ask or answer questions](#channels) in the forum or on [Slack](#channels-slack)
+
 
 Meet and work with other users and developers of open science packages
 
-*   [**Address an issue**](#issues). Explore open issues in rOpenSci packages and consider submitting a fix. 
-*   [**Volunteer to review a package**](#devguide) and use your experience to help a developer
-*   [**Volunteer to maintain or co-maintain a package**](#devguide)
-*   [**Seek community feedback on your package ideas in the “Packages” category in our forum**](#channels-forum). Ideas for new packages, package updates, or package features.
+*   [Address an issue](#issues). Explore open issues in rOpenSci packages and consider submitting a fix. 
+*   [Volunteer to review a package](#devguide) and use your experience to help a developer
+*   [Volunteer to maintain or co-maintain a package](#devguide)
+*   [Try a 2-hour remote co-working session](#channels-slack) with someone in our Slack #co-working channel. Read about contributions required to join [rOpenSci Slack](#channels-slack)
+*   [Seek community feedback on your package ideas in the “Packages” category in our forum](#channels-forum). Ideas for new packages, package updates, or package features.
+
 
 Gain exposure in the open science R community
 
-*   [**Share a use case**](#usecases) for an rOpenSci package
-*   [**Address an issue**](#issues). Explore open issues in rOpenSci packages and consider submitting a fix.
-*   [**Volunteer to review a package**](#devguide)
-*   [**Submit your package for peer review**](#devguide) if it is in scope for rOpenSci
-*   **Propose your idea for a blog post or tech note **(see both the [Blog](#blog) and the [Blog Guide](#blogguide)) to share your experiences
+*   [Share a use case](#usecases) for an rOpenSci package
+*   [Address an issue](#issues). Explore open issues in rOpenSci packages and consider submitting a fix.
+*   [Volunteer to review a package](#devguide)
+*   [Submit your package for peer review](#devguide) after determining whether it‘s in scope for rOpenSci
+*   **Write a blog post or tech note** to share your experiences (see both the [Blog](#blog) and the [Blog Guide](#blogguide)) 
+
 
 Grow my local or topic-specific community
 
-*   [**Read blog posts or tech notes**](#blog), particularly those tagged with [“Welcome”](#blog-welcome) or [“unconf”](#blog-unconf)
-*   Ice breaker (blog)
-*   See examples (Australia ozunconf, Antarctic, LatAm rOpenSci community, CDSB Leo’s blog post?) (in community)
+*   [Read blog posts or tech notes](#blog), particularly those tagged with [“welcome”](#blog-welcome), [“unconf”](#blog-unconf), or [“icebreaker”](#blog-icebreaker)
+*   [Read about our community](#community), and some of the communities built by our members. See examples from the Australian “ozunconfs”, rOpenSci Antarctic and Southern Ocean Research, LatAm rOpenSci community, CDSB.

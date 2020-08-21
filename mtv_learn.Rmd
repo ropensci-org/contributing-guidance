@@ -1,75 +1,68 @@
 ## Learn {#learn}
 
-_Stef to write preamble_
 
-_Need to be clear we don’t provide beginner level R help. Learning here focuses on using, developing, building community as it specifically aligns with our mission._
+rOpenSci provides avenues for new and more seasoned R users and developers to learn - from learning by reading and listening, to learning by doing. All in an atmosphere of trust, generosity, giving credit, and sharing gratitude. We focus here on using, developing, documenting code, and building community, as they specifically align with our mission. People looking for more general R learning may refer to [RStudio Education](https://education.rstudio.com/) and [The Carpentries](https://carpentries.org/). 
 
-_Maybe this is where we emphasize learning in an atmosphere of trust, generosity, giving credit  and sharing gratitude_
+Scan the “I want to” statements below to find something that interests you. Click on any action under a statement to go to a description of the relevant rOpenSci resource with details on how to contribute.
 
-**I want to: **
+**I want to:**
 
 Be informed by reading and listening 
 
-*   [**Follow rOpenSci on Twitter**](#channels)
-*   [**Follow roknowtifier on Twitter**](#channels)
-*   [**Subscribe to our Newsletter**](#channels)
-*   [**Read blog posts or tech notes**](#blog)
-*   [**Attend a Community Call**](#commcalls)
-*   [**Watch recordings and read collaborative notes from past Community Calls**](#commcalls)
-*   [**Explore use cases**](#usecases) shared by community members
-*   [**Follow discussions**](#channels) about statistical software peer review, best practices, and Q & A in the forum or on Slack
+*   [Follow rOpenSci on Twitter](#channels)
+*   [Follow roknowtifier on Twitter](#channels) to get notifications about new packages and package updates in real time
+*   [Subscribe to our Newsletter](#channels)
+*   [Read blog posts or tech notes](#blog)
+*   [Attend a Community Call](#commcalls)
+*   [Watch recordings and read collaborative notes from past Community Calls](#commcalls)
+*   [Explore use cases](#usecases) shared by community members
+*   [Follow discussions](#channels) about statistical software peer review, best practices, and Q & A in the forum or on [Slack](#channels-slack)
 
-Improve reproducibility in my science
 
-*   [**Use an rOpenSci package**](#packages)
-*   [**Submit your package for peer review**](#devguide) if it is in scope for rOpenSci
-*   Read [**blog posts**](#blog-reproducibility) and [**Community Calls**](#commcalls) on reproducible workflows
-*   [**Read or ask questions**](#channels) in the “Best Practices” category in our forum or on Slack
+Improve the reproducibility of my research and apply best practices in my work
+
+*   [Use an rOpenSci package](#packages) if it does something you need instead of writing new code yourself
+*   [Attend a Community Call](#commcalls) or [watch recordings and read collaborative notes from past Community Calls](#commcalls). Some past calls have covered these topics
+*   [Read the Dev Guide](#devguide) and adopt some new best practices
+*   [Read our book on Statistical Software Peer Review](#statsreview) to familiarize yourself with standards being developed
+*   [Read or ask questions](#channels) in the “Best Practices” category in our forum or on [Slack](#channels-slack)
+*   [Submit your package for peer review](#devguide) after determining whether it’s in scope for rOpenSci
+*   [Cite rOpenSci packages in manuscripts and presentations**](#packages)
+
 
 Improve my R and software development skills
 
-*   Find new packages to try: [**Browse rOpenSci packages**](#packages)**, **[**explore use cases**](#usecases), [**read blog posts or tech notes**](#blog) 
-*   [**Volunteer to review a package**](#devguide)
-*   [**Seek community feedback on your package ideas in the “Packages” category in our forum**](#channels-forum)
-*   [**Review package documentation**](#packages)
+*   Find new packages to try: [Browse rOpenSci packages](#packages), [explore use cases](#usecases), [read blog posts or tech notes](#blog)
+*   [Volunteer to review a package](#devguide)
+*   [Seek community feedback on your package ideas in the “Packages” category in our forum](#channels-forum)
+*   [Review package documentation](#packages)
+*   [Make a pull request](#packages) to add/fix examples or clarify package documentation 
+*   [Write a vignette/article for a package](#packages)
+*   [Share a use case](#usecases)
+*   [Write a post about using rOpenSci packages](#packages) on your own blog
+*   After learning something new, **write a blog post or tech note** to share your experiences (see both the [Blog](#blog) and the [Blog Guide](#blogguide))
+*   [Ask or answer questions](#channels) in the forum or on [Slack](#channels-slack)
+*   [Volunteer to maintain or co-maintain a package](#devguide)
+*   [Submit your package for peer review](#devguide) after determining whether it’s in scope for rOpenSci
 
-Learn by doing
-
-*   [**Write a vignette/article for a package**](#packages)
-*   [**Make a pull request**](#packages) to add/fix examples or clarify package documentation. 
-*   [**Share a use case**](#usecases)
-*   [**Write a personal blog post about using rOpenSci packages**](#packages)
-*   After learning something new, **propose your idea for a blog post or tech note **to share your experiences (see both the [Blog](#blog) and the [Blog Guide](#blogguide))
-*   [**Ask or answer questions**](#channels) in the forum or on Slack
-*   [**Volunteer to maintain or co-maintain a package**](#devguide)
-*   [**Submit your package for peer review**](#devguide) if it is in scope for rOpenSci
-
-Apply best practices in my work 
-
-
-
-*   [**Attend a Community Call**](#commcalls) or [**watch recordings and read collaborative notes from past Community Calls**](#commcalls) to learn more about best practices
-*   [**Read the Dev Guide**](#devguide) and adopt some new best practices
-*   Read our work-in-progress guide to statistical software peer review
-*   [**Read or ask questions**](#channels) in the “Best Practices” category in our forum or on Slack
-*   [**Submit your package for peer review**](#devguide) if it is in scope for rOpenSci
-*   [**Engage with us on Twitter**](#channels). Amplify best practices from our social media to your networks.
-*   [**Cite rOpenSci packages in manuscripts and presentations**](#packages)
 
 Learn how to review R code
 
-*   [**Read blog posts or tech notes**](#blog) written by [reviewers](#blog-reviewers)
-*   [**Read the Dev Guide**](#devguide), especially the Reviewer Guide section
-*   [**Volunteer to review a package**](#devguide). Learn by doing!
+*   [Read blog posts or tech notes](#blog) written by [reviewers](#blog-reviewers) (including some first-time reviewers) about their experiences 
+*   [Read the Dev Guide](#devguide), especially the Reviewer Guide section
+*   [Volunteer to review a package](#devguide). Learn by doing!
+
 
 Learn how to get my package on CRAN
 
-*   [**Read the Dev Guide**](#devguide), especially the CRAN Gotchas section
-*   [**Read or ask questions**](#channels) in the “Packages” category in our forum or on Slack
-*   [**Seek community feedback on your package ideas in the “Packages” category in our forum**](#channels-forum)
-*   [**Submit your package for peer review**](#devguide) if it is in scope for rOpenSci. The review process is very useful for making sure your package is also suitable for CRAN.
+*   [Read the Dev Guide](#devguide), especially the CRAN Gotchas section
+*   [Read or ask questions](#channels) in the “Packages” category in our forum or on [Slack](#channels-slack)
+*   [Seek community feedback on your package ideas in the “Packages” category in our forum](#channels-forum)
+*   [Submit your package for peer review](#devguide) after determining whether it’s in scope for rOpenSci. The review process is very useful for making sure your package is also suitable for CRAN.
+
 
 Learn about career paths in R and open science
 
-*   [**Meet the Humans of rOpenSci**](#humans) and learn about their roles, their research, career paths, and contributions
-*   [**Read blog posts or tech notes**](#blog), particularly those [tagged with “Interviews”](#blog-interviews), which feature experienced rOpenSci community members
+*   [Meet the Humans of rOpenSci](#humans) and learn about their roles, their research, career paths, and contributions
+*   [Read blog posts or tech notes](#blog), particularly those [tagged with “Interviews”](#blog-interviews), which feature experienced rOpenSci community members
+*   [Browse the Jobs category](#channels) in our public forum or in [Slack](#channels-slack)
