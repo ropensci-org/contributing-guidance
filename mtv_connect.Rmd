@@ -14,7 +14,7 @@ Belong to a supportive community
 *   [Meet the Humans of rOpenSci](#humans) and learn about their roles, their research, career paths, and contributions
 *   [Read our Code of Conduct](#conduct) to ensure you’re prepared to participate
 *   [Attend a Community Call](#commcalls) to get a feel for how we work and communicate with each other. See who else is interested in a topic, what questions they’re asking, ask your own questions in a collegial environment, share your expertise in a collaborative notes resource for the call
-*   [Read blog posts or tech notes](#blog), particularly those [tagged with “Welcome”](./resources.html#blog-welcome) to get a feel for how we value people in our community.
+*   [Read blog posts or tech notes](#blog), particularly those tagged with “Welcome” to get a feel for how we value people in our community.
 *   [Support fellow community members](#channels) (e.g., by welcoming newcomers, giving credit, connecting members with people or resources)
 *   [Ask or answer questions](#channels) in the forum or on [Slack](#channels-slack)
 
@@ -39,5 +39,5 @@ Gain exposure in the open science R community
 
 Grow my local or topic-specific community
 
-*   [Read blog posts or tech notes](#blog), particularly those tagged with [“welcome”](./resources.html#blog-welcome), [“unconf”](./resources.html#blog-unconf), or [“icebreaker”](./resources.html#blog-icebreaker)
+*   [Read blog posts or tech notes](#blog), particularly those tagged with “Welcome”, “unconf”, or “icebreaker”
 *   [Read about our community](#community), and some of the communities built by our members. See examples from the Australian “ozunconfs”, rOpenSci Antarctic and Southern Ocean Research, LatAm rOpenSci community, CDSB.

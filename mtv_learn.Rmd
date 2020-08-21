@@ -48,7 +48,7 @@ Improve my R and software development skills
 
 Learn how to review R code
 
-*   [Read blog posts or tech notes](#blog) written by [reviewers](./resources.html#blog-reviewers) (including some first-time reviewers) about their experiences 
+*   [Read blog posts or tech notes](#blog) written by reviewers (including some first-time reviewers) about their experiences 
 *   [Read the Dev Guide](#devguide), especially the Reviewer Guide section
 *   [Volunteer to review a package](#devguide). Learn by doing!
 
@@ -64,5 +64,5 @@ Learn how to get my package on CRAN
 Learn about career paths in R and open science
 
 *   [Meet the Humans of rOpenSci](#humans) and learn about their roles, their research, career paths, and contributions
-*   [Read blog posts or tech notes](#blog), particularly those [tagged with “Interviews”](./resources.html#blog-interviews), which feature experienced rOpenSci community members
+*   [Read blog posts or tech notes](#blog), particularly those tagged with “Interviews”, which feature experienced rOpenSci community members
 *   [Browse the Jobs category](#channels) in our public forum or in [Slack](#channels-slack)
