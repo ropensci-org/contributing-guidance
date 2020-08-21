@@ -1,7 +1,7 @@
 category; title; url; description
-#### Welcome! {#blog-welcome};Welcome;https://ropensci.org/tags/welcome/; Belonging to our community
+<div id ="blog-welcome">Welcome!</div>;Welcome;https://ropensci.org/tags/welcome/; Belonging to our community
 Interviews;Interviews;https://ropensci.org/tags/interviews/; with rOpenSci staff and experienced community members
-Summaries of Community Calls;;
+Summaries of Community Calls;;;
 About our unconf events and projects;;;
 About a peer-reviewed package;About a peer-reviewed package;https://ropensci.org/tags/software-peer-review/); developed by the authors
 Perspectives from software peer reviewers;Perspectives from software peer reviewers;https://ropensci.org/tags/reviewer/;

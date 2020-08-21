@@ -27,7 +27,7 @@ tribble(~Channel, ~Purpose,
 ```
 
 
-#### GitHub {channels-github}
+#### GitHub {#channels-github}
 
 The majority of rOpenSci’s work happens on GitHub. In this Guide we use terms like “opening an issue” to refer to tracking ideas, enhancements, tasks, or bugs in a project, and “making a pull request” to submit your proposed fix or new feature. If you’d like some general information on the language and workflow of GitHub, see [Collaborating with issues and pull requests](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests). To learn about Markdown formatting for interacting with others in issues and pull requests see [Getting started with writing and formatting on GitHub](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github). For guidance on connecting R to GitHub we recommend Happy Git and GitHub for the useR - [https://happygitwithr.com/](https://happygitwithr.com/). 
 
