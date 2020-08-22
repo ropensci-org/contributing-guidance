@@ -1,13 +1,17 @@
 category; title; url; description
 Welcome!;Welcome;https://ropensci.org/tags/welcome/; Posts about the power of welcome and how we do it
 Interviews;Interviews;https://ropensci.org/tags/interviews/; with rOpenSci staff and experienced community members
-About our unconf events and projects;Bringing Together People and Projects at Unconf17;https://ropensci.org/blog/2017/06/02/unconf2017/;
+About our unconf events and projects;Bringing together people and projects at unconf17;https://ropensci.org/blog/2017/06/02/unconf2017/;
 About our unconf events and projects;Six tips for running a successful unconference;https://ropensci.org/blog/2017/11/17/unconf-sixtips/;
-About our unconf events and projects;The Value of Welcome, part 2: How to prepare 40 new community members for an unconference;https://ropensci.org/blog/2017/12/01/unconf-welcome/;
-About our unconf events and projects;Sharing the Recipe for rOpenSci's Unconf Ice Breaker;https://ropensci.org/blog/2018/11/01/icebreaker/;
+About our unconf events and projects;The value of welcome, part 2: How to prepare 40 new community members for an unconference;https://ropensci.org/blog/2017/12/01/unconf-welcome/;
+About our unconf events and projects;Sharing the recipe for rOpenSci's unconf ice breaker;https://ropensci.org/blog/2018/11/01/icebreaker/;
+About our unconf events and projects;Posts about ozunconf events and projects;https://ropensci.org/tags/ozunconf/;
 About our unconf events and projects;Posts about all unconf events and projects;https://ropensci.org/tags/unconf/;
-About a peer-reviewed package;About a peer-reviewed package;https://ropensci.org/tags/software-peer-review/); developed by the authors
-Perspectives from software peer reviewers;Perspectives from software peer reviewers;https://ropensci.org/tags/reviewer/;
+About a peer-reviewed package;rmangal: Making Ecological Networks Easily Accessible;https://ropensci.org/blog/2019/10/21/rmangal/;talks through the scientific problem and context, shows some code examples, and talks about peer review but doesn't make that the dominant part of the post.
+About a peer-reviewed package;Forcing Yourself to Make Your Life Easier;https://ropensci.org/blog/2018/04/12/ijtiff/;is an honest post with some reflection and an important message.
+About a peer-reviewed package;The av Package: Production Quality Video in R;https://ropensci.org/technotes/2018/10/06/av-release/;(tech note) is to the point. av is not a peer-reviewed package but this is a good example of a tech note. 
+About a peer-reviewed package;Posts tagged with "software peer review";https://ropensci.org/tags/software-peer-review/);
+Perspectives from software peer reviewers;Posts tagged with "reviewers";https://ropensci.org/tags/reviewer/; including some first-time experiences
 Creative use cases for multiple rOpenSci packages; Getting your toes wet in R: Hydrology, meteorology, and more;https://ropensci.org/blog/2019/04/02/hydrology-task-view/;
 Creative use cases for multiple rOpenSci packages; The Antarctic/Southern Ocean rOpenSci community;https://ropensci.org/blog/2018/11/13/antarctic/;
 Creative use cases for multiple rOpenSci packages; Make sure Maelle’s bird series is listed (check blog guide);;
