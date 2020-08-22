@@ -1,23 +1,29 @@
 category; title; url; description
 Welcome!;Welcome;https://ropensci.org/tags/welcome/; Posts about the power of welcome and how we do it
 Interviews;Interviews;https://ropensci.org/tags/interviews/; with rOpenSci staff and experienced community members
+Summarizing a Community Call;Maintaining an R Package;/blog/2020/07/14/commcall-maintaining-pkg/;
+Summarizing a Community Call;Code Review in the Lab;https://ropensci.org/blog/2018/11/29/codereview/;
+About a peer-reviewed package;rmangal: Making Ecological Networks Easily Accessible;https://ropensci.org/blog/2019/10/21/rmangal/; talks through the scientific problem and context, shows some code examples, and talks about peer review but doesn't make that the dominant part of the post.
+About a peer-reviewed package;Forcing Yourself to Make Your Life Easier;https://ropensci.org/blog/2018/04/12/ijtiff/; is an honest post with some reflection and an important message.
+About a peer-reviewed package;All posts tagged with "software peer review";https://ropensci.org/tags/software-peer-review/;
+Perspectives from software peer reviewers;Posts tagged with "reviewers";https://ropensci.org/tags/reviewer/; including some first-time experiences
+Creative use cases for multiple rOpenSci packages; Getting your toes wet in R: Hydrology, meteorology, and more;https://ropensci.org/blog/2019/04/02/hydrology-task-view/;
+Creative use cases for multiple rOpenSci packages; The Antarctic/Southern Ocean rOpenSci community;https://ropensci.org/blog/2018/11/13/antarctic/;
+Creative use cases for multiple rOpenSci packages; 4-post series starting with, Where to go observe birds in Radolfzell? An answer with R and open data;https://ropensci.org/tags/birder/;
+About open data accessible through our packages;;;
+Using an rOpenSci resource, such as the Package Development Guide or a task view;When Standards Go Wild - Software Review for a Manuscript;https://ropensci.org/blog/2019/04/18/wild-standards/;
+Using an rOpenSci resource, such as the Package Development Guide or a task view;Using rOpenSci Software Peer Review Guidelines for Teaching;https://ropensci.org/blog/2019/08/27/software-peer-review-guidelines-for-teaching/;
+Using an rOpenSci resource, such as the Package Development Guide or a task view;Getting your toes wet in R: Hydrology, meteorology, and more;https://ropensci.org/blog/2019/04/02/hydrology-task-view/;
+Major updates to key packages;(Re)introducing skimr v2 - A year in the life of an open source R project;https://ropensci.org/blog/2019/10/29/skimrv2/);
+Major updates to key packages;drake transformed;https://ropensci.org/technotes/2019/03/18/drake-700/;(technote)
+Contributing to or taking over maintenance of a package;Relaunching the qualtRics package;https://ropensci.org/blog/2019/04/30/qualtrics-relaunch/;has an engaging tone while being informative and providing technical details.
+Contributing to or taking over maintenance of a package;Monkeying around with Code and Paying it Forward;https://ropensci.org/blog/2018/04/20/monkeydo/;gives insight into how the author is thinking about workflows and contributing to rOpenSci.
+Describe an unsolved problem and a call to action;rOpenSci Educators Collaborative: What Are The Challenges When Teaching Science With R?;https://ropensci.org/tags/educollab/; (3 posts from unconf18)
+Reproducibility; Reproducibility; https://ropensci.org/tags/reproducibility/; 
+Reproducibility; Reproducible Research;https://ropensci.org/tags/reproducible-research/;
 About our unconf events and projects;Bringing together people and projects at unconf17;https://ropensci.org/blog/2017/06/02/unconf2017/;
 About our unconf events and projects;Six tips for running a successful unconference;https://ropensci.org/blog/2017/11/17/unconf-sixtips/;
 About our unconf events and projects;The value of welcome, part 2: How to prepare 40 new community members for an unconference;https://ropensci.org/blog/2017/12/01/unconf-welcome/;
 About our unconf events and projects;Sharing the recipe for rOpenSci's unconf ice breaker;https://ropensci.org/blog/2018/11/01/icebreaker/;
 About our unconf events and projects;Posts about ozunconf events and projects;https://ropensci.org/tags/ozunconf/;
 About our unconf events and projects;Posts about all unconf events and projects;https://ropensci.org/tags/unconf/;
-About a peer-reviewed package;rmangal: Making Ecological Networks Easily Accessible;https://ropensci.org/blog/2019/10/21/rmangal/; by Kevin Cazelles & Steve Vissault, talks through the scientific problem and context, shows some code examples, and talks about peer review but doesn't make that the dominant part of the post.
-About a peer-reviewed package;Forcing Yourself to Make Your Life Easier;https://ropensci.org/blog/2018/04/12/ijtiff/; by Rory Nolan, is an honest post with some reflection and an important message.
-About a peer-reviewed package;All posts tagged with "software peer review";https://ropensci.org/tags/software-peer-review/;
-Perspectives from software peer reviewers;Posts tagged with "reviewers";https://ropensci.org/tags/reviewer/; including some first-time experiences
-Creative use cases for multiple rOpenSci packages; Getting your toes wet in R: Hydrology, meteorology, and more;https://ropensci.org/blog/2019/04/02/hydrology-task-view/;
-Creative use cases for multiple rOpenSci packages; The Antarctic/Southern Ocean rOpenSci community;https://ropensci.org/blog/2018/11/13/antarctic/;
-Creative use cases for multiple rOpenSci packages; Make sure Maelle’s bird series is listed (check blog guide);;
-About open data accessible through our packages;;;
-Using an rOpenSci resource, such as the Package Development Guide or a task view;;;
-Major updates to key packages;;;
-Contributing to or taking over maintenance of a package;;;
-Describe an unsolved problem and a call to action;rOpenSci Educators Collaborative: What Are The Challenges When Teaching Science With R?;https://ropensci.org/tags/educollab/; (3 posts from unconf18)
-Reproducibility; Reproducibility; https://ropensci.org/tags/reproducibility/; 
-Reproducibility; Reproducible Research;https://ropensci.org/tags/reproducible-research/;
