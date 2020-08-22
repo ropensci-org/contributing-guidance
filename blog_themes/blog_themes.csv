@@ -1,7 +1,11 @@
 category; title; url; description
-Welcome!;Welcome;https://ropensci.org/tags/welcome/; Posts about the power of welcome
+Welcome!;Welcome;https://ropensci.org/tags/welcome/; Posts about the power of welcome and how we do it
 Interviews;Interviews;https://ropensci.org/tags/interviews/; with rOpenSci staff and experienced community members
-About our unconf events and projects;;;
+About our unconf events and projects;Bringing Together People and Projects at Unconf17;https://ropensci.org/blog/2017/06/02/unconf2017/;
+About our unconf events and projects;Six tips for running a successful unconference;https://ropensci.org/blog/2017/11/17/unconf-sixtips/;
+About our unconf events and projects;The Value of Welcome, part 2: How to prepare 40 new community members for an unconference;https://ropensci.org/blog/2017/12/01/unconf-welcome/;
+About our unconf events and projects;Sharing the Recipe for rOpenSci's Unconf Ice Breaker;https://ropensci.org/blog/2018/11/01/icebreaker/;
+About our unconf events and projects;Posts about all unconf events and projects;https://ropensci.org/tags/unconf/;
 About a peer-reviewed package;About a peer-reviewed package;https://ropensci.org/tags/software-peer-review/); developed by the authors
 Perspectives from software peer reviewers;Perspectives from software peer reviewers;https://ropensci.org/tags/reviewer/;
 Creative use cases for multiple rOpenSci packages; Getting your toes wet in R: Hydrology, meteorology, and more;https://ropensci.org/blog/2019/04/02/hydrology-task-view/;
@@ -11,6 +15,6 @@ About open data accessible through our packages;;;
 Using an rOpenSci resource, such as the Package Development Guide or a task view;;;
 Major updates to key packages;;;
 Contributing to or taking over maintenance of a package;;;
-Describe an unsolved problem and a call to action;;;
+Describe an unsolved problem and a call to action;rOpenSci Educators Collaborative: What Are The Challenges When Teaching Science With R?;https://ropensci.org/tags/educollab/; (3 posts from unconf18)
 Reproducibility; Reproducibility; https://ropensci.org/tags/reproducibility/; 
 Reproducibility; Reproducible Research;https://ropensci.org/tags/reproducible-research/;
