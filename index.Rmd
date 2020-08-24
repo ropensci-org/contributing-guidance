@@ -43,6 +43,7 @@ Browse [What brings you here?](#motivations) to find which “I want to …” s
 
 Or jump directly into rOpenSci [Resources](#resources) to find descriptions and links to guide specific contributions.
 
+---
 
 _Huge thanks to everyone who has contributed to this guide so far! (alphabetical order with community members followed by staff) Julia Stewart Lowndes, Toby Hodges, Scott Chamberlain, Jeroen Ooms, Karthik Ram, Noam Ross, Maelle Salmon_
 
