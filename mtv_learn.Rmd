@@ -27,7 +27,6 @@ Improve the reproducibility of my research and apply best practices in my work
 *   [Read our book on Statistical Software Peer Review](#statsreview) to familiarize yourself with standards being developed
 *   [Read or ask questions](#channels) in the “Best Practices” category in our forum or on [Slack](#channels-slack)
 *   [Submit your package for peer review](#devguide) after determining whether it’s in scope for rOpenSci
-*   [Cite rOpenSci packages in manuscripts and presentations**](#packages)
 
 
 Improve my R and software development skills
