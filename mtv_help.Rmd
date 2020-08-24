@@ -11,6 +11,7 @@ Support rOpenSci or give back to open source
 *   [Read about our mission](#mission)
 *   [Tell a friend about an rOpenSci package that may be useful for their work](#packages)
 *   [Cite rOpenSci packages](#packages) in manuscripts and presentations and encourage your colleagues to cite software
+*   [Ensure your package is easily citable](#devguide)
 *   [Submit a use case](#usecases) for an rOpenSci package
 *   [Engage with us on Twitter](#channels). Amplify best practices from our social media to your networks. Reply to or quote a tweet to share your experience or expertise on a topic
 *   [Weigh in on tough technical issues on software review threads](#devguide)

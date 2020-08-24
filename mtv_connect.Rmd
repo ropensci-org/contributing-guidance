@@ -37,6 +37,7 @@ Gain exposure in the open science R community
 *   [Volunteer to review a package](#devguide)
 *   [Submit your package for peer review](#devguide) after determining whether it‘s in scope for rOpenSci
 *   **Write a blog post or tech note** to share your experiences (see both the [Blog](#blog) and the [Blog Guide](#blogguide)) 
+*   [Ensure your package is easily citable](#devguide)
 
 
 Grow my local or topic-specific community

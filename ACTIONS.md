@@ -132,6 +132,7 @@ Text in **SUB bullets** is either for Resources Chapter (noted Chp 3) with addit
 *   [Volunteer to review a package](#devguide)
 *   [Submit your package for peer review](#devguide) after determining whether it’s in scope for rOpenSci
 *   [Acknowledge your reviewers](#devguide) in your package DESCRIPTION (with their consent). Read about this in [Thanking Your Reviewers: Gratitude through Semantic Metadata](https://ropensci.org/blog/2018/03/16/thanking-reviewers-in-metadata/). 
+*   [Ensure your package is easily citable](#devguide)
 *   [Volunteer to maintain or co-maintain a package](#devguide)
 *   [Request a co-maintainer for your package](#devguide)
 *   [Publish a paper about your package](#devguide)

@@ -15,6 +15,7 @@ Improve and promote open science in my field
 *   [Help organize a Community Call](#commcalls)
 *   [Write a post about using rOpenSci packages](#packages) on your own blog
 *   [Cite rOpenSci packages in manuscripts and presentations](#packages)
+*   [Ensure your package is easily citable](#devguide)
 
 
 Influence package development
@@ -44,6 +45,7 @@ Promote best practices for R development
 Promote software citations
 
 *   [Cite rOpenSci packages in manuscripts and presentations](#packages) and encourage your colleagues to do the same
+*   [Ensure your package is easily citable](#devguide)
 
 
 Get more visibility and more users for my rOpenSci package

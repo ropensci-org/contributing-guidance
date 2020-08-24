@@ -19,6 +19,8 @@ Once you’ve submitted your package and an editor has assigned reviewers, you a
 
 When you submit your package for review, **consider also publishing a journal article about your package**. We have collaborative agreements with two journals. If you choose to submit an article to the [Journal of Open Source Software (JOSS)](https://joss.theoj.org/), it will be [evaluated by JOSS](https://devguide.ropensci.org/guide-for-authors.html) based on the completed rOpenSci review. To submit to [Methods in Ecology and Evolution](https://ropensci.org/blog/2017/11/29/review-collaboration-mee/), you can submit to a joint review process whereby your package is reviewed by rOpenSci, followed by a fast-tracked review of the manuscript by Methods in Ecology and Evolution.
 
+Finally, make sure your package is easily citable to get credit for all your hard work! Use the `use_citation()` function from the `usethis` package to add a `CITATION` file so users can use `citation("yourpackage")` to easily find how to best cite your package. 
+
 Sometimes an rOpenSci package maintainer finds that maintaining a package is no longer feasible for them. When that happens, we work hard to find new maintainers. If you think you might be interested, the Dev Guide Chapter on [Changing Maintainers](https://devguide.ropensci.org/changing-maintainers.html) is a good place to start. If taking on a whole package seems like a bit much, check out our [“Issues”](#issues) section here to find specific issues you could help tackle in a package.
 
 For the big picture, watch the video of Noam Ross’s useR! 2020 keynote, “[Peer-Reviewing R Code: Where We've Been and Where We're Going at rOpenSci](https://youtu.be/iJnn_9xKkqk)” 
@@ -33,5 +35,6 @@ Read how our Dev Guide has been used in the wild in a manuscript review: [When S
 *   **Submit your package for peer review**. Read the [Guide for Authors](https://devguide.ropensci.org/guide-for-authors.html) and then submit a pre-submission inquiry to the [GitHub repository where reviews take place](https://github.com/ropensci/software-review/issues) to see if your package is in scope for rOpenSci.
 *   **Publish a paper about your package**. See above for our collaborations with the [Journal of Open Source Software (JOSS)](https://joss.theoj.org/) and [Methods in Ecology and Evolution](https://ropensci.org/blog/2017/11/29/review-collaboration-mee/).
 *   **Acknowledge your reviewers** in your package DESCRIPTION (with their consent). Read about this in [Thanking Your Reviewers: Gratitude through Semantic Metadata](https://ropensci.org/blog/2018/03/16/thanking-reviewers-in-metadata/). 
+*   Add a CITATION file to **ensure your package is easily citable**
 *   **Request a co-maintainer for your package**. Post a request in the  #package-maintenance [Slack channel](#channels-Slack).
 *   **Volunteer to maintain a package**. Check out the [rOpenSci Newsletter](https://news.ropensci.org/), the last section is a “Call For Maintainers” and consists of a list of packages specifically looking for maintainers.
