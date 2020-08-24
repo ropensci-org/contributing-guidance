@@ -18,13 +18,11 @@ rOpenSci was **founded** in 2011 by Karthik Ram, Scott Chamberlain, and Carl Boe
 
 **Staff** are R users, developers, research software engineers and community builders.
 
-![alt_text](images/team.png "image_tooltip")
-
 **Strategic Advisors** Noam Ross, Carl Boettiger, Jenny Bryan, and Rich FitzJohn volunteer their time.
 
 **Software peer review Editors** Brooke Anderson, Anna Krystalli, Karthik Ram, Noam Ross, Maelle Salmon, and Melina Vidoni volunteer their time. Scott Chamberlain and Lincoln Mullen are Editor alumni. Read posts introducing [Brooke Anderson, Melina Vidoni](https://ropensci.org/blog/2019/01/31/more_editors/), and [Anna Krystalli and Lincoln Mullen](https://ropensci.org/blog/2018/06/22/new_editors/). We occasionally recruit [guest editors](https://devguide.ropensci.org/softwarereviewintro.html#editors-and-reviewers) for some package reviews.
 
-![alt_text](images/team2.png "image_tooltip")
+![alt_text](images/team-all.png "image_tooltip")
 
 Get to know some of the **more experienced folks in our community** by reading the [.Rprofile series of posts](https://ropensci.org/tags/rprofile/) for which Kelly O’Briant interviewed Mara Averick, Jenny Bryan, Julia Stewart Lowndes, Karthik Ram, Julia Silge, and David Smith.
 
