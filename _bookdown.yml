@@ -8,5 +8,6 @@ language:
 rmd_files: ["index.Rmd", 
             "intro.Rmd",
             "motivations.Rmd", 
-            "resources.Rmd"]
+            "resources.Rmd",
+            "bibliography.Rmd"]
             
