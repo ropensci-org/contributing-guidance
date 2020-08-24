@@ -20,6 +20,6 @@ Developers and users will thank you and you’ll get the credit and some visibil
 *   We’ve made it easy to **submit your use cases** for rOpenSci packages (including your own) or resources by creating a template to guide you. When you [post your use case in the forum](https://discuss.ropensci.org/c/usecases/10) we’ll tweet about it to rOpenSci’s ~30,000 followers, tagging you and the package or resource author, and we might feature it in our [newsletter](#channels).
 *   **Encourage your peers to submit use cases**. Over time, these “small” actions are creating valuable open resources!
 
-![alt_text](images/usecases-template-shadow.png "image_tooltip")
+![Screen shot of the use case template](images/usecases-template-shadow.png "Sceen shot of the use case template")
 
 _Use case template_

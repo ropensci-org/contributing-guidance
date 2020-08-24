@@ -17,12 +17,12 @@ You can also combine labels in a search.
 
 Find all open issues in rOpenSci with `org:ropensci state:open` [`https://github.com/search?q=org%3Aropensci++state%3Aopen&type=Issues`](https://github.com/search?q=org%3Aropensci++state%3Aopen&type=Issues)
 
-![alt_text](images/issues_non_code_tabulizer.png "image_tooltip")
+![Non-coding “help wanted” issue](images/issues_non_code_tabulizer.png "Non-coding “help wanted” issue")
 
 _Non-coding “help wanted” issue_
 
 
-![alt_text](images/issues_code_jstor.png "image_tooltip")
+![Coding "help wanted" issue](images/issues_code_jstor.png "Coding "help wanted" issue")
 
 _Coding "help wanted" issue_
 
