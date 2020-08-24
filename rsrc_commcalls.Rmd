@@ -17,6 +17,18 @@ These are not your usual webinar. Some calls might involve two to three speakers
 
 Recordings of all past calls are [available online](https://vimeo.com/ropensci), with [closed captions](https://ropensci.org/blog/2020/07/15/subtitles/) (transcript of dialogue visible in text on video) for all calls in 2020 or later.
 
+<!-- 
+To get composite image:
+- Go to https://vimeo.com/ropensci
+- Using your browsers dev tools, Inspect the element of a video thumbnail
+- Set the outermost div (clip__wrapper) which has a width of 50% to 25%
+- Change the attribute "padding-left" of the outermost div of the EVEN thumbnails to "padding-right"
+- Zoom to the appropriate size
+- Use GIMP > Create > Screenshot to take the screen shot
+(If Vimeo changes any stylings, this may all change!)
+-->
+
+[![Examples of community call thumbnails from our Vimeo page](images/comm_calls_2020-08.png "Examples of community call thumbnails from our Vimeo page")](https://vimeo.com/ropensci)
 
 ### How to contribute? 
 
@@ -26,7 +38,3 @@ Recordings of all past calls are [available online](https://vimeo.com/ropensci),
 *   Are you really interested in the topic of an upcoming call? Why not **help organize it?** Contact our Community Manager Stefanie Butland, via [Slack](#channels-slack) or our [contact form](https://ropensci.org/contact/).
 *   Are you enthusiastic about the topic and planning to attend? You might want to **write a summary for our blog**. Contact our Community Manager Stefanie Butland, via [Slack](#channels-slack) or our [contact form](https://ropensci.org/contact/).
 
-
-![alt_text](images/commcalls.jpg "image_tooltip")
-
-_Image (old, from Mara) should be updated: composite of several commcall vimeo start images showing both people and content_
