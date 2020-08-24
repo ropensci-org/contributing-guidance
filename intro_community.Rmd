@@ -12,7 +12,7 @@ rOpenSci recognizes that communities might not be inclusive by default, particul
 
 Idea of this section is to point to subsets of people with various roles, again helping people “recognize themselves” in those roles, and providing a foundation to allow folks to reach out to others to learn about making contributions.
 
-_<insert unconf17 group image?>_
+![Group photo from unconf17 by Karthik Ram](images/unconf17.jpg "Group photo from unconf17 by Karthik Ram")
 
 rOpenSci was **founded** in 2011 by Karthik Ram, Scott Chamberlain, and Carl Boettiger, ecologists who were motivated to make scientific data retrieval reproducible.
 
