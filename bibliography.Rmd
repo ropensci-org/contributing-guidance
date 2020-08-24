@@ -1,0 +1,22 @@
+Bibiliography
+
+We're always standing on the shoulders of giants, some of whom don't think of themselves as giants. The following resources together influenced the ideas, approach, design, tone, and content of the rOpenSci Community Contributing Guide. 
+
+How to Contribute to Open Source https://opensource.guide/how-to-contribute/ (authors in https://github.com/github/opensource.guide#acknowledgments)
+
+Ten simple rules for helping newcomers become contributors to open projects https://doi.org/10.1371/journal.pcbi.1007296
+
+Open Source Paradigm Shift https://www.oreilly.com/pub/a/tim/articles/paradigmshift_0504.html
+
+Contribute to Astropy https://www.astropy.org/contribute.html
+
+Jupyter Contributing guide https://jupyter.readthedocs.io/en/latest/contributing/content-contributor.html
+
+RStudio Education https://education.rstudio.com/
+
+Working in Public: The Making and Maintenance of Open Source Software, Nadia Eghbal https://press.stripe.com/#working-in-public
+
+
+Mozilla Open Leadership Series - Contributor Personas & Pathways https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/bring-on-contributors-using-personas-and-pathways/
+
+Carpentries Learner Profiles https://software-carpentry.org/audience/
