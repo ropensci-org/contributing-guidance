@@ -12,8 +12,6 @@ rOpenSci recognizes that communities might not be inclusive by default, particul
 
 Idea of this section is to point to subsets of people with various roles, again helping people “recognize themselves” in those roles, and providing a foundation to allow folks to reach out to others to learn about making contributions.
 
-![Group photo from unconf17](images/unconf17.jpg "Group photo from unconf17")
-
 rOpenSci was **founded** in 2011 by Karthik Ram, Scott Chamberlain, and Carl Boettiger, ecologists who were motivated to make scientific data retrieval reproducible.
 
 **Staff** are R users, developers, research software engineers and community builders.
@@ -63,3 +61,5 @@ Rest assured, we’re pondering how to continue building this trust network thro
 > My life took a turn thanks to rOpenSci - the community I was welcomed into there gave me deep friendships, new skills & confidence to get out of my comfort zone. And the #rstats world as a whole is better for rOpenSci’s existence.
 > 
 > [Jennifer Thompson on Twitter](https://twitter.com/jent103/status/1232460524031545344)
+
+![Group photo from unconf17; photo credit Karthik Ram](images/unconf17_wide.jpg "Group photo from unconf17; photo credit Karthik Ram")
