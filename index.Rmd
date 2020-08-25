@@ -49,7 +49,7 @@ _A huge thank you to everyone who has contributed to this guide so far! [Toby Ho
 
 _This work was supported in part by a [NumFOCUS Small Development Grant](https://numfocus.org/programs/sustainability) to rOpenSci_
 
-DOI badge goes here
+<a href="https://doi.org/10.5281/zenodo.4000531"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4000531.svg?branch=master" alt="DOI"></a>
 
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/us/88x31.png" /></a><br /> This work is licensed under [a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 United States License](https://creativecommons.org/licenses/by-nc-sa/3.0/us/).
 
