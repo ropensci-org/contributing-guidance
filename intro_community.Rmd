@@ -24,7 +24,7 @@ rOpenSci was **founded** in 2011 by [Karthik Ram](https://ropensci.org/author/ka
 
 Get to know some of the **more experienced folks in our community** by reading the [.Rprofile series of posts](https://ropensci.org/tags/rprofile/) for which [Kelly O’Briant](https://ropensci.org/author/kelly-obriant/) interviewed [Mara Averick](https://ropensci.org/blog/2017/11/10/rprofile-mara-averick/), [Jenny Bryan](https://ropensci.org/blog/2017/12/08/rprofile-jenny-bryan/), [Julia Stewart Lowndes](https://ropensci.org/blog/2018/02/09/rprofile-julia-stewart-lowndes/) (with assistance from [Sean Kross](https://ropensci.org/author/sean-kross/)), [Karthik Ram](https://ropensci.org/blog/2018/01/12/rprofile-karthik-ram/), [Noam Ross](https://ropensci.org/blog/2018/04/13/rprofile-noam-ross/), [Julia Silge](https://ropensci.org/blog/2018/06/08/rprofile-julia-silge/), and [David Smith](https://ropensci.org/blog/2017/10/13/rprofile-david-smith/).
 
-Over [**150 people have reviewed**](https://devguide.ropensci.org/softwarereviewintro.html#editors-and-reviewers) **135 packages from 803 authors!**
+Over [150 people have reviewed](https://devguide.ropensci.org/softwarereviewintro.html#editors-and-reviewers) 135 packages from **803 authors!**
 
 More than 35 people have presented in our Community Calls attended by people in more than 25 countries. 
 
