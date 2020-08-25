@@ -52,3 +52,42 @@ _Ackowledgements: NumFOCUS SDG grant, Nadia Eghbal’s thing for structure inspi
 DOI badge goes here
 
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/us/88x31.png" /></a><br /> This work is licensed under [a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 United States License](https://creativecommons.org/licenses/by-nc-sa/3.0/us/).
+
+```{r include = FALSE, eval = FALSE}
+# Check links (adapted from roblog::ro_check_urls)
+
+df <- tibble::tibble(rmds = list.files(pattern = "Rmd", full.names = TRUE),
+                     text = purrr::map(rmds, ~try(readLines(.), silent = TRUE)),
+                     error_read = inherits(text, "try-error"))
+
+if (any(df$error_read)) {
+  stop(glue::glue("The file {df$rmds[df$error_read]} could not be read."))
+}
+
+df_check <- df %>%
+  dplyr::mutate(urls = purrr::map(text, ~stringr::str_extract_all(., "http[s]*\\:[^ \\)\\]\"\\>]*")),
+                urls = purrr:: map(urls, unlist)) %>%
+  tidyr::unnest(urls) %>%
+  dplyr::select(rmds, urls) %>%
+  dplyr::distinct() %>%
+  dplyr::mutate(ok = purrr:: map_lgl(urls, crul::ok, verb = "get"))
+
+dplyr::filter(df_check, !ok)
+
+# Get number of package authors
+
+# Get rOpenSci packages
+pkgs <- "https://ropensci.github.io/roregistry/registry.json" %>%
+  jsonlite::fromJSON(.) %>%
+  .[["packages"]] %>%
+  dplyr::filter(stringr::str_detect(status, "active"))
+
+pkgs %>%
+  dplyr::filter(stringr::str_detect(url, "ropensci") | onboarding != "")
+
+nrow(pkgs)
+dplyr::pull(pkgs, maintainer) %>% unique() %>% length()
+
+```
+
+
