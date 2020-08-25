@@ -104,16 +104,6 @@ blockquote:before {
   font-size: 4em;
 }
 
-blockquote:after {
-  display: inline;
-  position: absolute;
-  bottom: -0.75em;
-  right: 0;
-  color: #ccc;
-  content: close-quote;
-  font-size: 4em;
-}
-
 blockquote p {
   display: inline;
 }

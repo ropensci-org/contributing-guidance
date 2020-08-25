@@ -10,8 +10,8 @@ rOpenSci has been running a software peer review system since 2015 to combine th
 Are you wondering **what it’s like to review a package for the first time**, or how long it might take? Explore the Dev Guide sections on [Why submit your package to rOpenSci? a](https://devguide.ropensci.org/softwarereviewintro.html#whysubmit)nd [Guide for Reviewers](https://devguide.ropensci.org/reviewerguide.html). Read [blog posts with the “reviewer” tag](https://ropensci.org/tags/reviewer/). Many people review an R package before ever making one. Check out the [list of past reviewers](https://devguide.ropensci.org/softwarereviewintro.html#reviewers). Maybe you know one of them and can ask about their experience. 
 
 > As a useR, you are qualified as a potential package reviewer if you have some appreciation for what makes your favourite packages useful.
-
--- *[Miles McBain in "Where is the value in package peer< review?"](https://ropensci.org/blog/2018/04/06/peer-review-value/)*
+> <br>
+> *[Miles McBain in "Where is the value in package peer review?"](https://ropensci.org/blog/2018/04/06/peer-review-value/)*
 
 If you’re **interested in submitting a package for peer-review**, read the Dev Guide section [Why review packages for rOpenSci?](https://devguide.ropensci.org/softwarereviewintro.html#whyreview) or read [blog posts with the “software-peer-review” tag](https://ropensci.org/tags/software-peer-review/) to get the perspectives of authors whose packages have passed peer review as well as learn about the process itself.
 
