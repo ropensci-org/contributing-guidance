@@ -84,11 +84,6 @@ div.book-header.fixed[style] {
   color: #fff;
 }
 
-.caption {
-  display: none;
-}
-
-
 blockquote {
   background: #f9f9f9;
   border-left: 10px solid #ccc;
