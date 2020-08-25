@@ -13,11 +13,7 @@ Participation in an open source project like rOpenSci is more likely to be a lif
 
 Do you already know what value you want to get out of contributing? (It’s ok if you don’t know yet.) **To help you recognize yourself**, we’ve categorized what we think contributors to rOpenSci want into: [Discover](#discover); [Connect](#connect); [Learn](#learn); [Build](#build); [Help](#help). For each category, **we list examples of what those contributions might look like and we link to our [resources](#resources)** to help you get started. 
 
-Choose your path. 
-
-> It's the not the destination, it's the journey.
-> 
-> Ralph Waldo Emerson
+Choose your path. It's the journey, not the destination.
 
 
 
