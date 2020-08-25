@@ -1,6 +1,6 @@
 bookdown::gitbook:
   fig_caption: false
-  css: style.css
+  css: guide.css
   split_by: chapter
   toc_depth: 4
   config:
