@@ -10,21 +10,29 @@ rOpenSci recognizes that communities might not be inclusive by default, particul
 
 ### Humans of rOpenSci {#humans}
 
-Idea of this section is to point to subsets of people with various roles, again helping people “recognize themselves” in those roles, and providing a foundation to allow folks to reach out to others to learn about making contributions.
+In this section we point to groups of people with various formal and informal roles in our community. This gives some transparency, may help people “recognize themselves” in some roles, and provide a foundation to allow folks to reach out to others to learn about making contributions.
 
-rOpenSci was **founded** in 2011 by Karthik Ram, Scott Chamberlain, and Carl Boettiger, ecologists who were motivated to make scientific data retrieval reproducible.
+rOpenSci was **founded** in 2011 by [Karthik Ram](https://ropensci.org/author/karthik-ram/), [Scott Chamberlain](https://ropensci.org/author/scott-chamberlain/), and [Carl Boettiger](https://ropensci.org/author/carl-boettiger/), ecologists who were motivated to make scientific data retrieval reproducible.
 
-**Staff** are R users, developers, research software engineers and community builders.
+**Staff** are R users, developers, research software engineers, community builders, and an office jedi. 
+- [Karthik Ram](https://ropensci.org/author/karthik-ram/)
+- [Scott Chamberlain](https://ropensci.org/author/scott-chamberlain/)
+- [Jeroen Ooms](https://ropensci.org/author/jeroen-ooms/)
+- [Stefanie Butland](https://ropensci.org/author/stefanie-butland/)
+- [Maëlle Salmon](https://ropensci.org/author/ma%C3%ABlle-salmon/)
+- [Mark Padgham](https://ropensci.org/author/mark-padgham/)
+- [Steffi LaZerte](https://ropensci.org/author/steffi-lazerte/)
+- Stacey Dorton
 
-**Strategic Advisors** Noam Ross, Carl Boettiger, Jenny Bryan, and Rich FitzJohn volunteer their time.
+**Strategic Advisors** [Noam Ross](https://ropensci.org/author/noam-ross/), [Carl Boettiger](https://ropensci.org/author/carl-boettiger/), [Jenny Bryan](https://ropensci.org/author/jenny-bryan/), and [Rich FitzJohn](https://ropensci.org/author/rich-fitzjohn/) volunteer their time.
 
-**Software peer review Editors** Brooke Anderson, Anna Krystalli, Karthik Ram, Noam Ross, Maelle Salmon, and Melina Vidoni volunteer their time. Scott Chamberlain and Lincoln Mullen are Editor alumni. Read posts introducing [Brooke Anderson, Melina Vidoni](https://ropensci.org/blog/2019/01/31/more_editors/), and [Anna Krystalli and Lincoln Mullen](https://ropensci.org/blog/2018/06/22/new_editors/). We occasionally recruit [guest editors](https://devguide.ropensci.org/softwarereviewintro.html#editors-and-reviewers) for some package reviews.
+**Software peer review Editors** [Brooke Anderson](https://ropensci.org/author/brooke-anderson/), [Anna Krystalli](), [Karthik Ram](https://ropensci.org/author/karthik-ram/), [Noam Ross](https://ropensci.org/author/noam-ross/), [Maëlle Salmon](https://ropensci.org/author/ma%C3%ABlle-salmon/), and [Melina Vidoni](https://ropensci.org/author/melina-vidoni/) volunteer their time. [Scott Chamberlain](https://ropensci.org/author/scott-chamberlain/) and [Lincoln Mullen](https://ropensci.org/author/lincoln-mullen/) are Editor alumni. Read posts introducing [Brooke Anderson, Melina Vidoni](https://ropensci.org/blog/2019/01/31/more_editors/), and [Anna Krystalli and Lincoln Mullen](https://ropensci.org/blog/2018/06/22/new_editors/). We occasionally recruit [guest editors](https://devguide.ropensci.org/softwarereviewintro.html#editors-and-reviewers) for some package reviews.
 
 ![Headshots of the rOpensci team](images/team-all.png "Headshots of the rOpensci team")
 
-Get to know some of the **more experienced folks in our community** by reading the [.Rprofile series of posts](https://ropensci.org/tags/rprofile/) for which Kelly O’Briant interviewed Mara Averick, Jenny Bryan, Julia Stewart Lowndes, Karthik Ram, Julia Silge, and David Smith.
+Get to know some of the **more experienced folks in our community** by reading the [.Rprofile series of posts](https://ropensci.org/tags/rprofile/) for which [Kelly O’Briant](https://ropensci.org/author/kelly-obriant/) interviewed [Mara Averick](https://ropensci.org/blog/2017/11/10/rprofile-mara-averick/), [Jenny Bryan](https://ropensci.org/blog/2017/12/08/rprofile-jenny-bryan/), [Julia Stewart Lowndes](https://ropensci.org/blog/2018/02/09/rprofile-julia-stewart-lowndes/) (with assistance from [Sean Kross](https://ropensci.org/author/sean-kross/)), [Karthik Ram](https://ropensci.org/blog/2018/01/12/rprofile-karthik-ram/), [Noam Ross](https://ropensci.org/blog/2018/04/13/rprofile-noam-ross/), [Julia Silge](https://ropensci.org/blog/2018/06/08/rprofile-julia-silge/), and [David Smith](https://ropensci.org/blog/2017/10/13/rprofile-david-smith/).
 
-Over [150 people have reviewed](https://devguide.ropensci.org/softwarereviewintro.html#editors-and-reviewers) **packages** by XX **package authors**. XX people have made code and non-code contributions (measured as GitHub commits in ropensci & ropenscilabs orgs). 
+Over [**150 people have reviewed**](https://devguide.ropensci.org/softwarereviewintro.html#editors-and-reviewers) packages by XX **package authors**. 
 
 More than 35 people have presented in our Community Calls that have been attended by people in xx countries. 
 
@@ -34,11 +42,11 @@ You can get to know some community members by reading the blog posts and tech no
 
 Many of rOpenSci’s tools are developed by practicing scientists and other researchers who foster strong communities among users and developers in their research domains and openly share their expertise in discussions of best practices. 
 
-*   The [Antarctic/Southern Ocean rOpenSci community](https://ropensci.org/blog/2018/11/13/antarctic/) led by Ben Raymond, Jess Melbourne-Thomas, Michael Sumner, and Anton Van de Putte aims to strengthen the community of R users and developers in this area of research.
-*   Hydrology researchers Louise Slater, Sam Zipper, Sam Albers, Ilaria Prosdocimi, Claudia Vitolo, and others promote open package development and peer review in their paper [Using R in Hydrology](https://doi.org/10.5194/hess-23-2939-2019) and some of them created and maintain the rOpenSci [Task View on hydrological data and modeling](https://github.com/ropensci/Hydrology/blob/master/README.md) in which many of the R packages have been peer reviewed through rOpenSci. 
-*   Community members who are academic experts in climate and weather (Brooke Anderson), archaeology (Ben Marwick), transport (Robin Lovelace), hydrology (see above), and Antarctic research (see above) highlighted sources of open data for research in their fields and the R tools to access them in [When Field or Lab Work is not an Option - Leveraging Open Data Resources for Remote Research](https://ropensci.org/blog/2020/05/19/covid-19-open-data/)
+*   The [Antarctic/Southern Ocean rOpenSci community](https://ropensci.org/blog/2018/11/13/antarctic/) led by [Ben Raymond](https://ropensci.org/author/ben-raymond/), Jess Melbourne-Thomas, Sara Labrousse, [Michael Sumner](https://ropensci.org/author/michael-sumner/), and [Anton Van de Putte](https://ropensci.org/author/anton-van-de-putte/) aims to strengthen the community of R users and developers in this area of research.
+*   Hydrology researchers [Louise Slater](https://ropensci.org/author/louise-slater/), [Sam Zipper](https://ropensci.org/author/sam-zipper/), [Sam Albers](https://ropensci.org/author/sam-albers/), [Ilaria Prosdocimi](https://ropensci.org/author/ilaria-prosdocimi/), [Claudia Vitolo](https://ropensci.org/author/claudia-vitolo/), and others promote open package development and peer review in their paper [Using R in Hydrology](https://doi.org/10.5194/hess-23-2939-2019) and some of them created and maintain the rOpenSci [Task View on hydrological data and modeling](https://github.com/ropensci/Hydrology/blob/master/README.md) in which many of the R packages have been peer reviewed through rOpenSci. 
+*   Community members who are academic experts in climate and weather ([Brooke Anderson](https://ropensci.org/author/brooke-anderson/)), archaeology ([Ben Marwick](https://ropensci.org/author/ben-marwick/)), transport ([Robin Lovelace](https://ropensci.org/author/robin-lovelace/)), hydrology (see above), and Antarctic research (see above) highlighted sources of open data for research in their fields and the R tools to access them in [When Field or Lab Work is not an Option - Leveraging Open Data Resources for Remote Research](https://ropensci.org/blog/2020/05/19/covid-19-open-data/)
 
-People in the rOpenSci community participate in related organizations and communities like R-Ladies, MiR, LatAm R community, AfricaR, Bioconductor, The Carpentries.
+Many in the rOpenSci community participate in related organizations and communities like [R-Ladies](https://rladies.org/), [The Carpentries](https://carpentries.org/), [Latin American R community](https://www.r-consortium.org/blog/2020/07/07/latin-american-communities-and-organizations-at-user2020), the [MiR community](https://medium.com/@doritolay/introducing-mir-a-community-for-underrepresented-users-of-r-7560def7d861) for underrepresented minority users of R, [AfricaR](https://africa-r.org/), and [Bioconductor](https://www.bioconductor.org/).
 
 We believe in giving credit to people for their contributions and sharing our gratitude. Our [Thank You, 2019](https://ropensci.org/blog/2019/12/23/thankyou/) post, acknowledging individual contributors, is one example of how we do that. For package authors participating in software peer review, we encourage “[gratitude through semantic metadata](https://ropensci.org/blog/2018/03/16/thanking-reviewers-in-metadata/)” with the option to acknowledge reviewers in the package DESCRIPTION (with reviewers’ consent).  
 
