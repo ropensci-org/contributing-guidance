@@ -1,6 +1,6 @@
 ## Issues list {#issues}
 
-Here we describe how to find and consider working on open issues in rOpenSci projects. In 2019, 117 people made their first-ever code contribution to rOpenSci! The [rOpenSci issues list](https://github.com/search?q=org%3Aropensci+label%3A%22help+wanted%22+state%3Aopen&type=Issues) is a dynamic page showing all open issues in the “rOpenSci GitHub organization”. 
+Here we describe how to find and consider working on open issues in rOpenSci projects. In 2019, 117 people made their first-ever code contribution to rOpenSci! The [rOpenSci issues list](https://github.com/search?q=org%3Aropensci+state%3Aopen&type=Issues) is a dynamic page showing all open issues in the “rOpenSci GitHub organization”. 
 
 Issues in GitHub are used to track ideas, enhancements, tasks, or bugs. For general information on using issues see the documentation on [Managing your work with issues](https://docs.github.com/en/github/managing-your-work-on-github/managing-your-work-with-issues), and the GitHub Guide [Mastering Issues](https://guides.github.com/features/issues/). Issues can be opened by anyone - the package maintainer, a user reporting a bug or something in the documentation that’s confusing, or a person proposing their idea for contributing. For more sources of information on using GitHub see [Communication channels](#channels-github).
 
