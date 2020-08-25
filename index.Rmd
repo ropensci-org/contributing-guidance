@@ -45,9 +45,9 @@ Or jump directly into rOpenSci [Resources](#resources) to find descriptions and 
 
 ---
 
-_Huge thanks to everyone who has contributed to this guide so far! (alphabetical order with community members followed by staff) Julia Stewart Lowndes, Toby Hodges, Scott Chamberlain, Jeroen Ooms, Karthik Ram, Noam Ross, Maelle Salmon_
+_A huge thank you to everyone who has contributed to this guide so far! [Toby Hodges](https://github.com/tobyhodges), [Julia Stewart Lowndes](https://github.com/jules32), [Scott Chamberlain](https://github.com/sckott), [Jeroen Ooms](https://github.com/jeroen), [Karthik Ram](https://github.com/karthik), [Noam Ross](https://github.com/noamross), [Maëlle Salmon](https://github.com/maelle) (alphabetical order with community members followed by staff). Please tell us if we forgot to acknowledge your contribution_
 
-_Ackowledgements: NumFOCUS SDG grant, Nadia Eghbal’s thing for structure inspiration_
+_This work was supported in part by a [NumFOCUS Small Development Grant](https://numfocus.org/programs/sustainability) to rOpenSci_
 
 DOI badge goes here
 
