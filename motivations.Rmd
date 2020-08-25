@@ -9,15 +9,15 @@ Participation in an open source project like rOpenSci is more likely to be a lif
 
 > ...users pursuing their own "selfish" interests build collective value as an automatic byproduct. 
 >
-> [Tim O’Reilly on The Architecture of Participation in "What Is Web 2.0", 2005](https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html?page=1)
+> [Tim O’Reilly on The Architecture of Participation](https://www.oreilly.com/pub/a/tim/articles/paradigmshift_0504.html)
 
 Do you already know what value you want to get out of contributing? (It’s ok if you don’t know yet.) **To help you recognize yourself**, we’ve categorized what we think contributors to rOpenSci want into: [Discover](#discover); [Connect](#connect); [Learn](#learn); [Build](#build); [Help](#help). For each category, **we list examples of what those contributions might look like and we link to our [resources](#resources)** to help you get started. 
 
 Choose your path. 
 
-> It’s the journey, not the destination. 
+> It's the not the destination, it's the journey.
 > 
-> **_quote attribution_**
+> Ralph Waldo Emerson
 
 
 
@@ -35,3 +35,4 @@ Choose your path.
 
 ```{r child="mtv_help.Rmd", echo=FALSE}
 ```
+
