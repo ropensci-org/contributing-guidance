@@ -73,21 +73,6 @@ df_check <- df %>%
   dplyr::mutate(ok = purrr:: map_lgl(urls, crul::ok, verb = "get"))
 
 dplyr::filter(df_check, !ok)
-
-# Get number of package authors
-
-# Get rOpenSci packages
-pkgs <- "https://ropensci.github.io/roregistry/registry.json" %>%
-  jsonlite::fromJSON(.) %>%
-  .[["packages"]] %>%
-  dplyr::filter(stringr::str_detect(status, "active"))
-
-pkgs %>%
-  dplyr::filter(stringr::str_detect(url, "ropensci") | onboarding != "")
-
-nrow(pkgs)
-dplyr::pull(pkgs, maintainer) %>% unique() %>% length()
-
 ```
 
 
