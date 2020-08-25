@@ -14,19 +14,11 @@ In this section we point to groups of people with various formal and informal ro
 
 rOpenSci was **founded** in 2011 by [Karthik Ram](https://ropensci.org/author/karthik-ram/), [Scott Chamberlain](https://ropensci.org/author/scott-chamberlain/), and [Carl Boettiger](https://ropensci.org/author/carl-boettiger/), ecologists who were motivated to make scientific data retrieval reproducible.
 
-**Staff** are R users, developers, research software engineers, community builders, and an office jedi. 
-- [Karthik Ram](https://ropensci.org/author/karthik-ram/)
-- [Scott Chamberlain](https://ropensci.org/author/scott-chamberlain/)
-- [Jeroen Ooms](https://ropensci.org/author/jeroen-ooms/)
-- [Stefanie Butland](https://ropensci.org/author/stefanie-butland/)
-- [Maëlle Salmon](https://ropensci.org/author/ma%C3%ABlle-salmon/)
-- [Mark Padgham](https://ropensci.org/author/mark-padgham/)
-- [Steffi LaZerte](https://ropensci.org/author/steffi-lazerte/)
-- Stacey Dorton
+**Staff** are R users, developers, research software engineers, community builders, and an office jedi: [Karthik Ram](https://ropensci.org/author/karthik-ram/), [Scott Chamberlain](https://ropensci.org/author/scott-chamberlain/), [Jeroen Ooms](https://ropensci.org/author/jeroen-ooms/), [Stefanie Butland](https://ropensci.org/author/stefanie-butland/), [Maëlle Salmon](https://ropensci.org/author/ma%C3%ABlle-salmon/), [Mark Padgham](https://ropensci.org/author/mark-padgham/), [Steffi LaZerte](https://ropensci.org/author/steffi-lazerte/), and Stacey Dorton.
 
 **Strategic Advisors** [Noam Ross](https://ropensci.org/author/noam-ross/), [Carl Boettiger](https://ropensci.org/author/carl-boettiger/), [Jenny Bryan](https://ropensci.org/author/jenny-bryan/), and [Rich FitzJohn](https://ropensci.org/author/rich-fitzjohn/) volunteer their time.
 
-**Software peer review Editors** [Brooke Anderson](https://ropensci.org/author/brooke-anderson/), [Anna Krystalli](), [Karthik Ram](https://ropensci.org/author/karthik-ram/), [Noam Ross](https://ropensci.org/author/noam-ross/), [Maëlle Salmon](https://ropensci.org/author/ma%C3%ABlle-salmon/), and [Melina Vidoni](https://ropensci.org/author/melina-vidoni/) volunteer their time. [Scott Chamberlain](https://ropensci.org/author/scott-chamberlain/) and [Lincoln Mullen](https://ropensci.org/author/lincoln-mullen/) are Editor alumni. Read posts introducing [Brooke Anderson, Melina Vidoni](https://ropensci.org/blog/2019/01/31/more_editors/), and [Anna Krystalli and Lincoln Mullen](https://ropensci.org/blog/2018/06/22/new_editors/). We occasionally recruit [guest editors](https://devguide.ropensci.org/softwarereviewintro.html#editors-and-reviewers) for some package reviews.
+**Software peer review Editors** [Brooke Anderson](https://ropensci.org/author/brooke-anderson/), [Anna Krystalli](https://ropensci.org/author/anna-krystalli/), [Karthik Ram](https://ropensci.org/author/karthik-ram/), [Noam Ross](https://ropensci.org/author/noam-ross/), [Maëlle Salmon](https://ropensci.org/author/ma%C3%ABlle-salmon/), and [Melina Vidoni](https://ropensci.org/author/melina-vidoni/) volunteer their time. [Scott Chamberlain](https://ropensci.org/author/scott-chamberlain/) and [Lincoln Mullen](https://ropensci.org/author/lincoln-mullen/) are Editor alumni. Read posts introducing [Brooke Anderson and Melina Vidoni](https://ropensci.org/blog/2019/01/31/more_editors/), and [Anna Krystalli and Lincoln Mullen](https://ropensci.org/blog/2018/06/22/new_editors/). We occasionally recruit [guest editors](https://devguide.ropensci.org/softwarereviewintro.html#editors-and-reviewers) for some package reviews.
 
 ![Headshots of the rOpensci team](images/team-all.png "Headshots of the rOpensci team")
 
