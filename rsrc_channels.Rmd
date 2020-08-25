@@ -60,7 +60,7 @@ People join Slack by invitation from our Community Manager, other staff, a softw
 
 <!-- COMMENT: (STEFFI) Perhaps include a sentence explaining the rational for a Slack being a semi-open space. -->
 
-The benefit of Slack is the ability to more directly access rOpenSci staff and community members, including some more experienced folks in channels like #software-review or #package-maintenance, or to watch for postings in #jobs. People consider it an easier place to ask questions or explore ideas because while it has over 500 members, it’s not fully “in the open”. We actively welcome new members and ensure that all conversations are collegial. 
+The benefit of Slack is the ability to more directly access rOpenSci staff and community members, including some more experienced folks in channels like #software-review or #package-maintenance, or to watch for postings in #jobs. People consider it an easier place to ask questions or explore ideas because while it has over 500 members, it’s not fully “in the open”. [We actively welcome new members](https://ropensci.org/blog/2017/07/18/value-of-welcome/) and ensure that all conversations are collegial. 
 
 <div id="channels-help"></div>
 
