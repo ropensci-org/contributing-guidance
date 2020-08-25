@@ -21,7 +21,7 @@ tribble(~Channel, ~Purpose,
         "[GitHub - ropenscilabs](https://github.com/ropenscilabs)", "Experimental packages and code experiments from staff, collaborators, and participants of unconfs and related events",
         "[GitHub - ropensci-org](https://github.com/ropensci-org)", "Non-code repositories like this guide, the blog guide, ideas for Community Calls",
         "[Discussion forum](https://discuss.ropensci.org/)", "Public forum on Discourse for use cases, Q & A about rOpenSci packages, exploration of ideas and best practices",
-        "Slack", "A semi-closed space for communications among people who contribute to rOpenSci",
+        "Slack", "A semi-open space for communications among people who contribute to rOpenSci",
         "Email: info at ropensci dot org", "To reach rOpenSci staff when other modes are not suitable") %>%
   kable(format = "markdown")
 ```
@@ -58,7 +58,7 @@ We use [Slack](https://slack.com/intl/en-ca/help/articles/115004071768-What-is-S
 
 People join Slack by invitation from our Community Manager, other staff, a software review editor, or a strategic advisor. If you are eligible, you may contact our Community Manager [Stefanie Butland](https://github.com/stefaniebutland) via our [contact form](https://ropensci.org/contact/); provide your full name and email address.
 
-<!-- COMMENT: (STEFFI) Perhaps include a sentence explaining the rational for a Slack being a semi-closed space. -->
+<!-- COMMENT: (STEFFI) Perhaps include a sentence explaining the rational for a Slack being a semi-open space. -->
 
 The benefit of Slack is the ability to more directly access rOpenSci staff and community members, including some more experienced folks in channels like #software-review or #package-maintenance, or to watch for postings in #jobs. People consider it an easier place to ask questions or explore ideas because while it has over 500 members, it’s not fully “in the open”. We actively welcome new members and ensure that all conversations are collegial. 
 
