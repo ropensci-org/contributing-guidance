@@ -1,4 +1,4 @@
-## Community Contributing Guide {#contributing}
+## Contributing Guide {#contributing}
 
 
 This book you’re reading right now is the [rOpenSci Community Contributing Guide](https://contributing.ropensci.org/). Its purpose is to welcome you to rOpenSci and help you recognize yourself as a potential contributor. It will help you figure out what you might gain by giving your time, expertise, and experience, match your needs with things that will help rOpenSci’s mission, and connect you with resources to help you along the way. 
