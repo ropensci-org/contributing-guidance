@@ -37,7 +37,7 @@ What are some benefits of contributing?
 *   Level up your writing skills
 *   Get more exposure for your package
 
-Read [rOpenSci & Our Community](#intro) learn about our mission, what it means to be part of our community, and to meet some [Humans of rOpenSci](#humans).
+Read [rOpenSci & Our Community](#intro) to learn about our mission, what it means to be part of our community, and to meet some [Humans of rOpenSci](#humans).
 
 Browse [What brings you here?](#motivations) to find which “I want to …” statements fit you best and choose your path! To help you recognize yourself, we’ve grouped these into: [Discover](#discover); [Connect](#connect); [Learn](#learn); [Build](#build); [Help](#help). For each category, we list examples of what those contributions might look like and we link to our [resources](#resources) to help you get started. 
 
