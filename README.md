@@ -1,5 +1,3 @@
-This is a work in progress. 
-
-Creating a guide to help people who would like to contribute to rOpenSci.
+Cite as: Stefanie Butland & Steffi LaZerte (2020). rOpenSci Community Contributing Guide v0.1.0. http://doi.org/10.5281/zenodo.4000531
 
 
