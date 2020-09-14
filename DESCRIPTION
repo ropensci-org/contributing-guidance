@@ -1,5 +1,5 @@
 Package: contributing-guidance
-Title: rOpenSci Community Contributing Guide
+Title: rOpenSci Community Contributing Guidance
 Version: 0.0.0.9000
 Authors@R: 
     c(person(given = "Stefanie",
