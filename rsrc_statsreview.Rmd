@@ -1,6 +1,6 @@
 ## Statistical Software Peer Review Book {#statsreview}
 
-We invite you to join us in developing new standards for peer-reviewed evaluation of statistical software. Learn about this work in progress at [rOpenSci Statistical Software Peer Review](https://ropenscilabs.github.io/statistical-software-peer-review/index.html). 
+We invite you to join us in developing new standards for peer-reviewed evaluation of statistical software. Learn about this work in progress at [rOpenSci Statistical Software Peer Review](https://ropenscilabs.github.io/statistical-software-review-book/index.html). 
 
 Until recently, rOpenSci's software peer review program  focused on R packages for reproducible data life cycle management. To apply these processes to software implementing statistical methods and algorithms, we need new ways of evaluating and testing software, and of managing the review process, and to bring in new expert editors and reviewers. This book serves as a home for collecting research and developing those standards, documenting not only our guidelines for statistical software but also the process of expanding the scope of review so the general processes of software review may be adapted and reproduced in other domains.
 
