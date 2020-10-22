@@ -2,15 +2,11 @@
 
 The [Packages page](https://ropensci.org/packages/) on our website lists our carefully vetted, staff- and community-contributed R tools that lower barriers to working with open data sources for various research applications. Of over 400 packages, about 30.0% have been peer reviewed, and more than half are on CRAN. 
 
-The list is maintained in [our registry](https://github.com/ropensci/roregistry), which contains much more metadata about the packages. Documentation for rOpenSci packages is built and hosted at an automated documentation server ([docs.ropensci.org](https://docs.ropensci.org/); docs [codebase](https://github.com/ropensci/docs)).
+The list is maintained in [our registry](https://github.com/ropensci/roregistry), which contains much more metadata about the packages. Documentation for rOpenSci packages is built and hosted at an automated documentation server ([docs.ropensci.org](https://docs.ropensci.org/); [docs repository](https://github.com/ropensci/docs)).
 
-You can discover packages by searching with a package name, name of the maintainer (maybe you’re a fan of their work), or filter by category like “Taxonomy” or “Computing Infrastructure”. For any package, clicking on the package name takes you to its documentation. This docs page is where you can find information on using the package from getting started, Articles and Vignettes, and on making contributions from reporting bugs, to submitting feature requests or bug fixes. 
+You can discover packages by searching with a package name, name of the maintainer (maybe you’re a fan of their work), or by keywords in the description such as “taxonomy” or “weather”. Clicking on any package row expands the listing to include a package description and list of academic citations. Clicking on the "View Documentation" Button takes you to the docs page where you can find information on using the package from Getting Started, Articles and Vignettes, and on making contributions from reporting bugs, to submitting feature requests or bug fixes. If present, clicking on the "Peer-reviewed" badge will bring you to the peer-review discussion thread.
 
-![Screen shot of packages list showing what to click to access different information](images/packages1.png "Screen shot of packages list showing what to click to access different information")
-
-Clicking on the small arrow to the left of each package name expands the listing to include a package description and list of academic citations:
-
-![Screen shot of packages list showing expanded citation information for the skimr package](images/packages2.png "Screen shot of packages list showing expanded citation information for the skimr package")
+![Screen shot of packages list showing expanded information on the bomrang package and what to click to access different information](images/packages.png "Screen shot of packages list showing expanded information on the bomrang package and what to click to access different information")
 
 Often the best way to start learning about a package is to install it, and start playing with it. Try some of the examples, maybe on your own data, or with your own use case. You can learn more about how to use a package by reading blog posts and tech notes tagged with package names (like [tesseract](https://ropensci.org/tags/tesseract/) or [taxize](https://ropensci.org/tags/taxize/)). Browse the [tags page](https://ropensci.org/tags/) to find posts. Find examples of how others use them by browsing the [UsesCases category of our public forum](#usecases). Some of our [Community Calls](#commcalls) focus on packages in a specific domain. [Check out our archive](https://ropensci.org/commcalls/) with videos of past calls. Looking for more examples? Ask in the [forum](#channels-forum). 
 
