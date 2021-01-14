@@ -19,7 +19,5 @@ Imports:
     purrr,
     readr,
     tibble
-Remotes:
-    rstudio/bookdown
 URL: https://github.com/ropensci-org/contributing-guidance
 BugReports: https://github.com/ropensci-org/contributing-guidance/issues
