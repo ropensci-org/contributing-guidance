@@ -13,50 +13,24 @@ url: 'https\://contributing.ropensci.org/'
 apple-touch-icon: "favicon/apple-touch-icon.png"
 apple-touch-icon-size: 120
 favicon: "favicon/favicon.ico"
-cover-image: logo.png
----
-# Welcome! {-}
-
-
-We’re so happy you found your way here!
-
-The **purpose of this guide** is to welcome you to rOpenSci and help you recognize yourself as a potential contributor. It will help you figure out what you might gain by giving your time, expertise, and experience; match your needs with things that will help rOpenSci’s mission; and connect you with resources to help you along the way. 
-
-rOpenSci creates technical and community infrastructure for open and reproducible research that lowers barriers to working with scientific data in R. Our staff and community actively foster a welcoming environment where users and developers from different backgrounds and skill levels learn, share ideas and innovate together openly through shared norms and software. Participation in all rOpenSci activities is supported by our [Code of Conduct](#conduct).
-
-We welcome code and non-code contributions from new and seasoned coders at any career stage, and in any sector. You don’t have to be a developer! Maybe you want to **spend 30 minutes** sharing your package use case in our public forum or reporting a bug, **one hour** learning by attending a Community Call, **five hours** reviewing an R package submitted for open peer review, **or maybe you want to make an ongoing commitment** to help maintain a package.
-
-What are some benefits of contributing?
-
-*   Connect with a community  who shares your interest in making science more open
-*   Learn from people outside your domain who use R with challenges similar to yours
-*   Ask and answer new research questions by getting to know new software tools and allies
-*   Feel confident and supported in your efforts to write code and develop software
-*   Gain visibility for your open source work
-*   Improve the software you use or build
-*   Level up your R skills and help others level up theirs
-*   Level up your writing skills
-*   Get more exposure for your package
-
-Read [rOpenSci & Our Community](#intro) to learn about our mission, what it means to be part of our community, and to meet some [Humans of rOpenSci](#humans).
-
-Browse [What brings you here?](#motivations) to find which “I want to …” statements fit you best and choose your path! To help you recognize yourself, we’ve grouped these into: [Discover](#discover); [Connect](#connect); [Learn](#learn); [Build](#build); [Help](#help). For each category, we list examples of what those contributions might look like and we link to our [resources](#resources) to help you get started. 
-
-Or jump directly into rOpenSci [Resources](#resources) to find descriptions and links to guide specific contributions.
-
+cover-image: images/contrib_guide_cover.png
 ---
 
-_A huge thank you to everyone who has contributed to this guide so far! [Toby Hodges](https://github.com/tobyhodges), [Julia Stewart Lowndes](https://github.com/jules32), [Scott Chamberlain](https://github.com/sckott), [Jeroen Ooms](https://github.com/jeroen), [Karthik Ram](https://github.com/karthik), [Noam Ross](https://github.com/noamross), [Maëlle Salmon](https://github.com/maelle) (alphabetical order with community members followed by staff). Please tell us if we forgot to acknowledge your contribution_
+# {-}
 
-_This work was supported in part by a [NumFOCUS Small Development Grant](https://numfocus.org/programs/sustainability) to rOpenSci_
-
-Please cite this guide as: 
-
-Stefanie Butland & Steffi LaZerte (2020). ropensci-org/contributing-guidance: Contributing Guide v0.1.0. http://doi.org/10.5281/zenodo.4000531
+```{r, echo = FALSE, fig.cap="cover image"}
+knitr::include_graphics("images/contrib_guide_cover.png")
+citation <- "Stefanie Butland & Steffi LaZerte (2020). ropensci-org/contributing-guidance: Contributing Guide v0.1.0. http://doi.org/10.5281/zenodo.4000531"
+```
 
 <a href="https://doi.org/10.5281/zenodo.4000531"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4000531.svg?branch=master" alt="DOI"></a>
 
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/us/88x31.png" /></a><br /> This work is licensed under [a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 United States License](https://creativecommons.org/licenses/by-nc-sa/3.0/us/).
+
+Please cite this guide as: 
+
+`r citation`
+
 
 ```{r include = FALSE, eval = FALSE}
 # Check links (adapted from roblog::ro_check_urls)

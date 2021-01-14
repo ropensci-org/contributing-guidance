@@ -6,6 +6,7 @@ language:
   ui:
     chapter_name: "Chapter "
 rmd_files: ["index.Rmd", 
+            "welcome.Rmd",
             "intro.Rmd",
             "motivations.Rmd", 
             "resources.Rmd",
