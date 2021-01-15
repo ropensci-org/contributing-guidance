@@ -6,7 +6,12 @@ Authors@R:
              family = "Butland",
              role = c("aut", "cre"),
              email = "stefaniebutland@gmail.com"))
-             comment = c(ORCID = "0000-0002-5427-8951"))
+             comment = c(ORCID = "0000-0002-5427-8951")) 
+    c(person(given = "Steffi",
+             family = "LaZerte",
+             role = c("aut", "cre"),
+             email = "sel@steffilazerte.ca"))
+             comment = c(ORCID = "0000-0002-7690-8360"))
 Description: A guide to help people find ways to contribute to rOpenSci
 Encoding: UTF-8
 LazyData: true
