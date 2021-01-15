@@ -43,4 +43,4 @@ Gain exposure in the open science R community
 Grow my local or topic-specific community
 
 *   [Read blog posts or tech notes](#blog), particularly those tagged with “Welcome”, “unconf”, or “icebreaker”
-*   [Read about our community](#community), and some of the communities built by our members. See examples from the Australian “ozunconfs”, rOpenSci Antarctic and Southern Ocean Research, LatAm rOpenSci community, CDSB.
+*   [Read about our community](#community) and some of our neighbors: [rOpenSci Antarctic and Southern Ocean Research](https://ropensci.org/blog/2018/11/13/antarctic/); [R-Ladies](https://rladies.org/); [MiR Community](https://medium.com/@doritolay/introducing-mir-a-community-for-underrepresented-users-of-r-7560def7d861); [the Latin American R community](https://www.r-consortium.org/blog/2020/07/07/latin-american-communities-and-organizations-at-user2020); [Comunidad de Desarrolladores de Software en Bioinformática, CDSB](https://comunidadbioinfo.github.io/post/csdb-story-of-a-diversity-and-outreach-hotspot-in-mexico/); [Openscapes](https://www.openscapes.org/); [The Carpentries](https://carpentries.org/).
