@@ -18,10 +18,14 @@ cover-image: images/contrib_guide_cover.png
 
 # {-}
 
-```{r, echo = FALSE, fig.cap="cover image"}
+```{r, echo = FALSE, fig.cap="Cover illustration by Lydia Hill"}
 knitr::include_graphics("images/contrib_guide_cover.png")
 citation <- "Stefanie Butland & Steffi LaZerte (2020). ropensci-org/contributing-guidance: Contributing Guide v0.1.0. http://doi.org/10.5281/zenodo.4000531"
 ```
+
+*Cover illustration by [Lydia Hill](https://www.lydiakahill.com/)*
+
+
 
 <a href="https://doi.org/10.5281/zenodo.4000531"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4000531.svg?branch=master" alt="DOI"></a>
 
