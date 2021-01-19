@@ -1,6 +1,6 @@
 # (APPENDIX) Appendix {-}
 
-# Bibiliography
+# Bibliography
 
 We're always standing on the shoulders of giants, some of whom don't think of themselves as giants. The following resources together influenced the ideas, approach, design, tone, and content of the rOpenSci Community Contributing Guide. 
 
