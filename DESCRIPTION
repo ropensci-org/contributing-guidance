@@ -1,6 +1,6 @@
 Package: contributing-guidance
 Title: rOpenSci Community Contributing Guide
-Version: 0.0.0.9000
+Version: 0.1.0
 Authors@R: 
     c(person(given = "Stefanie",
              family = "Butland",
@@ -10,7 +10,7 @@ Authors@R:
     c(person(given = "Steffi",
              family = "LaZerte",
              role = c("aut", "cre"),
-             email = "sel@steffilazerte.ca"))
+             email = "steffi@steffi.ca"))
              comment = c(ORCID = "0000-0002-7690-8360"))
 Description: A guide to help people find ways to contribute to rOpenSci
 Encoding: UTF-8
