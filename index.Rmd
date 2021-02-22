@@ -13,6 +13,7 @@ url: 'https\://contributing.ropensci.org/'
 apple-touch-icon: "favicon/apple-touch-icon.png"
 apple-touch-icon-size: 120
 favicon: "favicon/favicon.ico"
+twitter: ropensci
 cover-image: images/contrib_guide_cover.png
 ---
 
