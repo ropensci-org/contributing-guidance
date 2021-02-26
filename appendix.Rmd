@@ -37,6 +37,7 @@ We're always standing on the shoulders of giants, some of whom don't think of th
 * Update peer-review editor (#38)
 * Fix Twitter link (#28)
 * Minor text re-wording (e.g., #34)
+* Switched to BS4 bookdown template
 
 ## 0.1.0 (2020-08-25)
 
