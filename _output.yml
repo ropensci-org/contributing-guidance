@@ -4,4 +4,6 @@ bookdown::bs4_book:
     yellow: "#804600"
     h4-font-size: "1.1rem"
   repo: https://github.com/ropensci-org/contributing-guidance
+  includes:
+    in_header: matomo.html
   css: guide.css
