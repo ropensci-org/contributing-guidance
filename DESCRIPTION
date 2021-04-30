@@ -31,6 +31,7 @@ Remotes:
     rstudio/htmltools,
     rstudio/bookdown,
     rstudio/bslib,
-    r-lib/downlit
+    r-lib/downlit,
+    r-lib/rlang
 URL: https://github.com/ropensci-org/contributing-guidance
 BugReports: https://github.com/ropensci-org/contributing-guidance/issues
