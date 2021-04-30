@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>Chapter 2 What brings you here? I want to … | rOpenSci Community Contributing Guide</title>
+<meta name="author" content="Stefanie Butland and Steffi LaZerte">
+<!-- JS --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.2"></script><script src="https://kit.fontawesome.com/6ecbd6c532.js" crossorigin="anonymous"></script><script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link href="libs/bootstrap-4.6.0/bootstrap.min.css" rel="stylesheet">
+<script src="libs/bootstrap-4.6.0/bootstrap.bundle.min.js"></script><script src="libs/bs3compat-0.2.4.9003/tabs.js"></script><script src="libs/bs3compat-0.2.4.9003/bs3compat.js"></script><link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet">
+<script src="libs/bs4_book-1.0.0/bs4_book.js"></script><script src="libs/accessible-code-block-0.0.1/empty-anchor.js"></script><!-- Matomo --><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css">
+<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script><script src="https://ropensci.org/scripts/matomo.js"></script><noscript><div class="inline-figure"><img src="https://ropensci.matomo.cloud/matomo.php?idsite=1&amp;rec=1" style="border:0;" alt=""></div></noscript>
+<!-- End Matomo Code --><script src="https://cdn.jsdelivr.net/autocomplete.js/0/autocomplete.jquery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/mark.js@8.11.1/dist/mark.min.js"></script><!-- CSS --><link rel="stylesheet" href="guide.css">
+</head>
+<body data-spy="scroll" data-target="#toc">
+
+<div class="container-fluid">
+<div class="row">
+  <header class="col-sm-12 col-lg-3 sidebar sidebar-book"><a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
+
+    <div class="d-flex align-items-start justify-content-between">
+      <h1>
+        <a href="index.html" title="">rOpenSci Community Contributing Guide</a>
+      </h1>
+      <button class="btn btn-outline-primary d-lg-none ml-2 mt-1" type="button" data-toggle="collapse" data-target="#main-nav" aria-expanded="true" aria-controls="main-nav"><i class="fas fa-bars"></i><span class="sr-only">Show table of contents</span></button>
+    </div>
+
+    <div id="main-nav" class="collapse-lg">
+      <form role="search">
+        <input id="search" class="form-control" type="search" placeholder="Search" aria-label="Search">
+</form>
+
+      <nav aria-label="Table of contents"><h2>Table of contents</h2>
+        <ul class="book-toc list-unstyled">
+<li><a class="" href="index.html"></a></li>
+<li><a class="" href="welcome.html">Welcome</a></li>
+<li><a class="" href="intro.html"><span class="header-section-number">1</span> rOpenSci &amp; Our Community</a></li>
+<li><a class="active" href="motivations.html"><span class="header-section-number">2</span> What brings you here? I want to …</a></li>
+<li><a class="" href="resources.html"><span class="header-section-number">3</span> rOpenSci Resources</a></li>
+<li class="book-part">Appendix</li>
+<li><a class="" href="bibliography.html"><span class="header-section-number">A</span> Bibliography</a></li>
+<li><a class="" href="news.html"><span class="header-section-number">B</span> NEWS</a></li>
+</ul>
+
+        <div class="book-extra">
+          <p><a id="book-repo" href="https://github.com/ropensci-org/contributing-guidance">View book source <i class="fab fa-github"></i></a></p>
+        </div>
+      </nav>
+</div>
+  </header><main class="col-sm-12 col-md-9 col-lg-7" id="content"><div id="motivations" class="section level1">
+<h1>
+<span class="header-section-number">2</span> What brings you here? I want to …<a class="anchor" aria-label="anchor" href="#motivations"><i class="fas fa-link"></i></a>
+</h1>
+<p>Contributors to rOpenSci come with a wide range of motivations, which can include wanting a tangible way to participate in open science. First-time contributions may come from people in different places on a continuum of experience: from those who consider themselves newcomers exploring the landscape and trying to see where they fit, all the way to more experienced folks who know exactly what they have to offer and what they would like to contribute.</p>
+<p>Contributing to rOpenSci can help you build your track record of public contributions (such as code or documentation on GitHub), and may help improve your CV for job, fellowship, or award applications.</p>
+<p>Participation in an open source project like rOpenSci is more likely to be a lifecycle than a linear path. Having a package pass peer review for the first time can feel like a huge milestone. You might write a blog post about the package, “give back” by participating as a reviewer or mentoring someone else in their first review, or answering questions about package maintenance. But as a person becomes more experienced, they may move on. The value someone might get out of participating here will change over time and that is perfectly ok.</p>
+<blockquote>
+<p>…users pursuing their own “selfish” interests build collective value as an automatic byproduct.
+<br><a href="https://www.oreilly.com/pub/a/tim/articles/paradigmshift_0504.html">Tim O’Reilly on The Architecture of Participation</a></p>
+</blockquote>
+<p>Do you already know what value you want to get out of contributing? (It’s ok if you don’t know yet.) <strong>To help you recognize yourself</strong>, we’ve categorized what we think contributors to rOpenSci want into: <a href="motivations.html#discover">Discover</a>; <a href="motivations.html#connect">Connect</a>; <a href="motivations.html#learn">Learn</a>; <a href="motivations.html#build">Build</a>; <a href="motivations.html#help">Help</a>. For each category, <strong>we list examples of what those contributions might look like and we link to our <a href="resources.html#resources">resources</a></strong> to help you get started.</p>
+<p>Choose your path. It’s the journey, not the destination.</p>
+<div id="discover" class="section level2">
+<h2>
+<span class="header-section-number">2.1</span> Discover<a class="anchor" aria-label="anchor" href="#discover"><i class="fas fa-link"></i></a>
+</h2>
+<p>Making data, tools, and best practices more discoverable is part of <a href="intro.html#mission">our mission</a>. For many, using an rOpenSci package is their first encounter with our organization. It’s the most common gateway to further involvement through connections with other users, or sharing use cases, for example.</p>
+<p>Scan the “I want to” statements below to find something that interests you. Click on any action under a statement to go to a description of the relevant rOpenSci resource with details on how to contribute.</p>
+<p><strong>I want to:</strong></p>
+<p>Discover packages I can use to facilitate my research and access open data</p>
+<ul>
+<li><a href="resources.html#packages">Browse rOpenSci packages</a></li>
+<li><a href="resources.html#usecases">Explore use cases for rOpenSci packages</a></li>
+<li>
+<a href="resources.html#blog">Read blog posts or tech notes</a> about specific rOpenSci packages, about creative use cases for multiple rOpenSci packages, or about open data accessible through our packages</li>
+<li>
+<a href="resources.html#taskviews">Browse task views</a> to discover packages to use</li>
+<li><a href="resources.html#channels">Subscribe to our Newsletter</a></li>
+<li><a href="resources.html#channels">Follow rOpenSci on Twitter</a></li>
+<li>
+<a href="resources.html#channels">Follow roknowtifier on Twitter</a> to get notified about new packages and package updates in real time</li>
+<li>
+<a href="resources.html#packages">Browse citations of rOpenSci packages</a> to see what other researchers are using</li>
+</ul>
+<p>Discover resources on best practices for software development</p>
+<ul>
+<li><a href="resources.html#devguide">Read the Dev Guide</a></li>
+<li>
+<a href="resources.html#channels">Read or ask questions</a> in the “Best Practices” category in our forum or on <a href="resources.html#channels-slack">Slack</a>
+</li>
+<li><a href="resources.html#commcalls">Attend a Community Call</a></li>
+<li><a href="resources.html#commcalls">Watch recordings and read collaborative notes from past Community Calls</a></li>
+<li><a href="resources.html#blog">Read blog posts or tech notes</a></li>
+</ul>
+<p>Discover resources on community building</p>
+<ul>
+<li>
+<a href="resources.html#blog">Read blog posts or tech notes</a>, particularly those tagged with “Welcome”, “unconf”, or “icebreaker”</li>
+<li>
+<a href="intro.html#community">Read about our community</a> and some of the communities built by our members</li>
+</ul>
+</div>
+<div id="connect" class="section level2">
+<h2>
+<span class="header-section-number">2.2</span> Connect<a class="anchor" aria-label="anchor" href="#connect"><i class="fas fa-link"></i></a>
+</h2>
+<p>An implicit value in participating in rOpenSci is the connections people make with other scientists, R users, developers, or research software engineers who want to do their research in a more open and reproducible fashion. The rOpenSci community is a welcoming place to connect with like-minded people who share interests and values and a motivation to develop the related skills, techniques, and practices.</p>
+<blockquote>
+<p><a href="https://ropensci.org/blog/2017/06/23/community/">Hey! You there! You are welcome here</a>
+<br>
+Shannon Ellis’ rOpenSci blog post</p>
+</blockquote>
+<p>Scan the “I want to” statements below to find something that interests you. Click on any action under a statement to go to a description of the relevant rOpenSci resource with details on how to contribute.</p>
+<p><strong>I want to:</strong></p>
+<p>Belong to a supportive community</p>
+<ul>
+<li><a href="intro.html#community">Read about our community</a></li>
+<li>
+<a href="intro.html#humans">Meet the Humans of rOpenSci</a> and learn about their roles, their research, career paths, and contributions</li>
+<li>
+<a href="resources.html#conduct">Read our Code of Conduct</a> to ensure you’re prepared to participate</li>
+<li>
+<a href="resources.html#commcalls">Attend a Community Call</a> to get a feel for how we work and communicate with each other. See who else is interested in a topic, what questions they’re asking, ask your own questions in a collegial environment, share your expertise in a collaborative notes resource for the call</li>
+<li>
+<a href="resources.html#blog">Read blog posts or tech notes</a>, particularly those tagged with “Welcome” to get a feel for how we value people in our community.</li>
+<li>
+<a href="resources.html#channels">Support fellow community members</a> (e.g., by welcoming newcomers, giving credit, connecting members with people or resources)</li>
+<li>
+<a href="resources.html#channels">Ask or answer questions</a> in the forum or on <a href="resources.html#channels-slack">Slack</a>
+</li>
+</ul>
+<p>Meet and work with other users and developers of open science packages</p>
+<ul>
+<li>
+<a href="resources.html#issues">Address an issue</a>. Explore open issues in rOpenSci packages and consider submitting a fix.</li>
+<li>
+<a href="resources.html#devguide">Volunteer to review a package</a> and use your experience to help a developer</li>
+<li><a href="resources.html#devguide">Volunteer to maintain or co-maintain a package</a></li>
+<li>
+<a href="resources.html#channels-slack">Try a 2-hour remote co-working session</a> with someone in our Slack #co-working channel. Read about contributions required to join <a href="resources.html#channels-slack">rOpenSci Slack</a>
+</li>
+<li>
+<a href="resources.html#channels-forum">Seek community feedback on your package ideas in the “Packages” category in our forum</a>. Ideas for new packages, package updates, or package features.</li>
+</ul>
+<p>Gain exposure in the open science R community</p>
+<ul>
+<li>
+<a href="resources.html#usecases">Share a use case</a> for an rOpenSci package</li>
+<li>
+<a href="resources.html#issues">Address an issue</a>. Explore open issues in rOpenSci packages and consider submitting a fix.</li>
+<li><a href="resources.html#devguide">Volunteer to review a package</a></li>
+<li>
+<a href="resources.html#devguide">Submit your package for peer review</a> after determining whether it‘s in scope for rOpenSci</li>
+<li>
+<strong>Write a blog post or tech note</strong> to share your experiences (see both the <a href="resources.html#blog">Blog</a> and the <a href="resources.html#blogguide">Blog Guide</a>)</li>
+<li><a href="resources.html#devguide">Ensure your package is easily citable</a></li>
+</ul>
+<p>Grow my local or topic-specific community</p>
+<ul>
+<li>
+<a href="resources.html#blog">Read blog posts or tech notes</a>, particularly those tagged with “Welcome”, “unconf”, or “icebreaker”</li>
+<li>
+<a href="intro.html#community">Read about our community</a> and some of our neighbors: <a href="https://ropensci.org/blog/2018/11/13/antarctic/">rOpenSci Antarctic and Southern Ocean Research</a>; <a href="https://rladies.org/">R-Ladies</a>; <a href="https://medium.com/@doritolay/introducing-mir-a-community-for-underrepresented-users-of-r-7560def7d861">MiR Community</a>; <a href="https://www.r-consortium.org/blog/2020/07/07/latin-american-communities-and-organizations-at-user2020">the Latin American R community</a>; <a href="https://comunidadbioinfo.github.io/post/csdb-story-of-a-diversity-and-outreach-hotspot-in-mexico/">Comunidad de Desarrolladores de Software en Bioinformática, CDSB</a>; <a href="https://www.openscapes.org/">Openscapes</a>; <a href="https://carpentries.org/">The Carpentries</a>.</li>
+</ul>
+</div>
+<div id="learn" class="section level2">
+<h2>
+<span class="header-section-number">2.3</span> Learn<a class="anchor" aria-label="anchor" href="#learn"><i class="fas fa-link"></i></a>
+</h2>
+<p>rOpenSci provides avenues for new and more seasoned R users and developers to learn - from learning by reading and listening, to learning by doing. All in an atmosphere of trust, generosity, giving credit, and sharing gratitude. We focus here on using, developing, documenting code, and building community, as they specifically align with our mission. People looking for more general R learning may refer to <a href="https://education.rstudio.com/">RStudio Education</a> and <a href="https://carpentries.org/">The Carpentries</a>.</p>
+<p>Scan the “I want to” statements below to find something that interests you. Click on any action under a statement to go to a description of the relevant rOpenSci resource with details on how to contribute.</p>
+<p><strong>I want to:</strong></p>
+<p>Be informed by reading and listening</p>
+<ul>
+<li><a href="resources.html#channels">Follow rOpenSci on Twitter</a></li>
+<li>
+<a href="resources.html#channels">Follow roknowtifier on Twitter</a> to get notifications about new packages and package updates in real time</li>
+<li><a href="resources.html#channels">Subscribe to our Newsletter</a></li>
+<li><a href="resources.html#blog">Read blog posts or tech notes</a></li>
+<li><a href="resources.html#commcalls">Attend a Community Call</a></li>
+<li><a href="resources.html#commcalls">Watch recordings and read collaborative notes from past Community Calls</a></li>
+<li>
+<a href="resources.html#usecases">Explore use cases</a> shared by community members</li>
+<li>
+<a href="resources.html#channels">Follow discussions</a> about statistical software peer review, best practices, and Q &amp; A in the forum or on <a href="resources.html#channels-slack">Slack</a>
+</li>
+</ul>
+<p>Improve the reproducibility of my research and apply best practices in my work</p>
+<ul>
+<li>
+<a href="resources.html#packages">Use an rOpenSci package</a> if it does something you need instead of writing new code yourself</li>
+<li>
+<a href="resources.html#commcalls">Attend a Community Call</a> or <a href="resources.html#commcalls">watch recordings and read collaborative notes from past Community Calls</a>. Some past calls have covered these topics</li>
+<li>
+<a href="resources.html#devguide">Read the Dev Guide</a> and adopt some new best practices</li>
+<li>
+<a href="resources.html#statsreview">Read our book on Statistical Software Peer Review</a> to familiarize yourself with standards being developed</li>
+<li>
+<a href="resources.html#channels">Read or ask questions</a> in the “Best Practices” category in our forum or on <a href="resources.html#channels-slack">Slack</a>
+</li>
+<li>
+<a href="resources.html#devguide">Submit your package for peer review</a> after determining whether it’s in scope for rOpenSci</li>
+</ul>
+<p>Improve my R and software development skills</p>
+<ul>
+<li>Find new packages to try: <a href="resources.html#packages">Browse rOpenSci packages</a>, <a href="resources.html#usecases">explore use cases</a>, <a href="resources.html#blog">read blog posts or tech notes</a>
+</li>
+<li><a href="resources.html#devguide">Volunteer to review a package</a></li>
+<li><a href="resources.html#channels-forum">Seek community feedback on your package ideas in the “Packages” category in our forum</a></li>
+<li><a href="resources.html#packages">Review package documentation</a></li>
+<li>
+<a href="resources.html#packages">Make a pull request</a> to add/fix examples or clarify package documentation</li>
+<li><a href="resources.html#packages">Write a vignette/article for a package</a></li>
+<li><a href="resources.html#usecases">Share a use case</a></li>
+<li>
+<a href="resources.html#packages">Write a post about using rOpenSci packages</a> on your own blog</li>
+<li>After learning something new, <strong>write a blog post or tech note</strong> to share your experiences (see both the <a href="resources.html#blog">Blog</a> and the <a href="resources.html#blogguide">Blog Guide</a>)</li>
+<li>
+<a href="resources.html#channels">Ask or answer questions</a> in the forum or on <a href="resources.html#channels-slack">Slack</a>
+</li>
+<li><a href="resources.html#devguide">Volunteer to maintain or co-maintain a package</a></li>
+<li>
+<a href="resources.html#devguide">Submit your package for peer review</a> after determining whether it’s in scope for rOpenSci</li>
+</ul>
+<p>Learn how to review R code</p>
+<ul>
+<li>
+<a href="resources.html#blog">Read blog posts or tech notes</a> written by reviewers (including some first-time reviewers) about their experiences</li>
+<li>
+<a href="resources.html#devguide">Read the Dev Guide</a>, especially the Reviewer Guide section</li>
+<li>
+<a href="resources.html#devguide">Volunteer to review a package</a>. Learn by doing!</li>
+</ul>
+<p>Learn how to get my package on CRAN</p>
+<ul>
+<li>
+<a href="resources.html#devguide">Read the Dev Guide</a>, especially the CRAN Gotchas section</li>
+<li>
+<a href="resources.html#channels">Read or ask questions</a> in the “Packages” category in our forum or on <a href="resources.html#channels-slack">Slack</a>
+</li>
+<li><a href="resources.html#channels-forum">Seek community feedback on your package ideas in the “Packages” category in our forum</a></li>
+<li>
+<a href="resources.html#devguide">Submit your package for peer review</a> after determining whether it’s in scope for rOpenSci. The review process is very useful for making sure your package is also suitable for CRAN.</li>
+</ul>
+<p>Learn about career paths in R and open science</p>
+<ul>
+<li>
+<a href="intro.html#humans">Meet the Humans of rOpenSci</a> and learn about their roles, their research, career paths, and contributions</li>
+<li>
+<a href="resources.html#blog">Read blog posts or tech notes</a>, particularly those tagged with “Interviews”, which feature experienced rOpenSci community members</li>
+<li>
+<a href="resources.html#channels">Browse the Jobs category</a> in our public forum or in <a href="resources.html#channels-slack">Slack</a>
+</li>
+</ul>
+</div>
+<div id="build" class="section level2">
+<h2>
+<span class="header-section-number">2.4</span> Build<a class="anchor" aria-label="anchor" href="#build"><i class="fas fa-link"></i></a>
+</h2>
+<p>Perhaps the roles people associate most with contributing to rOpenSci involve building and influencing the research software landscape in R. This includes things like having a stake in package development and documentation, discussions on new projects like developing standards for <a href="resources.html#statsreview">statistical software peer review</a>, or influencing the adoption of more open and reproducible research in your department, your institution, or your field.</p>
+<p>Scan the “I want to” statements below to find something that interests you. Click on any action under a statement to go to a description of the relevant rOpenSci resource with details on how to contribute.</p>
+<p><strong>I want to:</strong></p>
+<p>Improve and promote open science in my field</p>
+<ul>
+<li><a href="resources.html#devguide">Volunteer to review a package</a></li>
+<li>Contribute to a task view. <a href="resources.html#taskviews">Make a pull request</a> to add packages or details to an existing task view after discussing your approach with the maintainer</li>
+<li>Develop a package and <a href="resources.html#devguide">submit it for peer review</a> after determining whether it’s in scope for rOpenSci</li>
+<li><a href="resources.html#commcalls">Recommend topics or speakers for Community Calls</a></li>
+<li><a href="resources.html#commcalls">Help organize a Community Call</a></li>
+<li>
+<a href="resources.html#packages">Write a post about using rOpenSci packages</a> on your own blog</li>
+<li><a href="resources.html#packages">Cite rOpenSci packages in manuscripts and presentations</a></li>
+<li><a href="resources.html#devguide">Ensure your package is easily citable</a></li>
+</ul>
+<p>Influence package development</p>
+<ul>
+<li><a href="resources.html#devguide">Volunteer to review a package</a></li>
+<li>
+<a href="resources.html#packages">Report a bug</a> in an rOpenSci package</li>
+<li><a href="resources.html#packages">Make a feature request</a></li>
+<li>
+<a href="resources.html#packages">Make a pull request</a> to fix a bug or add a feature</li>
+</ul>
+<p>Improve package documentation and examples</p>
+<ul>
+<li>
+<a href="resources.html#packages">Review documentation</a> and help the author by letting them know what’s unclear or <a href="resources.html#packages">Make a pull request</a> to add/fix examples or to add/clarify documentation</li>
+<li><a href="resources.html#packages">Write a vignette/article for a package</a></li>
+<li>
+<a href="resources.html#usecases">Share a use case</a> or encourage your peers to do the same</li>
+</ul>
+<p>Promote best practices for R development</p>
+<ul>
+<li>
+<a href="resources.html#channels">Engage with us on Twitter</a>. Amplify best practices from our social media to your networks</li>
+<li>
+<a href="resources.html#channels">Ask or answer questions</a> in the the “Best Practices” category in our forum or on <a href="resources.html#channels-slack">Slack</a>
+</li>
+<li>
+<strong>Write a blog post or tech note</strong> about the development of your rOpenSci package or your implementation of best practices (see both the <a href="resources.html#blog">Blog</a> and the <a href="resources.html#blogguide">Blog Guide</a>)</li>
+<li><a href="resources.html#commcalls">Recommend topics or speakers for Community Calls</a></li>
+<li><a href="resources.html#commcalls">Help organize a Community Call</a></li>
+</ul>
+<p>Promote software citations</p>
+<ul>
+<li>
+<a href="resources.html#packages">Cite rOpenSci packages in manuscripts and presentations</a> and encourage your colleagues to do the same</li>
+<li><a href="resources.html#devguide">Ensure your package is easily citable</a></li>
+</ul>
+<p>Get more visibility and more users for my rOpenSci package</p>
+<ul>
+<li><a href="resources.html#devguide">Publish a paper about your package</a></li>
+<li>
+<a href="resources.html#packages">Write a post about using rOpenSci packages</a> on your own blog</li>
+<li>Write a post or tech note about your package for the rOpenSci blog (see both the <a href="resources.html#blog">Blog</a> and the <a href="resources.html#blogguide">Blog Guide</a>)</li>
+</ul>
+<p>Get people to work on open issues in my rOpenSci package</p>
+<ul>
+<li>
+<a href="resources.html#issues">Label your issues</a> to make them more discoverable</li>
+<li>
+<a href="resources.html#issues">Include future plans for your package</a> in the README.</li>
+<li>
+<a href="resources.html#devguide">Request a co-maintainer for your package</a>. Bringing on an additional maintainer can be a way to manage the volume of work, work through issues, and increase package sustainability.</li>
+</ul>
+</div>
+<div id="help" class="section level2">
+<h2>
+<span class="header-section-number">2.5</span> Help<a class="anchor" aria-label="anchor" href="#help"><i class="fas fa-link"></i></a>
+</h2>
+<p>One major motivation for contributing to rOpenSci is people’s desire to “give back” in appreciation of good software, good infrastructure, and a good community in which folks share their gratitude often and openly. The ways you can help are limitless. We encourage people to support others by sharing their experience or expertise. Don’t underestimate the value of sharing your first-time experience doing a thing; that is an immense help to others who don’t yet recognize the value of their own contributions.</p>
+<p>Scan the “I want to” statements below to find something that interests you. Click on any action under a statement to go to a description of the relevant rOpenSci resource with details on how to contribute.</p>
+<p><strong>I want to:</strong></p>
+<p>Support rOpenSci or give back to open source</p>
+<ul>
+<li><a href="intro.html#mission">Read about our mission</a></li>
+<li><a href="resources.html#packages">Tell a friend about an rOpenSci package that may be useful for their work</a></li>
+<li>
+<a href="resources.html#packages">Cite rOpenSci packages</a> in manuscripts and presentations and encourage your colleagues to cite software</li>
+<li><a href="resources.html#devguide">Ensure your package is easily citable</a></li>
+<li>
+<a href="resources.html#usecases">Submit a use case</a> for an rOpenSci package</li>
+<li>
+<a href="resources.html#channels">Engage with us on Twitter</a>. Amplify best practices from our social media to your networks. Reply to or quote a tweet to share your experience or expertise on a topic</li>
+<li><a href="resources.html#devguide">Weigh in on tough technical issues on software review threads</a></li>
+<li>
+<a href="https://ropensci.org/donate/">Donate</a> to rOpenSci</li>
+</ul>
+<p>Help other community members</p>
+<ul>
+<li>
+<a href="resources.html#devguide">Volunteer to review a package</a>. We appreciate having experienced reviewers who are willing to be paired with a first-time reviewer</li>
+<li>
+<a href="resources.html#channels">Answer questions</a> in the forum or on <a href="resources.html#channels-slack">Slack</a>
+</li>
+<li>
+<a href="resources.html#channels">Support fellow community members</a> (e.g., by welcoming newcomers, giving credit, connecting members with people or resources)</li>
+</ul>
+<p>Provide something I think the community is missing</p>
+<ul>
+<li><a href="resources.html#contributing">Contribute something that isn’t addressed in this Contributing Guide</a></li>
+</ul>
+</div>
+</div>
+  <div class="chapter-nav">
+<div class="prev"><a href="intro.html"><span class="header-section-number">1</span> rOpenSci &amp; Our Community</a></div>
+<div class="next"><a href="resources.html"><span class="header-section-number">3</span> rOpenSci Resources</a></div>
+</div></main><div class="col-md-3 col-lg-2 d-none d-md-block sidebar sidebar-chapter">
+    <nav id="toc" data-toggle="toc" aria-label="On this page"><h2>On this page</h2>
+      <ul class="nav navbar-nav">
+<li><a class="nav-link" href="#motivations"><span class="header-section-number">2</span> What brings you here? I want to …</a></li>
+<li><a class="nav-link" href="#discover"><span class="header-section-number">2.1</span> Discover</a></li>
+<li><a class="nav-link" href="#connect"><span class="header-section-number">2.2</span> Connect</a></li>
+<li><a class="nav-link" href="#learn"><span class="header-section-number">2.3</span> Learn</a></li>
+<li><a class="nav-link" href="#build"><span class="header-section-number">2.4</span> Build</a></li>
+<li><a class="nav-link" href="#help"><span class="header-section-number">2.5</span> Help</a></li>
+</ul>
+
+      <div class="book-extra">
+        <ul class="list-unstyled">
+<li><a id="book-source" href="https://github.com/ropensci-org/contributing-guidance/blob/master/motivations.Rmd">View source <i class="fab fa-github"></i></a></li>
+          <li><a id="book-edit" href="https://github.com/ropensci-org/contributing-guidance/edit/master/motivations.Rmd">Edit this page <i class="fab fa-github"></i></a></li>
+        </ul>
+</div>
+    </nav>
+</div>
+
+</div>
+</div> <!-- .container -->
+
+<footer class="bg-primary text-light mt-5"><div class="container"><div class="row">
+
+  <div class="col-12 col-md-6 mt-3">
+    <p>"<strong>rOpenSci Community Contributing Guide</strong>" was written by Stefanie Butland and Steffi LaZerte. It was last built on 2021-04-30.</p>
+  </div>
+
+  <div class="col-12 col-md-6 mt-3">
+    <p>This book was built by the <a class="text-light" href="https://bookdown.org">bookdown</a> R package.</p>
+  </div>
+
+</div></div>
+</footer>
+</body>
+</html>

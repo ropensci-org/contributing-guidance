@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>Chapter 1 rOpenSci &amp; Our Community | rOpenSci Community Contributing Guide</title>
+<meta name="author" content="Stefanie Butland and Steffi LaZerte">
+<!-- JS --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.2"></script><script src="https://kit.fontawesome.com/6ecbd6c532.js" crossorigin="anonymous"></script><script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link href="libs/bootstrap-4.6.0/bootstrap.min.css" rel="stylesheet">
+<script src="libs/bootstrap-4.6.0/bootstrap.bundle.min.js"></script><script src="libs/bs3compat-0.2.4.9003/tabs.js"></script><script src="libs/bs3compat-0.2.4.9003/bs3compat.js"></script><link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet">
+<script src="libs/bs4_book-1.0.0/bs4_book.js"></script><script src="libs/accessible-code-block-0.0.1/empty-anchor.js"></script><!-- Matomo --><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css">
+<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script><script src="https://ropensci.org/scripts/matomo.js"></script><noscript><div class="inline-figure"><img src="https://ropensci.matomo.cloud/matomo.php?idsite=1&amp;rec=1" style="border:0;" alt=""></div></noscript>
+<!-- End Matomo Code --><script src="https://cdn.jsdelivr.net/autocomplete.js/0/autocomplete.jquery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/mark.js@8.11.1/dist/mark.min.js"></script><!-- CSS --><link rel="stylesheet" href="guide.css">
+</head>
+<body data-spy="scroll" data-target="#toc">
+
+<div class="container-fluid">
+<div class="row">
+  <header class="col-sm-12 col-lg-3 sidebar sidebar-book"><a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
+
+    <div class="d-flex align-items-start justify-content-between">
+      <h1>
+        <a href="index.html" title="">rOpenSci Community Contributing Guide</a>
+      </h1>
+      <button class="btn btn-outline-primary d-lg-none ml-2 mt-1" type="button" data-toggle="collapse" data-target="#main-nav" aria-expanded="true" aria-controls="main-nav"><i class="fas fa-bars"></i><span class="sr-only">Show table of contents</span></button>
+    </div>
+
+    <div id="main-nav" class="collapse-lg">
+      <form role="search">
+        <input id="search" class="form-control" type="search" placeholder="Search" aria-label="Search">
+</form>
+
+      <nav aria-label="Table of contents"><h2>Table of contents</h2>
+        <ul class="book-toc list-unstyled">
+<li><a class="" href="index.html"></a></li>
+<li><a class="" href="welcome.html">Welcome</a></li>
+<li><a class="active" href="intro.html"><span class="header-section-number">1</span> rOpenSci &amp; Our Community</a></li>
+<li><a class="" href="motivations.html"><span class="header-section-number">2</span> What brings you here? I want to …</a></li>
+<li><a class="" href="resources.html"><span class="header-section-number">3</span> rOpenSci Resources</a></li>
+<li class="book-part">Appendix</li>
+<li><a class="" href="bibliography.html"><span class="header-section-number">A</span> Bibliography</a></li>
+<li><a class="" href="news.html"><span class="header-section-number">B</span> NEWS</a></li>
+</ul>
+
+        <div class="book-extra">
+          <p><a id="book-repo" href="https://github.com/ropensci-org/contributing-guidance">View book source <i class="fab fa-github"></i></a></p>
+        </div>
+      </nav>
+</div>
+  </header><main class="col-sm-12 col-md-9 col-lg-7" id="content"><div id="intro" class="section level1">
+<h1>
+<span class="header-section-number">1</span> rOpenSci &amp; Our Community<a class="anchor" aria-label="anchor" href="#intro"><i class="fas fa-link"></i></a>
+</h1>
+<div id="mission" class="section level2">
+<h2>
+<span class="header-section-number">1.1</span> Our Mission<a class="anchor" aria-label="anchor" href="#mission"><i class="fas fa-link"></i></a>
+</h2>
+<p>Our work is driven by <a href="https://ropensci.org/about/">our vision and mission</a>.</p>
+<p>rOpenSci fosters a culture that values <strong>open and reproducible research</strong> using shared data and reusable software.</p>
+<p>We do this by:</p>
+<ul>
+<li>Creating technical <strong>infrastructure</strong> in the form of carefully vetted, staff- and community-contributed R software tools that lower barriers to working with scientific data sources on the web</li>
+<li>Creating social infrastructure through a welcoming and diverse <strong>community</strong>
+</li>
+<li>Making the right data, tools and best practices more <strong>discoverable</strong>
+</li>
+<li>Building <strong>capacity</strong> of software users and developers and fostering a sense of pride in their work</li>
+<li>Promoting <strong>advocacy</strong> for a culture of data sharing and reusable software</li>
+</ul>
+<p>Our goal is to build confidence and a sense of belonging for people of all backgrounds, particularly those who might not see themselves as software developers (as many scientists may not!). We do this through building trust and establishing shared norms for working openly, leveraging and creating open source software and resources that support open, reproducible science.</p>
+<blockquote>
+<p>Everyone in the community, no matter how accomplished they are in their own specialty, comes with a mind open to learning from, with, and for each other. We learn from others by using their code and documentation, their blogs and tutorials, their talks and webinars. We learn with others online through Twitter, discussion forums and Slack channels, and in person through coding clubs, hacky hours, meetups, workshops and conferences. And we learn for others by writing tutorials and blogs about our own learning processes, or adding or fulfilling feature requests, which we can then contribute back to the community.
+<br><a href="https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/">Julia Stewart Lowndes in “Open Software Means Kinder Science”</a></p>
+</blockquote>
+</div>
+<div id="community" class="section level2">
+<h2>
+<span class="header-section-number">1.2</span> Our Community<a class="anchor" aria-label="anchor" href="#community"><i class="fas fa-link"></i></a>
+</h2>
+<p>Our community is our best asset! Without the secret sauce that is the Humans of rOpenSci, we’re just a lot of (really good) packages and processes. Our community is an ephemeral thing. It’s everywhere and nowhere. It’s people who believe in our mission and share our values, and have a mindset for learning, improving, and innovating together. It’s people who prioritize open, reusable, and reproducible research software while also prioritizing creating inclusive spaces through empathy and building trust. There are no stupid questions at rOpenSci; everyone appreciates the diversity of expertise and entryways to coding in this thing we love called R.</p>
+<p><strong>The rOpenSci community is a self-identifying group</strong> composed of users and developers of R software tools who, together, contribute to the technical and social infrastructure for open and reproducible research. Our specific focus is on software and best practices that lower the barriers to working with scientific data sources. Community members are people who use, cite and share use cases for rOpenSci packages, attend or present in our Community Calls, write a post for our blog, participated in an rOpenSci unconf, or in our research domain focused communities like rOpenSci-Antarctic and Southern Ocean Research, answer questions in our fora, actively participate in the life of an rOpenSci project reporting problems and recommending or implementing solutions, contribute to, or maintain a package, or participate in rOpenSci peer review as a reviewer, author or editor.</p>
+<p>Having a diverse community is important to us. We welcome anyone dedicated to making their science more open and supporting others in that pursuit, no matter their technical expertise, career stage, or work sector. Further, we welcome people of all backgrounds, including but not limited to any sexuality, gender identity, and race. We are anti-racist. We recognize that communities are not inclusive by default, particularly as they grow: they require deliberate attention. We are all supported by rOpenSci’s <a href="https://ropensci.org/author/stefanie-butland/">Community Manager</a> and a <a href="resources.html#conduct">Code of Conduct</a> that has clear guidelines for behavior and reporting, and is enforced by a committee including rOpenSci staff and an independent community member.</p>
+<div id="humans" class="section level3">
+<h3>
+<span class="header-section-number">1.2.1</span> Humans of rOpenSci<a class="anchor" aria-label="anchor" href="#humans"><i class="fas fa-link"></i></a>
+</h3>
+<p>In this section we point to groups of people with various formal and informal roles in our community. This gives some transparency, may help people “recognize themselves” in some roles, and provide a foundation to allow folks to reach out to others to learn about making contributions.</p>
+<p>rOpenSci was <strong>founded</strong> in 2011 by <a href="https://ropensci.org/author/karthik-ram/">Karthik Ram</a>, <a href="https://ropensci.org/author/scott-chamberlain/">Scott Chamberlain</a>, and <a href="https://ropensci.org/author/carl-boettiger/">Carl Boettiger</a>, ecologists who were motivated to make scientific data retrieval reproducible.</p>
+<p><strong>Staff</strong> are R users, developers, research software engineers, community builders, and an office jedi: <a href="https://ropensci.org/author/karthik-ram/">Karthik Ram</a>, <a href="https://ropensci.org/author/scott-chamberlain/">Scott Chamberlain</a>, <a href="https://ropensci.org/author/jeroen-ooms/">Jeroen Ooms</a>, <a href="https://ropensci.org/author/stefanie-butland/">Stefanie Butland</a>, <a href="https://ropensci.org/author/ma%C3%ABlle-salmon/">Maëlle Salmon</a>, <a href="https://ropensci.org/author/mark-padgham/">Mark Padgham</a>, <a href="https://ropensci.org/author/steffi-lazerte/">Steffi LaZerte</a>, and Stacey Dorton.</p>
+<p><strong>Strategic Advisors</strong> <a href="https://ropensci.org/author/noam-ross/">Noam Ross</a>, <a href="https://ropensci.org/author/carl-boettiger/">Carl Boettiger</a>, <a href="https://ropensci.org/author/jenny-bryan/">Jenny Bryan</a>, and <a href="https://ropensci.org/author/rich-fitzjohn/">Rich FitzJohn</a> volunteer their time.</p>
+<p><strong>Software peer review Editors</strong> <a href="https://ropensci.org/author/noam-ross/">Noam Ross</a>, <a href="https://ropensci.org/author/karthik-ram/">Karthik Ram</a>, <a href="https://ropensci.org/author/ma%C3%ABlle-salmon/">Maëlle Salmon</a>, <a href="https://ropensci.org/author/anna-krystalli/">Anna Krystalli</a>, <a href="https://ropensci.org/author/melina-vidoni/">Melina Vidoni</a>, <a href="https://ropensci.org/author/brooke-anderson/">Brooke Anderson</a>, <a href="https://ropensci.org/author/mauro-lepore/">Mauro Lepore</a>, <a href="https://ropensci.org/author/laura-decicco/">Laura DeCicco</a>, and <a href="https://ropensci.org/author/julia-gustavsen/">Julia Gustavsen</a> volunteer their time. <a href="https://ropensci.org/author/scott-chamberlain/">Scott Chamberlain</a> and <a href="https://ropensci.org/author/lincoln-mullen/">Lincoln Mullen</a> are Editor alumni. Read posts introducing <a href="https://ropensci.org/blog/2020/10/27/editors2020/">Laura DeCicco, Julia Gustavsen, Mauro Lepore</a>, <a href="https://ropensci.org/blog/2019/01/31/more_editors/">Brooke Anderson and Melina Vidoni</a>, and <a href="https://ropensci.org/blog/2018/06/22/new_editors/">Anna Krystalli and Lincoln Mullen</a>. We occasionally recruit <a href="https://devguide.ropensci.org/softwarereviewintro.html#editors-and-reviewers">guest editors</a> for some package reviews.</p>
+<p><a href="https://ropensci.org/about/"><img src="images/team-all.png" title="Headshots of the rOpensci team" alt="Headshots of the rOpensci team"></a></p>
+<p>Get to know some of the <strong>more experienced folks in our community</strong> by reading the <a href="https://ropensci.org/tags/rprofile/">.Rprofile series of posts</a> for which <a href="https://ropensci.org/author/kelly-obriant/">Kelly O’Briant</a> interviewed <a href="https://ropensci.org/blog/2017/11/10/rprofile-mara-averick/">Mara Averick</a>, <a href="https://ropensci.org/blog/2017/12/08/rprofile-jenny-bryan/">Jenny Bryan</a>, <a href="https://ropensci.org/blog/2018/02/09/rprofile-julia-stewart-lowndes/">Julia Stewart Lowndes</a> (with assistance from <a href="https://ropensci.org/author/sean-kross/">Sean Kross</a>), <a href="https://ropensci.org/blog/2018/01/12/rprofile-karthik-ram/">Karthik Ram</a>, <a href="https://ropensci.org/blog/2018/04/13/rprofile-noam-ross/">Noam Ross</a>, <a href="https://ropensci.org/blog/2018/06/08/rprofile-julia-silge/">Julia Silge</a>, and <a href="https://ropensci.org/blog/2017/10/13/rprofile-david-smith/">David Smith</a>.</p>
+<p>Over <a href="https://devguide.ropensci.org/softwarereviewintro.html#editors-and-reviewers">150 people have reviewed</a> 135 packages from <strong>803 authors!</strong></p>
+<p>More than 35 people have presented in our Community Calls attended by people in more than 25 countries.</p>
+<p>You can get to know some community members by reading the blog posts and tech notes they’ve written about their packages, their reviewer experiences, the Community Calls they’ve presented in, or their career paths in R. We have an <a href="https://ropensci.org/author/">authors page</a> on our website that allows you to find these people by name. The authors page does not yet include rOpenSci package authors.</p>
+<div class="figure">
+<img src="images/authors_2020-10.png" title="Some authors on rOpenSci.org" alt=""><p class="caption">Some authors on rOpenSci.org</p>
+</div>
+<p>Many of rOpenSci’s tools are developed by practicing scientists and other researchers who foster strong communities among users and developers in their research domains and openly share their expertise in discussions of best practices.</p>
+<ul>
+<li>The <a href="https://ropensci.org/blog/2018/11/13/antarctic/">Antarctic/Southern Ocean rOpenSci community</a> led by <a href="https://ropensci.org/author/ben-raymond/">Ben Raymond</a>, <a href="https://en.wikipedia.org/wiki/Jessica_Melbourne-Thomas">Jess Melbourne-Thomas</a>, <a href="https://web.whoi.edu/jenouvrier/people/sara-labrousse-2017-present/">Sara Labrousse</a>, <a href="https://ropensci.org/author/michael-sumner/">Michael Sumner</a>, and <a href="https://ropensci.org/author/anton-van-de-putte/">Anton Van de Putte</a> aims to strengthen the community of R users and developers in this area of research.</li>
+<li>Hydrology researchers <a href="https://ropensci.org/author/louise-slater/">Louise Slater</a>, <a href="https://ropensci.org/author/sam-zipper/">Sam Zipper</a>, <a href="https://ropensci.org/author/sam-albers/">Sam Albers</a>, <a href="https://ropensci.org/author/ilaria-prosdocimi/">Ilaria Prosdocimi</a>, <a href="https://ropensci.org/author/claudia-vitolo/">Claudia Vitolo</a>, and others promote open package development and peer review in their paper <a href="https://doi.org/10.5194/hess-23-2939-2019">Using R in Hydrology</a> and some of them created and maintain the rOpenSci <a href="https://github.com/ropensci/Hydrology/blob/master/README.md">Task View on hydrological data and modeling</a> in which many of the R packages have been peer reviewed through rOpenSci.</li>
+<li>Community members who are academic experts in climate and weather (<a href="https://ropensci.org/author/brooke-anderson/">Brooke Anderson</a>), archaeology (<a href="https://ropensci.org/author/ben-marwick/">Ben Marwick</a>), transport (<a href="https://ropensci.org/author/robin-lovelace/">Robin Lovelace</a>), hydrology (see above), and Antarctic research (see above) highlighted sources of open data for research in their fields and the R tools to access them in <a href="https://ropensci.org/blog/2020/05/19/covid-19-open-data/">When Field or Lab Work is not an Option - Leveraging Open Data Resources for Remote Research</a>
+</li>
+</ul>
+<p>Many in the rOpenSci community participate in related organizations and communities like <a href="https://rladies.org/">R-Ladies</a>, <a href="https://carpentries.org/">The Carpentries</a>, <a href="https://www.r-consortium.org/blog/2020/07/07/latin-american-communities-and-organizations-at-user2020">Latin American R community</a>, the <a href="https://medium.com/@doritolay/introducing-mir-a-community-for-underrepresented-users-of-r-7560def7d861">MiR community</a> for underrepresented minority users of R, <a href="https://africa-r.org/">AfricaR</a>, and <a href="https://www.bioconductor.org/">Bioconductor</a>.</p>
+<p>We believe in giving credit to people for their contributions and sharing our gratitude. Our <a href="https://ropensci.org/blog/2019/12/23/thankyou/">Thank You, 2019</a> post, acknowledging individual contributors, is one example of how we do that. For package authors participating in software peer review, we encourage “<a href="https://ropensci.org/blog/2018/03/16/thanking-reviewers-in-metadata/">gratitude through semantic metadata</a>” with the option to acknowledge reviewers in the package DESCRIPTION (with reviewers’ consent).</p>
+<!--
+Try [https://allcontributors.org/](https://allcontributors.org/) used by [Stats Peer Review book: Contributors](https://ropenscilabs.github.io/statistical-software-peer-review/index.html#contributors), recommended by Mark Padgham. “Recognize All Contributors. Including those that don't push code”. 
+-->
+</div>
+<div id="unconfs" class="section level3">
+<h3>
+<span class="header-section-number">1.2.2</span> The special case of rOpenSci unconfs<a class="anchor" aria-label="anchor" href="#unconfs"><i class="fas fa-link"></i></a>
+</h3>
+<p>Between 2014 and 2019 we held in-person hackathon-flavored unconferences - five in the US and four in Australia. The “<a href="https://ropensci.org/blog/2017/06/02/unconf2017/">rOpenSci unconf</a>” became a place where people met, created and developed projects together, and got to know each other. You can get a feel for our unconfs by reading blog posts about <a href="https://ropensci.org/tags/unconf/">the events and projects</a> and by listening to the <a href="https://soundcloud.com/crediblycurious/episode-6-oz-unconf">Credibly Curious podcast</a> episode recorded during ozunconf18 by <a href="https://ropensci.org/author/nicholas-tierney/">Nick Tierney</a> and <a href="https://twitter.com/trashystats">Saskia Freytag</a>. Through these we fostered a community of trust that functions online effectively and <a href="https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/">with kindness</a>. Our unconfs empowered many participants to run their own local unconferences, make new projects happen, build new communities, build relationships that led to collaborations and career moves. Perhaps the biggest impact of rOpenSci unconfs was on peoples’ confidence and their perceptions of the value they each bring to the world of R in open research.</p>
+<p>Rest assured, we’re pondering how to continue building this trust network through collaborative online events.</p>
+<blockquote>
+<p>The rOpenSci model has contributed much hidden skills and relationship infrastructure that has helped #rstats flourish. It’s been a delight to participate in this and see people that got a start at an unconf gain confidence and grow into heavyweight community contributors and leaders over the years.
+<br><a href="https://twitter.com/MilesMcBain/status/1232458838307065858">Miles McBain on Twitter</a></p>
+</blockquote>
+<blockquote>
+<p>My life took a turn thanks to rOpenSci - the community I was welcomed into there gave me deep friendships, new skills &amp; confidence to get out of my comfort zone. And the #rstats world as a whole is better for rOpenSci’s existence.
+<br><a href="https://twitter.com/jent103/status/1232460524031545344">Jennifer Thompson on Twitter</a></p>
+</blockquote>
+<div class="figure">
+<img src="images/unconf17_wide.jpg" title="Group photo from unconf17; photo credit Karthik Ram" alt=""><p class="caption">Group photo from unconf17; photo credit Karthik Ram</p>
+</div>
+
+</div>
+</div>
+</div>
+  <div class="chapter-nav">
+<div class="prev"><a href="welcome.html">Welcome</a></div>
+<div class="next"><a href="motivations.html"><span class="header-section-number">2</span> What brings you here? I want to …</a></div>
+</div></main><div class="col-md-3 col-lg-2 d-none d-md-block sidebar sidebar-chapter">
+    <nav id="toc" data-toggle="toc" aria-label="On this page"><h2>On this page</h2>
+      <ul class="nav navbar-nav">
+<li><a class="nav-link" href="#intro"><span class="header-section-number">1</span> rOpenSci &amp; Our Community</a></li>
+<li><a class="nav-link" href="#mission"><span class="header-section-number">1.1</span> Our Mission</a></li>
+<li>
+<a class="nav-link" href="#community"><span class="header-section-number">1.2</span> Our Community</a><ul class="nav navbar-nav">
+<li><a class="nav-link" href="#humans"><span class="header-section-number">1.2.1</span> Humans of rOpenSci</a></li>
+<li><a class="nav-link" href="#unconfs"><span class="header-section-number">1.2.2</span> The special case of rOpenSci unconfs</a></li>
+</ul>
+</li>
+</ul>
+
+      <div class="book-extra">
+        <ul class="list-unstyled">
+<li><a id="book-source" href="https://github.com/ropensci-org/contributing-guidance/blob/master/intro.Rmd">View source <i class="fab fa-github"></i></a></li>
+          <li><a id="book-edit" href="https://github.com/ropensci-org/contributing-guidance/edit/master/intro.Rmd">Edit this page <i class="fab fa-github"></i></a></li>
+        </ul>
+</div>
+    </nav>
+</div>
+
+</div>
+</div> <!-- .container -->
+
+<footer class="bg-primary text-light mt-5"><div class="container"><div class="row">
+
+  <div class="col-12 col-md-6 mt-3">
+    <p>"<strong>rOpenSci Community Contributing Guide</strong>" was written by Stefanie Butland and Steffi LaZerte. It was last built on 2021-04-30.</p>
+  </div>
+
+  <div class="col-12 col-md-6 mt-3">
+    <p>This book was built by the <a class="text-light" href="https://bookdown.org">bookdown</a> R package.</p>
+  </div>
+
+</div></div>
+</footer>
+</body>
+</html>
