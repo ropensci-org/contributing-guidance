@@ -36,7 +36,7 @@ Read how our Dev Guide has been used in the wild in a manuscript review: [When S
 ### How to contribute
 
 *   **Learn about reviewer guidelines**. Read the [Guide for Reviewers](https://devguide.ropensci.org/reviewerguide.html)
-*   **Volunteer to review a package**. Fill out [this form to get started](https://ropensci.org/onboarding/). You’ll be contacted by an editor when a submitted package fits your profile. First-time reviewers are paired with more experienced reviewers and can request guidance from an editor.
+*   **Volunteer to review a package**. Fill out [this form to get started](https://airtable.com/shrnfDI2S9uuyxtDw). You’ll be contacted by an editor when a submitted package fits your profile. First-time reviewers are paired with more experienced reviewers and can request guidance from an editor.
 *   **Submit your package for peer review**. Read the [Guide for Authors](https://devguide.ropensci.org/guide-for-authors.html) and then submit a pre-submission inquiry to the [GitHub repository where reviews take place](https://github.com/ropensci/software-review/issues) to see if your package is in scope for rOpenSci.
 *   **Publish a paper about your package**. See above for our collaborations with the [Journal of Open Source Software (JOSS)](https://joss.theoj.org/) and [Methods in Ecology and Evolution](https://ropensci.org/blog/2017/11/29/review-collaboration-mee/).
 *   **Acknowledge your reviewers** in your package DESCRIPTION (with their consent). Read about this in [Thanking Your Reviewers: Gratitude through Semantic Metadata](https://ropensci.org/blog/2018/03/16/thanking-reviewers-in-metadata/). 
