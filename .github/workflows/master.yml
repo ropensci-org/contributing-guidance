@@ -15,7 +15,7 @@ jobs:
       - uses: r-lib/actions/setup-pandoc@v1
       - name: Install pak and query dependencies
         run: |
-          install.packages("pak")
+          install.packages("pak", repos = "https://r-lib.r-universe.dev")
           saveRDS(pak::pkg_deps("local::.", dependencies = TRUE), ".github/r-depends.rds")
         shell: Rscript {0}
 
