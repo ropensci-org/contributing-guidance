@@ -56,7 +56,7 @@ We use [Slack](https://slack.com/intl/en-ca/help/articles/115004071768-What-is-S
 *   participated in an [unconf](#unconfs)
 *   use R in a research domain that rOpenSci is explicitly supporting, such as Antarctic and Southern Ocean Research
 
-People join Slack by invitation from our Community Manager, other staff, a software review editor, or a strategic advisor. If you are eligible, you may contact our Community Manager [Stefanie Butland](https://github.com/stefaniebutland) via our [contact form](https://ropensci.org/contact/); provide your full name and email address.
+People join Slack by invitation from our Community Manager or other staff. If you are eligible, you may contact us via our [contact form](https://ropensci.org/contact/); provide your full name and email address.
 
 <!-- COMMENT: (STEFFI) Perhaps include a sentence explaining the rational for a Slack being a semi-open space. -->
 
