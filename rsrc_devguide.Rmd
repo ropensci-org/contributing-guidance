@@ -1,7 +1,9 @@
 ## Dev Guide: Development, maintenance, and peer review of rOpenSci packages {#devguide}
 
 <div style= "float:right;width: 30%">
-![](images/dev_guide_cover.png "")
+```{r, fig.cap = "Dev guide book cover in light blue showing assembly line chain of people handling packages in white"}
+knitr::include_graphics("images/dev_guide_cover.png")
+```
 </div>
 
 Our online guide “[rOpenSci Packages: Development, Maintenance, and Peer Review](https://devguide.ropensci.org/)” a.k.a. the “Dev Guide”, is a resource for authors, maintainers, reviewers and editors of rOpenSci packages.

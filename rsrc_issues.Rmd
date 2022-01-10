@@ -26,12 +26,15 @@ You can also combine labels in a search. [For example](https://github.com/search
 **Remember! Not all issues require coding!**
 </center>
 
-![Non-coding “help wanted” issue](images/issues_non_code_tabulizer.png "Non-coding “help wanted” issue")
+```{r fig.cap = "Screenshot of a Non-coding 'help wanted' issue called 'Example use cases, tutorials, and applications' from the tabulizer package repository on GitHub"}
+knitr::include_graphics("images/issues_non_code_tabulizer.png")
+```
 
-_Non-coding “help wanted” issue_
+_Non-Coding "help wanted" issue_
 
-
-![Coding "help wanted" issue](images/issues_code_jstor.png "Coding "help wanted" issue")
+```{r fig.cap = "Screenshot of a Coding 'help wanted' issue called 'Improve code coverage' from the jsor package repository on GitHub"}
+knitr::include_graphics("images/issues_code_jstor.png")
+```
 
 _Coding "help wanted" issue_
 

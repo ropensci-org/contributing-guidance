@@ -30,7 +30,7 @@ More than 35 people have presented in our Community Calls attended by people in 
 
 You can get to know some community members by reading the blog posts and tech notes they’ve written about their packages, their reviewer experiences, the Community Calls they’ve presented in, or their career paths in R. We have an [authors page](https://ropensci.org/author/) on our website that allows you to find these people by name. The authors page does not yet include rOpenSci package authors.
 
-![Some authors on rOpenSci.org](images/authors_2020-10.png "Some authors on rOpenSci.org")
+[![Screenshot of the rOpenSci authors page showing thumbnails of author avatars next to their names](images/authors_2020-10.png "Some authors on rOpenSci.org")](https://ropensci.org/authors/)
 
 Many of rOpenSci’s tools are developed by practicing scientists and other researchers who foster strong communities among users and developers in their research domains and openly share their expertise in discussions of best practices. 
 
@@ -62,4 +62,4 @@ Rest assured, we’re pondering how to continue building this trust network thro
 > <br>
 > [Jennifer Thompson on Twitter](https://twitter.com/jent103/status/1232460524031545344)
 
-![Group photo from unconf17; photo credit Karthik Ram](images/unconf17_wide.jpg "Group photo from unconf17; photo credit Karthik Ram")
+![Group photo from unconf17 showing a crowd of people waving at the camera; photo credit Karthik Ram](images/unconf17_wide.jpg "Group photo from unconf17; photo credit Karthik Ram")
