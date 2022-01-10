@@ -11,14 +11,15 @@ the [rOpenSci website](https://ropensci.org/help-wanted/).
 
 Alternatively, you can look at **all open issues** in rOpenSci with `org:ropensci state:open` [`https://github.com/search?q=org%3Aropensci++state%3Aopen&type=Issues`](https://github.com/search?q=org%3Aropensci++state%3Aopen&type=Issues)
 
-Or, narrow down your search for open issues by **searching for specific labels**.  
-(You can also combine labels in a search.)
+Try narrowing down your search for open issues by **searching for specific labels**.  
+
 
 *   [`help wanted`](https://github.com/search?q=org%3Aropensci+label%3A%22help+wanted%22+state%3Aopen&type=Issues) (GitHub search terms `org:ropensci label:"help wanted" state:open`)
 *   [`good first issue`](https://github.com/search?q=org%3Aropensci+label%3A%22good+first+issue%22+state%3Aopen&type=Issues) (GitHub search terms `org:ropensci label:"good first issue" state:open`)
 *   [`documentation`](https://github.com/search?q=org%3Aropensci+label%3A%22documentation%22+state%3Aopen&type=Issues) (GitHub search terms `org:ropensci label:"documentation" state:open`)
 *   [`feature`](https://github.com/search?q=org%3Aropensci+label%3A%22feature%22+state%3Aopen&type=Issues) (GitHub search terms `org:ropensci label:"feature" state:open`)
 
+You can also combine labels in a search. [For example](https://github.com/search?q=org%3Aropensci+label%3A%22help+wanted%22+label%3A%22good+first+issue%22+state%3Aopen&type=issues), `org:ropensci label:"help wanted" label:"good first issue" state:open`
 
 <center>
 <br>
