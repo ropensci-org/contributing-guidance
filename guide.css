@@ -30,3 +30,12 @@ img {
   max-width: 100%;
 }
 
+summary {
+  color: #1F58A3;
+  font-weight: bold;
+}
+
+summary:hover {
+  color: #133563;
+  text-decoration: underline;
+}
