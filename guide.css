@@ -33,6 +33,7 @@ img {
 summary {
   color: #1F58A3;
   font-weight: bold;
+  list-style: none;
 }
 
 summary:hover {
