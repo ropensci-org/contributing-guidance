@@ -24,6 +24,7 @@ Influence package development
 *   [Report a bug](#packages) in an rOpenSci package
 *   [Make a feature request](#packages)
 *   [Add a package idea to the Wishlist](#channels-forum) in the rOpenSci forums
+*   [Address an issue](#issues). Explore open issues in rOpenSci packages and consider submitting a fix. 
 *   [Make a pull request](#packages) to fix a bug or add a feature
 
 

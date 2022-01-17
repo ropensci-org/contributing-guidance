@@ -35,6 +35,7 @@ Improve my R and software development skills
 *   [Volunteer to review a package](#devguide)
 *   [Seek community feedback on your package ideas in the “Packages” category in our forum](#channels-forum)
 *   [Review package documentation](#packages)
+*   [Address an issue](#issues). Explore open issues in rOpenSci packages and consider submitting a fix. 
 *   [Make a pull request](#packages) to add/fix examples or clarify package documentation 
 *   [Write a vignette/article for a package](#packages)
 *   [Share a use case](#usecases)
