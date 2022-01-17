@@ -67,7 +67,7 @@ Text in **SUB bullets** is either for Resources Chapter (noted Chp 3) with addit
 ### Blog {#blog}
 
 *   [Submit a correction](#blog)
-    *   (Chp3 text) See a typo or broken link in the Blog? **Submit a correction**. Open an issue in [the blog repository](https://github.com/ropensci/roweb2) or make a pull request with your suggestion and our Community Manager will review it. GitHub has helpful documentation for opening issues and making pull requests.
+    *   (Chp3 text) See a typo or broken link in the Blog? **Submit a correction**. Open an issue in [the blog repository](https://github.com/ropensci/roweb3) or make a pull request with your suggestion and our Community Manager will review it. GitHub has helpful documentation for opening issues and making pull requests.
 *   [Read blog posts or tech notes](#blog)
     *   [Read blog posts or tech notes](#blog), particularly those [tagged with “Welcome”](#blog-welcome)
     *   [Read blog posts or tech notes](#blog), particularly those [tagged with “Reviewer”](#blog-reviewers)

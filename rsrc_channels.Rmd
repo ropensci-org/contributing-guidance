@@ -11,7 +11,7 @@ The following table lists every communication channel and its purpose. Below tha
 library(tibble) 
 library(kableExtra)
 tribble(~Channel, ~Purpose,
-        "Website <https://ropensci.org/> <https://github.com/ropensci/roweb2>", "Home of rOpenSci",
+        "Website <https://ropensci.org/> <https://github.com/ropensci/roweb3>", "Home of rOpenSci",
         "[Newsletter](https://news.ropensci.org/)", "A digest of R package news, use cases, blog posts, events, curated every two weeks. [Subscribe](https://news.ropensci.org/) via RSS (XML), JSON feed, or email.",
         "[Videos](https://vimeo.com/ropensci)", "Videos from past Community Calls on Vimeo",
         "[Twitter - rOpenSci](https://twitter.com/rOpenSci)", "Tweets about rOpenSci software, use cases, blog posts, tech notes, events",
