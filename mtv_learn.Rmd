@@ -17,7 +17,7 @@ Be informed by reading and listening
 *   [Watch recordings and read collaborative notes from past Community Calls](#commcalls)
 *   [Explore use cases](#usecases) shared by community members
 *   [Follow discussions](#channels) about statistical software peer review, best practices, and Q & A in the forum or on [Slack](#channels-slack)
-
+*   [Join a coworking session](#coworking) and listen to questions and answers
 
 Improve the reproducibility of my research and apply best practices in my work
 
@@ -44,6 +44,7 @@ Improve my R and software development skills
 *   [Ask or answer questions](#channels) in the forum or on [Slack](#channels-slack)
 *   [Volunteer to maintain or co-maintain a package](#devguide)
 *   [Submit your package for peer review](#devguide) after determining whether it’s in scope for rOpenSci
+*   [Join a coworking session](#coworking) and ask questions of other developers
 
 
 Learn how to review R code

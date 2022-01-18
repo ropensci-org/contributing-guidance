@@ -14,6 +14,9 @@ Not sure where to get started? Browse [What brings you here?](#motivations) to h
 ```{r child="rsrc_commcalls.Rmd", echo=FALSE}
 ```
 
+```{r child="rsrc_coworking.Rmd", echo=FALSE}
+```
+
 ```{r child="rsrc_blog.Rmd", echo=FALSE}
 ```
 

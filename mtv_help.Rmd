@@ -24,7 +24,7 @@ Help other community members
 *   [Volunteer to review a package](#devguide). We appreciate having experienced reviewers who are willing to be paired with a first-time reviewer
 *   [Answer questions](#channels) in the forum or on [Slack](#channels-slack)
 *   [Support fellow community members](#channels) (e.g., by welcoming newcomers, giving credit, connecting members with people or resources)
-
+*   [Join a coworking session](#coworking) and answer questions
 
 Provide something I think the community is missing 
 

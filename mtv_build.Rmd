@@ -42,6 +42,7 @@ Promote best practices for R development
 *   **Write a blog post or tech note** about the development of your rOpenSci package or your implementation of best practices (see both the [Blog](#blog) and the [Blog Guide](#blogguide))
 *   [Recommend topics or speakers for Community Calls](#commcalls)
 *   [Help organize a Community Call](#commcalls)
+*   [Consider being a Community Host for a Coworking session](#coworking)
 
 
 Promote software citations
@@ -62,3 +63,4 @@ Get people to work on open issues in my rOpenSci package
 *   [Label your issues](#issues) to make them more discoverable
 *   [Include future plans for your package](#issues) in the README.
 *   [Request a co-maintainer for your package](#devguide). Bringing on an additional maintainer can be a way to manage the volume of work, work through issues, and increase package sustainability.
+*   [Consider being a Community Host for a Coworking session](#coworking) and supporting a mini code-a-thon.
