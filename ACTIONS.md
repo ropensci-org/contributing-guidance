@@ -61,7 +61,7 @@ Text in **SUB bullets** is either for Resources Chapter (noted Chp 3) with addit
 *   [Recommend topics or speakers for Community Calls](#commcalls)
 *   [Help organize a Community Call](#commcalls)
 *   [Propose your idea for a Community Call summary post for our blog](#commcalls)
-    *   (Chp3 text) Take a look at examples of [community call posts](https://ropensci.org/tags/community-call/) in the [blog](#blog), consult the [blog guide](#blogguide) to see what’s involved then contact our Community Manager, Stefanie Butland, via [Slack](#channels-slack) or our [contact form](https://ropensci.org/contact/) to discuss your idea.
+    *   (Chp3 text) Take a look at examples of [community call posts](https://ropensci.org/tags/community-call/) in the [blog](#blog), consult the [blog guide](#blogguide) to see what’s involved then contact our Community Manager via [Slack](#channels-slack) or our [contact form](https://ropensci.org/contact/) to discuss your idea.
 
 
 ### Blog {#blog}
@@ -76,7 +76,7 @@ Text in **SUB bullets** is either for Resources Chapter (noted Chp 3) with addit
 *   [Share posts with your network](#blog)
 *   [Comment on a post to share your perspective or to ask a question](#blog)
 *   **Write a blog post or tech note** (see both the [Blog](#blog) and the [Blog Guide](#blogguide))
-    *   (Chp3 text) Take a look at examples of posts above and on the [blog](https://ropensci.org/blog), consult the [blog guide](#blogguide) to see what’s involved then contact our Community Manager, Stefanie Butland, via [Slack](#channels-slack) or our [contact form](https://ropensci.org/contact/) to discuss your idea.
+    *   (Chp3 text) Take a look at examples of posts above and on the [blog](https://ropensci.org/blog), consult the [blog guide](#blogguide) to see what’s involved then contact our Community Manager via [Slack](#channels-slack) or our [contact form](https://ropensci.org/contact/) to discuss your idea.
 
 
 ### Blog Guide {#blogguide}
@@ -84,7 +84,9 @@ Text in **SUB bullets** is either for Resources Chapter (noted Chp 3) with addit
 *   [Submit a correction](#blogguide)
     *   (Chp3 text) See a typo or something that’s not clear? **Submit a correction**. Open an issue in [the blog guide repository](https://github.com/ropensci-org/blog-guidance) or make a pull request with your suggestion and one of the authors  will review it. GitHub has helpful [documentation](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests) for [opening issues](https://docs.github.com/en/github/managing-your-work-on-github/managing-your-work-with-issues) and [making pull requests](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork).
 *   **Write a blog post or tech note** (see both the [Blog](#blog) and the [Blog Guide](#blogguide))
-    *   (Chp3 text) Read about some [blog themes](#blog), browse the [Blog Guide](https://blogguide.ropensci.org/) to see what’s involved, then contact our Community Manager, Stefanie Butland, via [Slack](#channels-slack) or our [contact form](https://ropensci.org/contact/) to discuss your idea.
+    *   (Chp3 text) Read about some [blog themes](#blog), 
+        browse the [Blog Guide](https://blogguide.ropensci.org/) to see what’s involved, 
+        then contact our Community Manager via [Slack](#channels-slack) or our [contact form](https://ropensci.org/contact/) to discuss your idea.
 
 
 ### Packages & Docs {#packages}

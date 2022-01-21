@@ -13,13 +13,9 @@ This Guide is an evolving document and we want people to tell us what’s missin
 ### How to contribute
 
 *   **Submit a typo fix or clarification or tell us what’s missing**. 
-    Open an issue in the [GitHub repository for the Guide](https://github.com/ropensci-org/contributing-guidance) and tag our 
-    Community Manager [Stefanie Butland](https://github.com/stefaniebutland), 
-    or ping her on [Slack](#channels-slack) or via our 
-    [contact form](https://ropensci.org/contact/) to discuss your idea.
+    Open an issue in the [GitHub repository for the Guide](https://github.com/ropensci-org/contributing-guidance) to discuss your idea.
 *   **Contribute something that isn’t addressed in the guide**. 
     Is there something you might like to contribute that isn’t addressed here? 
-    Open an issue in the [GitHub repository for the Guide](https://github.com/ropensci-org/contributing-guidance) and tag our 
-    Community Manager [Stefanie Butland](https://github.com/stefaniebutland), 
-    or ping her on [Slack](#channels-slack) or via our 
+    Open an issue in the [GitHub repository for the Guide](https://github.com/ropensci-org/contributing-guidance) and/or tag our 
+    Community Manager, or ping them on [Slack](#channels-slack) or via our 
     [contact form](https://ropensci.org/contact/) to discuss your idea. 

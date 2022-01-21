@@ -24,7 +24,7 @@ no matter their technical expertise, career stage, or work sector.
 Further, we welcome people of all backgrounds, including but not limited to any sexuality, 
 gender identity, and race. We are anti-racist. 
 We recognize that communities are not inclusive by default, particularly as they grow: they require deliberate attention. 
-We are all supported by rOpenSci’s [Community Manager](https://ropensci.org/author/stefanie-butland/) and a [Code of Conduct](#conduct) that has clear guidelines for behavior and reporting, and is enforced by a committee including rOpenSci staff and an independent community member.
+We are all supported by rOpenSci’s Community Manager and a [Code of Conduct](#conduct) that has clear guidelines for behavior and reporting, and is enforced by a committee including rOpenSci staff and an independent community member.
 
 
 ### Humans of rOpenSci {#humans}
@@ -39,9 +39,7 @@ ecologists who were motivated to make scientific data retrieval reproducible.
 
 **Staff** are R users, developers, research software engineers, community builders, 
 and an office jedi: [Karthik Ram](https://ropensci.org/author/karthik-ram/), 
-[Scott Chamberlain](https://ropensci.org/author/scott-chamberlain/), 
 [Jeroen Ooms](https://ropensci.org/author/jeroen-ooms/), 
-[Stefanie Butland](https://ropensci.org/author/stefanie-butland/), 
 [Maëlle Salmon](https://ropensci.org/author/ma%C3%ABlle-salmon/), 
 [Mark Padgham](https://ropensci.org/author/mark-padgham/), 
 [Steffi LaZerte](https://ropensci.org/author/steffi-lazerte/), 
