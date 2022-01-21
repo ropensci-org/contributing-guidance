@@ -1,8 +1,15 @@
 ## Blog {#blog}
 
-The rOpenSci blog contains both long form [blog posts](https://ropensci.org/blog/) and shorter [tech notes](https://ropensci.org/technotes). It’s a large, rich resource for learning about the R packages developed by staff and by community members and how people use them, the people and processes involved in our open software peer review system, and the value people get from being part of our community. We’ve published more than 500 posts since 2012 with more than half written by community members. The long form blog posts are for a broad readership, and the shorter tech notes include information on a software release with major new features, breaking changes, or significant new documentation for example. 
+The rOpenSci blog contains both long form [blog posts](https://ropensci.org/blog/) and shorter [tech notes](https://ropensci.org/technotes). 
+It’s a large, rich resource for learning about the R packages developed by staff and by community members and how people use them, 
+the people and processes involved in our open software peer review system, and the value people get from being part of our community. 
+We’ve published more than 500 posts since 2012 with more than half written by community members. 
+The long form blog posts are for a broad readership, 
+and the shorter tech notes include information on a software release with major new features, 
+breaking changes, or significant new documentation for example. 
 
-This list gives you a taste of some themes. Click on a topic below to see some of our favorite examples.
+This list gives you a taste of some themes. 
+Click on a topic below to see some of our favorite examples.
 
 ```{r posts, results="asis", message = FALSE}
 make_category <- function(category, posts) {
@@ -41,5 +48,11 @@ There are many ways to explore our blog and tech notes content:
 
 *   **Read [blog posts](https://ropensci.org/blog/) or [tech notes](https://ropensci.org/technotes/)**
 *   Did you find an article interesting or useful? **Share posts with your network**
-*   **Comment on a post to share your perspective or to ask a question.** Comments appear in our [public discussion forum](#channels).
-*   We love to hear stories about how people use our tools and resources. Have an idea for our blog? **Write a blog post or tech note**. Take a look at examples of posts above and on the [blog](https://ropensci.org/blog), browse the [Blog Guide](https://blogguide.ropensci.org/) to see what’s involved, then contact our Community Manager, Stefanie Butland, via [Slack](#channels-slack) or our [contact form](https://ropensci.org/contact/) to propose and discuss your idea.
+*   **Comment on a post to share your perspective or to ask a question.** 
+    Comments appear in our [public discussion forum](#channels).
+*   We love to hear stories about how people use our tools and resources. 
+    Have an idea for our blog? **Write a blog post or tech note**. 
+    Take a look at examples of posts above and on the [blog](https://ropensci.org/blog), 
+    browse the [Blog Guide](https://blogguide.ropensci.org/) to see what’s involved, 
+    then contact our Community Manager, Stefanie Butland, 
+    via [Slack](#channels-slack) or our [contact form](https://ropensci.org/contact/) to propose and discuss your idea.

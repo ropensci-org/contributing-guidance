@@ -1,8 +1,13 @@
 ## Build {#build}
 
-Perhaps the roles people associate most with contributing to rOpenSci involve building and influencing the research software landscape in R. This includes things like having a stake in package development and documentation, discussions on new projects like developing standards for [statistical software peer review](#statsreview), or influencing the adoption of more open and reproducible research in your department, your institution, or your field. 
+Perhaps the roles people associate most with contributing to rOpenSci involve building and influencing the research software landscape in R. 
+This includes things like having a stake in package development and documentation, 
+discussions on new projects like developing standards for [statistical software peer review](#statsreview), 
+or influencing the adoption of more open and reproducible research in your department, 
+your institution, or your field. 
 
-Scan the “I want to” statements below to find something that interests you. Click on any action under a statement to go to a description of the relevant rOpenSci resource with details on how to contribute.
+Scan the “I want to” statements below to find something that interests you. 
+Click on any action under a statement to go to a description of the relevant rOpenSci resource with details on how to contribute.
 
 **I want to:**
 
@@ -37,7 +42,8 @@ Improve package documentation and examples
 
 Promote best practices for R development
 
-*   [Engage with us on Twitter](#channels). Amplify best practices from our social media to your networks
+*   [Engage with us on Twitter](#channels). 
+    Amplify best practices from our social media to your networks
 *   [Ask or answer questions](#channels) in the the “Best Practices” category in our forum or on [Slack](#channels-slack)
 *   **Write a blog post or tech note** about the development of your rOpenSci package or your implementation of best practices (see both the [Blog](#blog) and the [Blog Guide](#blogguide))
 *   [Recommend topics or speakers for Community Calls](#commcalls)
@@ -55,12 +61,16 @@ Get more visibility and more users for my rOpenSci package
 
 *   [Publish a paper about your package](#devguide)
 *   [Write a post about using rOpenSci packages](#packages) on your own blog
-*   Write a post or tech note about your package for the rOpenSci blog (see both the [Blog](#blog) and the [Blog Guide](#blogguide))
+*   Write a post or tech note about your package for the rOpenSci blog 
+    (see both the [Blog](#blog) and the [Blog Guide](#blogguide))
 
 
 Get people to work on open issues in my rOpenSci package
 
 *   [Label your issues](#issues) to make them more discoverable
 *   [Include future plans for your package](#issues) in the README.
-*   [Request a co-maintainer for your package](#devguide). Bringing on an additional maintainer can be a way to manage the volume of work, work through issues, and increase package sustainability.
-*   [Consider being a Community Host for a Coworking session](#coworking) and supporting a mini code-a-thon.
+*   [Request a co-maintainer for your package](#devguide). 
+    Bringing on an additional maintainer can be a way to manage the volume of work, 
+    work through issues, and increase package sustainability.
+*   [Consider being a Community Host for a Coworking session](#coworking) and 
+    supporting a mini code-a-thon.

@@ -2,9 +2,11 @@
 
 # Bibliography
 
-We're always standing on the shoulders of giants, some of whom don't think of themselves as giants. The following resources together influenced the ideas, approach, design, tone, and content of the rOpenSci Community Contributing Guide. 
+We're always standing on the shoulders of giants, some of whom don't think of themselves as giants. 
+The following resources together influenced the ideas, approach, design, tone, and content of the rOpenSci Community Contributing Guide. 
 
-- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/). Authors: https://github.com/github/opensource.guide#acknowledgments
+- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/). 
+Authors: https://github.com/github/opensource.guide#acknowledgments
 
 - Dan Sholler, Igor Steinmacher, Denae Ford, Mara Averick, Mike Hoye, Greg Wilson (2019). 
   [Ten simple rules for helping newcomers become contributors to open projects](https://doi.org/10.1371/journal.pcbi.1007296). 
@@ -18,7 +20,8 @@ We're always standing on the shoulders of giants, some of whom don't think of th
 
 - RStudio. [RStudio Education](https://education.rstudio.com/)
 
-- Nadia Eghbal (2020) [Working in Public: The Making and Maintenance of Open Source Software](https://press.stripe.com/#working-in-public). Stripe Press, San Francisco, CA.
+- Nadia Eghbal (2020) [Working in Public: The Making and Maintenance of Open Source Software](https://press.stripe.com/#working-in-public). 
+Stripe Press, San Francisco, CA.
 
 - Mozilla Open Leadership Series. [Contributor Personas & Pathways](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/bring-on-contributors-using-personas-and-pathways/)
 
