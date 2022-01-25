@@ -48,12 +48,14 @@ Gain exposure in the open science R community
 *   **Write a blog post or tech note** to share your experiences 
     (see both the [Blog](#blog) and the [Blog Guide](#blogguide)) 
 *   [Ensure your package is easily citable](#devguide)
+*   [Create your own R-universe](#runiverse)
 
 
 Grow my local or topic-specific community
 
 *   [Read blog posts or tech notes](#blog), particularly those tagged with “Welcome”, 
     “unconf”, or “icebreaker”
+*   [Create a community R-universe](#runiverse)
 *   [Read about our community](#community) and some of our neighbors: 
     [rOpenSci Antarctic and Southern Ocean Research](https://ropensci.org/blog/2018/11/13/antarctic/);
     [R-Ladies](https://rladies.org/); 

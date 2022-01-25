@@ -19,6 +19,7 @@ Be informed by reading and listening
 *   [Follow roknowtifier on Twitter](#channels) to get notifications about new packages and package updates in real time
 *   [Subscribe to our Newsletter](#channels)
 *   [Read blog posts or tech notes](#blog)
+*   [Read the R-universe discussion](#runiverse)
 *   [Attend a Community Call](#commcalls)
 *   [Watch recordings and read collaborative notes from past Community Calls](#commcalls)
 *   [Explore use cases](#usecases) shared by community members

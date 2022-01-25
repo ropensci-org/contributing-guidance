@@ -24,6 +24,7 @@ Discover packages I can use to facilitate my research and access open data
     packages and package updates in real time
 *   [Browse citations of rOpenSci packages](#packages) to see what other 
     researchers are using
+*   [Explore the R-universe](#runiverse)
 
 
 Discover resources on best practices for software development

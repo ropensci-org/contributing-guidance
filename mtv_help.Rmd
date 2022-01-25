@@ -22,6 +22,8 @@ Support rOpenSci or give back to open source
 *   [Submit a use case](#usecases) for an rOpenSci package
 *   [Address an issue](#issues). 
     Explore open issues in rOpenSci packages and consider submitting a fix. 
+*   [Contribute to the R-universe discussion](#runiverse)
+*   [Report a bug in the R-universe](#runiverse)
 *   [Engage with us on Twitter](#channels). Amplify best practices from our social media to your networks. 
     Reply to or quote a tweet to share your experience or expertise on a topic
 *   [Weigh in on tough technical issues on software review threads](#devguide)

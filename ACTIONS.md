@@ -143,6 +143,14 @@ Text in **SUB bullets** is either for Resources Chapter (noted Chp 3) with addit
     *   (Chp3 text) See a typo or broken link in the Dev Guide? **Submit a correction**. Open an issue in [the dev guide repository](https://github.com/ropensci/dev_guide) or make a pull request with your suggestion and our Community Manager will review it. GitHub has helpful documentation for opening issues and making pull requests
 
 
+### R-universe {#runiverse}
+*   [Explore the R-universe](#runiverse)
+    *   [Explore the R-universe](#runiverse) and share your findings with colleagues
+*   [Create your own R-universe](#runiverse)
+    *   [Create a community R-universe](#runiverse)
+*   [Read/Contribute to the R-universe discussion](#runiverse)
+*   [Report a bug in the R-universe](#runiverse)
+
 ### Statistical Software Peer Review Book {#statsreview}
 
 *   [Read our book](#statsreview)

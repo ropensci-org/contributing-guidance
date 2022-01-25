@@ -42,6 +42,9 @@ Each example links to a resource in this chapter to help you take action.
 ```{r child="rsrc_devguide.Rmd", echo=FALSE}
 ```
 
+```{r child="rsrc_runiverse.Rmd", echo=FALSE}
+```
+
 ```{r child="rsrc_statsreview.Rmd", echo=FALSE}
 ```
 

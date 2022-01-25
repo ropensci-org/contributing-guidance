@@ -21,7 +21,10 @@ Improve and promote open science in my field
 *   [Write a post about using rOpenSci packages](#packages) on your own blog
 *   [Cite rOpenSci packages in manuscripts and presentations](#packages)
 *   [Ensure your package is easily citable](#devguide)
-
+*   [Explore the R-universe](#runiverse) and share your findings with colleagues
+*   [Create your own R-universe](#runiverse)
+*   [Read/Contribute to the R-universe discussion](#runiverse)
+*   [Report a bug in the R-universe](#runiverse)
 
 Influence package development
 
@@ -31,7 +34,8 @@ Influence package development
 *   [Add a package idea to the Wishlist](#channels-forum) in the rOpenSci forums
 *   [Address an issue](#issues). Explore open issues in rOpenSci packages and consider submitting a fix. 
 *   [Make a pull request](#packages) to fix a bug or add a feature
-
+*   [Read/Contribute to the R-universe discussion](#runiverse)
+*   [Report a bug in the R-universe](#runiverse)
 
 Improve package documentation and examples
 
@@ -63,6 +67,7 @@ Get more visibility and more users for my rOpenSci package
 *   [Write a post about using rOpenSci packages](#packages) on your own blog
 *   Write a post or tech note about your package for the rOpenSci blog 
     (see both the [Blog](#blog) and the [Blog Guide](#blogguide))
+*   [Create your own R-universe](#runiverse)
 
 
 Get people to work on open issues in my rOpenSci package
