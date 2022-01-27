@@ -30,7 +30,7 @@ Stripe Press, San Francisco, CA.
 
 # NEWS 
 
-## dev
+## 0.2.0
 
 * Added NEWS chapter to appendix (#35)
 * Update title on Zenodo (#45)
@@ -41,6 +41,9 @@ Stripe Press, San Francisco, CA.
 * Fix Twitter link (#28)
 * Minor text re-wording (e.g., #34)
 * Switched to BS4 bookdown template
+* Added new resources: Help Wanted Page, Use Cases Page, R-universe, Social Co-working
+* Tweaked content
+* Updated staff and community manager information
 
 ## 0.1.0 (2020-08-25)
 
