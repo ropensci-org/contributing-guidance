@@ -5,4 +5,4 @@ Out of scope for now. Currently in GitHub, needs updating and migration to the f
 
 Our wishlist is XXX. 
 
-Tell us as much as you can. What’s the potential audience for the package? Provide a link to the API and documentation.
+Tell us as much as you can. What's the potential audience for the package? Provide a link to the API and documentation.

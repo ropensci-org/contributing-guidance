@@ -1,17 +1,25 @@
 ## Communication channels {#channels}
 
 
-The [Humans of rOpenSci](#humans) connect and contribute online across many timezones. We carry out our work using multiple channels for one-way and multi-way communications that involve different levels of commitment. 
+The [Humans of rOpenSci](#humans) connect and contribute online across many timezones. 
+We carry out our work using multiple channels for one-way and multi-way communications that involve different levels of commitment. 
 
-**GitHub** is the platform we use to host our software and documentation projects using Git version control. Our **newsletter**, delivered every two weeks, is the ideal way to stay informed without being overwhelmed by communication channels. We use our public **discussion forum**, **Twitter**, and **Slack**, each for specific modes of making announcements, promoting contributions from community members, asking and answering questions about rOpenSci packages and recommended best practices, knowledge-sharing and exploration of ideas, as well as more passive learning by "listening" to community wisdom. 
+**GitHub** is the platform we use to host our software and documentation projects using Git version control. 
+Our **newsletter**, delivered every two weeks, is the ideal way to stay informed without being overwhelmed by communication channels. 
+We use our public **discussion forum**, **Twitter**, and **Slack**, 
+each for specific modes of making announcements, promoting contributions from community members, 
+asking and answering questions about rOpenSci packages and recommended best practices,
+knowledge-sharing and exploration of ideas, 
+as well as more passive learning by "listening" to community wisdom. 
 
-The following table lists every communication channel and its purpose. Below that we describe how we use a few specific channels and provide some advice on deciding whether a question you might have is one for rOpenSci or belongs in a more general forum.
+The following table lists every communication channel and its purpose. 
+Below that we describe how we use a few specific channels and provide some advice on deciding whether a question you might have is one for rOpenSci or belongs in a more general forum.
 
 ```{r, results = "asis", echo = FALSE}
 library(tibble) 
 library(kableExtra)
 tribble(~Channel, ~Purpose,
-        "Website <https://ropensci.org/> <https://github.com/ropensci/roweb2>", "Home of rOpenSci",
+        "Website <https://ropensci.org/> <https://github.com/ropensci/roweb3>", "Home of rOpenSci",
         "[Newsletter](https://news.ropensci.org/)", "A digest of R package news, use cases, blog posts, events, curated every two weeks. [Subscribe](https://news.ropensci.org/) via RSS (XML), JSON feed, or email.",
         "[Videos](https://vimeo.com/ropensci)", "Videos from past Community Calls on Vimeo",
         "[Twitter - rOpenSci](https://twitter.com/rOpenSci)", "Tweets about rOpenSci software, use cases, blog posts, tech notes, events",
@@ -31,48 +39,81 @@ tribble(~Channel, ~Purpose,
 
 **GitHub**
 
-The majority of rOpenSci’s work happens on GitHub. In this Guide we use terms like “opening an issue” to refer to tracking ideas, enhancements, tasks, or bugs in a project, and “making a pull request” to submit your proposed fix or new feature. If you’d like some general information on the language and workflow of GitHub, see [Collaborating with issues and pull requests](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests). To learn about Markdown formatting for interacting with others in issues and pull requests see [Getting started with writing and formatting on GitHub](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github). For guidance on connecting R to GitHub we recommend Happy Git and GitHub for the useR - [https://happygitwithr.com/](https://happygitwithr.com/). 
+The majority of rOpenSci's work happens on GitHub. 
+In this Guide we use terms like "opening an issue" to refer to tracking ideas, 
+enhancements, tasks, or bugs in a project, 
+and "making a pull request" to submit your proposed fix or new feature. 
+If you'd like some general information on the language and workflow of GitHub, 
+see [Collaborating with issues and pull requests](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests). 
+To learn about Markdown formatting for interacting with others in issues and pull requests see [Getting started with writing and formatting on GitHub](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github). 
+For guidance on connecting R to GitHub we recommend Happy Git and GitHub for the useR - [https://happygitwithr.com/](https://happygitwithr.com/). 
 
 
 <div id="channels-forum"></div>
 
 **Public discussion forum**
 
-[The forum](https://discuss.ropensci.org/) is where we encourage people to have Q & A on a wide range of topics. It is organized in categories including [Use Cases](#usecases) where people post examples of how they’ve used rOpenSci packages, [Blog](#blog) where an entry is made every time a new post or tech note appears on our blog, [Statistical Software Peer Review](#statsreview) for discussion related to developing a software peer review system for statistical software in R, Antarctic for discussions about R in Antarctic and Southern Ocean science. It includes posts like "How do you hire data people in a fair and unbiased way?" in the Community category, to specific help requests about our packages like "Taxize: Get rank of lowest common taxon". 
+[The forum](https://discuss.ropensci.org/) is where we encourage people to have Q & A on a wide range of topics. 
+It is organized in categories including [**Use Cases**](#usecases) where people post examples of how they've used rOpenSci packages, 
+[**Blog**](#blog) where an entry is made every time a new post or tech note appears on our blog, [**Statistical Software Peer Review**](#statsreview) for discussion related to developing a software peer review system for statistical software in R, 
+**Wishlist** for discussions about requested new R packages, 
+**Antarctic** for discussions about R in Antarctic and Southern Ocean science, and others! 
+It includes posts like "How do you hire data people in a fair and unbiased way?" in the Community category, to specific help requests about our packages like "Taxize: Get rank of lowest common taxon". 
 
-The benefit of posting to our forum, rather than our semi-open Slack space or by email, is that it is open for others to benefit, searchable within the forum, and discoverable by browser-based searches. Posting in the forum requires login and we encourage people to use their real names. 
+The benefit of posting to our forum, rather than our semi-open Slack space or by email, 
+is that it is open for others to benefit, searchable within the forum, 
+and discoverable by browser-based searches.
+Posting in the forum requires login and we encourage people to use their real names. 
 
 <div id="channels-slack"></div>
 
 **Slack**
 
-We use [Slack](https://slack.com/intl/en-ca/help/articles/115004071768-What-is-Slack-) as a semi-open space for communications among people who have made specific contributions to rOpenSci. These include people who:
+We use [Slack](https://slack.com/intl/en-ca/help/articles/115004071768-What-is-Slack-) as a semi-open space for communications among people who have made specific contributions to rOpenSci. 
+These include people who:
 
-*   have begun the [software review process for their package](#devguide) (once it’s determined to be in scope)
+*   have begun the [software review process for their package](#devguide) 
+    (once it's determined to be in scope)
 *   are assigned to [review a package](#devguide) 
-*   made significant contributions to rOpenSci, including taking over maintenance of an rOpenSci package
+*   made significant contributions to rOpenSci, 
+    including taking over maintenance of an rOpenSci package
 *   have written a [blog post or tech note](#blog) that is published on our site
 *   presented in a [Community Call](#commcalls)
 *   participated in an [unconf](#unconfs)
-*   use R in a research domain that rOpenSci is explicitly supporting, such as Antarctic and Southern Ocean Research
+*   use R in a research domain that rOpenSci is explicitly supporting, 
+    such as Antarctic and Southern Ocean Research
 
-People join Slack by invitation from our Community Manager or other staff. If you are eligible, you may contact us via our [contact form](https://ropensci.org/contact/); provide your full name and email address.
+People join Slack by invitation from our Community Manager or other staff. 
+If you are eligible, you may contact us via our [contact form](https://ropensci.org/contact/); 
+provide your full name and email address.
 
 <!-- COMMENT: (STEFFI) Perhaps include a sentence explaining the rational for a Slack being a semi-open space. -->
 
-The benefit of Slack is the ability to more directly access rOpenSci staff and community members, including some more experienced folks in channels like #software-review or #package-maintenance, or to watch for postings in #jobs. People consider it an easier place to ask questions or explore ideas because while it has over 500 members, it’s not fully “in the open”. [We actively welcome new members](https://ropensci.org/blog/2017/07/18/value-of-welcome/) and ensure that all conversations are collegial. 
+The benefit of Slack is the ability to more directly access rOpenSci staff and community members,
+including some more experienced folks in channels like #software-review or #package-maintenance, 
+or to watch for postings in #jobs. 
+People consider it an easier place to ask questions or explore ideas because while it has over 500 members, 
+it's not fully "in the open". 
+[We actively welcome new members](https://ropensci.org/blog/2017/07/18/value-of-welcome/) and ensure that all conversations are collegial. 
 
 <div id="channels-help"></div>
 
 **How to get help**
 
-There is an etiquette to getting help and asking questions. We focus on using, developing, documenting code and infrastructure, and building community, as they specifically align with [our mission](#mission). 
+There is an etiquette to getting help and asking questions. 
+We focus on using, developing, documenting code and infrastructure, 
+and building community, as they specifically align with [our mission](#mission). 
 
 People looking for more general R learning may refer to [RStudio Education](https://education.rstudio.com/) and [The Carpentries](https://carpentries.org/). 
 
-Read these posts if you have an R question: [Where to get help with your R question?](https://masalmon.eu/2018/07/22/wheretogethelp/), by Maëlle Salmon; [Getting help in R: do as I say, not as I've done](https://sctyner.me/post/2019-2-17-rhelp/), by Samantha Tyner.
+Read these posts if you have an R question: 
+[Where to get help with your R question?](https://masalmon.eu/2018/07/22/wheretogethelp/), by Maëlle Salmon; 
+[Getting help in R: do as I say, not as I've done](https://sctyner.me/post/2019-2-17-rhelp/), by Samantha Tyner.
 
-If you’re asking for R help, reporting a bug, or requesting a new feature, you’re more likely to succeed if you include a good reproducible example, a “reprex”. There’s a [well-documented package](https://reprex.tidyverse.org/) for that including a video, and an rOpenSci Community Call - [How to Ask Questions so they get Answered! Possibly by Yourself!](https://ropensci.org/commcalls/2017-03-07/), with Jenny Bryan, JD Long, and Scott Chamberlain.
+If you're asking for R help, reporting a bug, or requesting a new feature, 
+you're more likely to succeed if you include a good reproducible example, a "reprex". 
+There's a [well-documented package](https://reprex.tidyverse.org/) for that including a video,
+and an rOpenSci Community Call - [How to Ask Questions so they get Answered! Possibly by Yourself!](https://ropensci.org/commcalls/2017-03-07/), with Jenny Bryan, JD Long, and Scott Chamberlain.
 
 
 ### How to contribute? 
@@ -83,4 +124,4 @@ If you’re asking for R help, reporting a bug, or requesting a new feature, you
 *   **Subscribe to our [Newsletter](https://news.ropensci.org/)**
 *   **Ask or answer questions**. Participate in discussions in the [forum](https://discuss.ropensci.org/), on GitHub or on Slack
 *   **Try a 2-hour [remote co-working session](https://www.cscce.org/2020/02/04/online-co-working-partnerships-are-community-of-practice-in-action/)** with someone in our Slack #co-working channel
-*   **Seek community feedback on your package ideas in the “Packages” category in our [forum](https://discuss.ropensci.org/c/packages)**
+*   **Seek community feedback on your package ideas in the "Packages" category in our [forum](https://discuss.ropensci.org/c/packages)**

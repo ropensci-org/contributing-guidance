@@ -1,11 +1,28 @@
 ## Blog Guide {#blogguide}
 
-Our [Blog Guide](https://blogguide.ropensci.org/) is written to help authors and editors of rOpenSci blog posts and tech notes to address frequently asked questions, and frequently given suggestions. We created it after reviewing and publishing over 100 posts by community members.
+Our [Blog Guide](https://blogguide.ropensci.org/) is written to help authors and editors of rOpenSci blog posts and tech notes to address frequently asked questions, and frequently given suggestions. 
+We created it after reviewing and publishing over 100 posts by community members.
 
-Chapter 1 coaches you in thinking through what you might say in a post and points to examples on different themes. Chapter 2 provides detailed technical guidelines for submitting a post - from drafting in an R Markdown or Markdown template to submitting it for review using GitHub pull request infrastructure. We provide templates, code snippets, our style guide, and checklists to help. One chapter provides some motivation for doing the extra work to contribute a post by outlining what we do to promote it to our large audience. Another outlines how to respond to an editor’s review of your draft post.
+Chapter 1 coaches you in thinking through what you might say in a post and points to examples on different themes. 
+Chapter 2 provides detailed technical guidelines for submitting a post - 
+from drafting in an R Markdown or Markdown template to submitting it for review using GitHub pull request infrastructure. 
+We provide templates, code snippets, our style guide, and checklists to help. 
+One chapter provides some motivation for doing the extra work to contribute a post by outlining what we do to promote it to our large audience.
+Another outlines how to respond to an editor's review of your draft post.
 
 
 ### How to contribute? 
 
-*   **Write a blog post or tech note**. Read about some [blog themes](#blog), browse the [Blog Guide](https://blogguide.ropensci.org/) to see what’s involved, then contact our Community Manager, Stefanie Butland, via [Slack](#channels-slack) or our [contact form](https://ropensci.org/contact/) to propose and discuss your idea.
-*   See a typo or something that’s not clear? **Submit a correction.** Open an issue in [the Blog Guide repository](https://github.com/ropensci-org/blog-guidance) or [make a pull request](#channels-github) with your suggestion and one of the authors will review it. GitHub has helpful [documentation](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests) for [opening issues](https://docs.github.com/en/github/managing-your-work-on-github/managing-your-work-with-issues) and [making pull requests](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork).
+*   **Write a blog post or tech note**. 
+    Read about some [blog themes](#blog), 
+    browse the [Blog Guide](https://blogguide.ropensci.org/) to see what's involved, 
+    then contact our Community Manager via our 
+    [contact form](https://ropensci.org/contact/) to propose and discuss your idea.
+*   See a typo or something that's not clear? 
+    **Submit a correction.** 
+    Open an issue in [the Blog Guide repository](https://github.com/ropensci-org/blog-guidance) or
+    [make a pull request](#channels-github) with your suggestion and one of the authors will review it.
+    GitHub has helpful 
+    [documentation](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests) for
+    [opening issues](https://docs.github.com/en/github/managing-your-work-on-github/managing-your-work-with-issues) and 
+    [making pull requests](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork).
