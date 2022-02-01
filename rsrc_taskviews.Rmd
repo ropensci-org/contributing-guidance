@@ -2,7 +2,7 @@
 
 Task views are excellent resources for guidance on which packages are relevant to a certain topic
 They might list packages under sections like data retrieval, visualization, or analysis
-Here we list some [task views](https://github.com/topics/task-view) maintained by rOpenSci staff and community members
+Here we list some [task views](https://github.com/topics/task-view) maintained by rOpenSci staff and community members.
 They contain packages that are on CRAN and/or on GitHub.
 
 You can contribute to task views by looking at the project's contributing guide, then comment in an issue to discuss your approach with the maintainer
