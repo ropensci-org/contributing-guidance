@@ -18,4 +18,4 @@ questions about rOpenSci or specific R projects they're working on.
 ### How to contribute? 
 
 *   **Attend a Coworking session**. No registration required. Find information about our next session on the [Events page](https://ropensci.org/events/). 
-*   Want to **join as a Community Host**? Have some interesting R topics you'd like to talk about and help others with? Contact our Community Manager via [Slack](#channels-slack) or our [contact form](https://ropensci.org/contact/).
+*   Want to **join as a Community Host**? Have some interesting R topics you'd like to talk about and help others with? Contact our Community Manager via our [contact form](https://ropensci.org/contact/).

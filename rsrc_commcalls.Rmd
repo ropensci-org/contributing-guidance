@@ -62,8 +62,8 @@ To get composite image:
     **Recommend topics or speakers for Community Calls.** 
     Tell us in our public [ideas repository](https://github.com/ropensci-org/community-calls).
 *   Are you really interested in the topic of an upcoming call? Why not **help organize it?** 
-    Contact our Community Manager via [Slack](#channels-slack) or our [contact form](https://ropensci.org/contact/).
+    Contact our Community Manager via our [contact form](https://ropensci.org/contact/).
 *   Are you enthusiastic about the topic and planning to attend? 
     You might want to **write a summary for our blog**. 
-    Contact our Community Manager via [Slack](#channels-slack) or our [contact form](https://ropensci.org/contact/).
+    Contact our Community Manager via our [contact form](https://ropensci.org/contact/).
 

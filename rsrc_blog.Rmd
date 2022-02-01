@@ -54,4 +54,4 @@ There are many ways to explore our blog and tech notes content:
     Have an idea for our blog? **Write a blog post or tech note**. 
     Take a look at examples of posts above and on the [blog](https://ropensci.org/blog), 
     browse the [Blog Guide](https://blogguide.ropensci.org/) to see what's involved, 
-    then contact our Community Manager via [Slack](#channels-slack) or our [contact form](https://ropensci.org/contact/) to propose and discuss your idea.
+    then contact our Community Manager via our [contact form](https://ropensci.org/contact/) to propose and discuss your idea.
