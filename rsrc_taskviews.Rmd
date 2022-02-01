@@ -5,15 +5,15 @@ They might list packages under sections like data retrieval, visualization, or a
 Here we list some [task views](https://github.com/topics/task-view) maintained by rOpenSci staff and community members
 They contain packages that are on CRAN and/or on GitHub.
 
-You can contribute to task views by looking at the project’s contributing guide, then comment in an issue to discuss your approach with the maintainer
-Create a pull request and submit your proposed changes! If you have a problem with one of the packages discussed it’s best to contact the maintainer of that package directly.
+You can contribute to task views by looking at the project's contributing guide, then comment in an issue to discuss your approach with the maintainer
+Create a pull request and submit your proposed changes! If you have a problem with one of the packages discussed it's best to contact the maintainer of that package directly.
 
 [Taxonomy](https://github.com/ropensci/taxonomy/blob/master/README.md), maintained by Scott Chamberlain, contains information on retrieving and manipulating taxonomic data in R.
 
 [Antarctic and Southern Ocean Science](https://github.com/SCAR/ropensci/blob/master/task_view/README.md), maintained by Ben Raymond, covers a range of topics within the geosciences, life sciences, physical sciences, and humanities and social sciences of particular interest to Antarctic and Southern Ocean researchers. 
 
 [Hydrological Data and Modeling](https://github.com/ropensci/Hydrology/blob/master/README.md), maintained by Sam Zipper, Sam Albers, and Ilaria Prosdocimi, contains information about packages broadly relevant to hydrology, defined as the movement, distribution and quality of water and water resources over a broad spatial scale of landscapes
-The maintainers built on this task view in “[Getting your toes wet in R: Hydrology, meteorology, and more](https://ropensci.org/blog/2019/04/02/hydrology-task-view/)”.
+The maintainers built on this task view in "[Getting your toes wet in R: Hydrology, meteorology, and more](https://ropensci.org/blog/2019/04/02/hydrology-task-view/)".
 
 [Archaeological Science](https://github.com/benmarwick/ctv-archaeology/blob/master/README.md), maintained by Ben Marwick, contains packages useful for scientific work in Archaeology, grouped by topic. 
 

@@ -6,7 +6,7 @@ discussions on new projects like developing standards for [statistical software 
 or influencing the adoption of more open and reproducible research in your department, 
 your institution, or your field. 
 
-Scan the “I want to” statements below to find something that interests you. 
+Scan the "I want to" statements below to find something that interests you. 
 Click on any action under a statement to go to a description of the relevant rOpenSci resource with details on how to contribute.
 
 **I want to:**
@@ -15,7 +15,7 @@ Improve and promote open science in my field
 
 *   [Volunteer to review a package](#devguide)
 *   Contribute to a task view. [Make a pull request](#taskviews) to add packages or details to an existing task view after discussing your approach with the maintainer
-*   Develop a package and [submit it for peer review](#devguide) after determining whether it’s in scope for rOpenSci
+*   Develop a package and [submit it for peer review](#devguide) after determining whether it's in scope for rOpenSci
 *   [Recommend topics or speakers for Community Calls](#commcalls)
 *   [Help organize a Community Call](#commcalls)
 *   [Write a post about using rOpenSci packages](#packages) on your own blog
@@ -39,7 +39,7 @@ Influence package development
 
 Improve package documentation and examples
 
-*   [Review documentation](#packages) and help the author by letting them know what’s unclear or [Make a pull request](#packages) to add/fix examples or to add/clarify documentation
+*   [Review documentation](#packages) and help the author by letting them know what's unclear or [Make a pull request](#packages) to add/fix examples or to add/clarify documentation
 *   [Write a vignette/article for a package](#packages)
 *   [Share a use case](#usecases) or encourage your peers to do the same
 
@@ -48,7 +48,7 @@ Promote best practices for R development
 
 *   [Engage with us on Twitter](#channels). 
     Amplify best practices from our social media to your networks
-*   [Ask or answer questions](#channels) in the the “Best Practices” category in our forum or on [Slack](#channels-slack)
+*   [Ask or answer questions](#channels) in the the "Best Practices" category in our forum or on [Slack](#channels-slack)
 *   **Write a blog post or tech note** about the development of your rOpenSci package or your implementation of best practices (see both the [Blog](#blog) and the [Blog Guide](#blogguide))
 *   [Recommend topics or speakers for Community Calls](#commcalls)
 *   [Help organize a Community Call](#commcalls)

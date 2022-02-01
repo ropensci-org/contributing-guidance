@@ -8,17 +8,17 @@ Chapter 2 provides detailed technical guidelines for submitting a post -
 from drafting in an R Markdown or Markdown template to submitting it for review using GitHub pull request infrastructure. 
 We provide templates, code snippets, our style guide, and checklists to help. 
 One chapter provides some motivation for doing the extra work to contribute a post by outlining what we do to promote it to our large audience.
-Another outlines how to respond to an editor’s review of your draft post.
+Another outlines how to respond to an editor's review of your draft post.
 
 
 ### How to contribute? 
 
 *   **Write a blog post or tech note**. 
     Read about some [blog themes](#blog), 
-    browse the [Blog Guide](https://blogguide.ropensci.org/) to see what’s involved, 
+    browse the [Blog Guide](https://blogguide.ropensci.org/) to see what's involved, 
     then contact our Community Manager via [Slack](#channels-slack) or our 
     [contact form](https://ropensci.org/contact/) to propose and discuss your idea.
-*   See a typo or something that’s not clear? 
+*   See a typo or something that's not clear? 
     **Submit a correction.** 
     Open an issue in [the Blog Guide repository](https://github.com/ropensci-org/blog-guidance) or
     [make a pull request](#channels-github) with your suggestion and one of the authors will review it.

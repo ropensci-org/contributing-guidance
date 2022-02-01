@@ -16,6 +16,6 @@ This work is [supported by the Sloan Foundation](https://ropensci.org/blog/2019/
 *   **Follow the discussion**. 
     Browse the dedicated [area for discussion on the rOpenSci forum](https://discuss.ropensci.org/c/statistical-software-peer-review/28) or in the #stats-peer-review [Slack](#channels-slack) channel and share your comments or questions.
 *   **Make a suggestion**. 
-    We welcome contributions to the project either by filing suggestions as [issues in the book’s GitHub repository](https://github.com/ropenscilabs/statistical-software-peer-review/issues), or by submitting a pull request. 
+    We welcome contributions to the project either by filing suggestions as [issues in the book's GitHub repository](https://github.com/ropenscilabs/statistical-software-peer-review/issues), or by submitting a pull request. 
 *   **Contact us** directly (via [Slack](#channels-slack) or our 
     [contact form](https://ropensci.org/contact/)) to inquire about submitting a statistical software package for pre-review.

@@ -39,11 +39,11 @@ tribble(~Channel, ~Purpose,
 
 **GitHub**
 
-The majority of rOpenSci’s work happens on GitHub. 
-In this Guide we use terms like “opening an issue” to refer to tracking ideas, 
+The majority of rOpenSci's work happens on GitHub. 
+In this Guide we use terms like "opening an issue" to refer to tracking ideas, 
 enhancements, tasks, or bugs in a project, 
-and “making a pull request” to submit your proposed fix or new feature. 
-If you’d like some general information on the language and workflow of GitHub, 
+and "making a pull request" to submit your proposed fix or new feature. 
+If you'd like some general information on the language and workflow of GitHub, 
 see [Collaborating with issues and pull requests](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests). 
 To learn about Markdown formatting for interacting with others in issues and pull requests see [Getting started with writing and formatting on GitHub](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github). 
 For guidance on connecting R to GitHub we recommend Happy Git and GitHub for the useR - [https://happygitwithr.com/](https://happygitwithr.com/). 
@@ -54,7 +54,7 @@ For guidance on connecting R to GitHub we recommend Happy Git and GitHub for the
 **Public discussion forum**
 
 [The forum](https://discuss.ropensci.org/) is where we encourage people to have Q & A on a wide range of topics. 
-It is organized in categories including [**Use Cases**](#usecases) where people post examples of how they’ve used rOpenSci packages, 
+It is organized in categories including [**Use Cases**](#usecases) where people post examples of how they've used rOpenSci packages, 
 [**Blog**](#blog) where an entry is made every time a new post or tech note appears on our blog, [**Statistical Software Peer Review**](#statsreview) for discussion related to developing a software peer review system for statistical software in R, 
 **Wishlist** for discussions about requested new R packages, 
 **Antarctic** for discussions about R in Antarctic and Southern Ocean science, and others! 
@@ -73,7 +73,7 @@ We use [Slack](https://slack.com/intl/en-ca/help/articles/115004071768-What-is-S
 These include people who:
 
 *   have begun the [software review process for their package](#devguide) 
-    (once it’s determined to be in scope)
+    (once it's determined to be in scope)
 *   are assigned to [review a package](#devguide) 
 *   made significant contributions to rOpenSci, 
     including taking over maintenance of an rOpenSci package
@@ -93,7 +93,7 @@ The benefit of Slack is the ability to more directly access rOpenSci staff and c
 including some more experienced folks in channels like #software-review or #package-maintenance, 
 or to watch for postings in #jobs. 
 People consider it an easier place to ask questions or explore ideas because while it has over 500 members, 
-it’s not fully “in the open”. 
+it's not fully "in the open". 
 [We actively welcome new members](https://ropensci.org/blog/2017/07/18/value-of-welcome/) and ensure that all conversations are collegial. 
 
 <div id="channels-help"></div>
@@ -110,9 +110,9 @@ Read these posts if you have an R question:
 [Where to get help with your R question?](https://masalmon.eu/2018/07/22/wheretogethelp/), by Maëlle Salmon; 
 [Getting help in R: do as I say, not as I've done](https://sctyner.me/post/2019-2-17-rhelp/), by Samantha Tyner.
 
-If you’re asking for R help, reporting a bug, or requesting a new feature, 
-you’re more likely to succeed if you include a good reproducible example, a “reprex”. 
-There’s a [well-documented package](https://reprex.tidyverse.org/) for that including a video,
+If you're asking for R help, reporting a bug, or requesting a new feature, 
+you're more likely to succeed if you include a good reproducible example, a "reprex". 
+There's a [well-documented package](https://reprex.tidyverse.org/) for that including a video,
 and an rOpenSci Community Call - [How to Ask Questions so they get Answered! Possibly by Yourself!](https://ropensci.org/commcalls/2017-03-07/), with Jenny Bryan, JD Long, and Scott Chamberlain.
 
 
@@ -124,4 +124,4 @@ and an rOpenSci Community Call - [How to Ask Questions so they get Answered! Pos
 *   **Subscribe to our [Newsletter](https://news.ropensci.org/)**
 *   **Ask or answer questions**. Participate in discussions in the [forum](https://discuss.ropensci.org/), on GitHub or on Slack
 *   **Try a 2-hour [remote co-working session](https://www.cscce.org/2020/02/04/online-co-working-partnerships-are-community-of-practice-in-action/)** with someone in our Slack #co-working channel
-*   **Seek community feedback on your package ideas in the “Packages” category in our [forum](https://discuss.ropensci.org/c/packages)**
+*   **Seek community feedback on your package ideas in the "Packages" category in our [forum](https://discuss.ropensci.org/c/packages)**

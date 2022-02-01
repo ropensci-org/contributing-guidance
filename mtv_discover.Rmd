@@ -2,10 +2,10 @@
 
 Making data, tools, and best practices more discoverable is part of [our mission](#mission). 
 For many, using an rOpenSci package is their first encounter with our organization. 
-It’s the most common gateway to further involvement through connections with other users, 
+It's the most common gateway to further involvement through connections with other users, 
 or sharing use cases, for example. 
 
-Scan the “I want to” statements below to find something that interests you. 
+Scan the "I want to" statements below to find something that interests you. 
 Click on any action under a statement to go to a description of the relevant rOpenSci resource with details on how to contribute.
 
 **I want to:**
@@ -30,7 +30,7 @@ Discover packages I can use to facilitate my research and access open data
 Discover resources on best practices for software development
 
 *   [Read the Dev Guide](#devguide)
-*   [Read or ask questions](#channels) in the “Best Practices” category in our 
+*   [Read or ask questions](#channels) in the "Best Practices" category in our 
     forum or on [Slack](#channels-slack)
 *   [Attend a Community Call](#commcalls)
 *   [Watch recordings and read collaborative notes from past Community Calls](#commcalls)
@@ -40,5 +40,5 @@ Discover resources on best practices for software development
 Discover resources on community building
 
 *   [Read blog posts or tech notes](#blog), 
-    particularly those tagged with “Welcome”, “unconf”, or “icebreaker”
+    particularly those tagged with "Welcome", "unconf", or "icebreaker"
 *   [Read about our community](#community) and some of the communities built by our members

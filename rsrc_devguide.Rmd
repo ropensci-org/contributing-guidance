@@ -6,7 +6,7 @@ knitr::include_graphics("images/dev_guide_cover.png")
 ```
 </div>
 
-Our online guide “[rOpenSci Packages: Development, Maintenance, and Peer Review](https://devguide.ropensci.org/)” a.k.a. the “Dev Guide”, 
+Our online guide "[rOpenSci Packages: Development, Maintenance, and Peer Review](https://devguide.ropensci.org/)" a.k.a. the "Dev Guide", 
 is a resource for authors, maintainers, reviewers and editors of rOpenSci packages.
 
 
@@ -22,11 +22,11 @@ It contains a huge amount of information including:
 *   [The peer review process](https://devguide.ropensci.org/softwarereviewintro.html), 
     including policies and guides for authors and reviewers 
 
-Are you wondering **what it’s like to review a package for the first time**, 
+Are you wondering **what it's like to review a package for the first time**, 
 or how long it might take? Explore the Dev Guide sections on 
 [Why submit your package to rOpenSci? ](https://devguide.ropensci.org/softwarereviewintro.html#whysubmit) and 
 [Guide for Reviewers](https://devguide.ropensci.org/reviewerguide.html). 
-Read [blog posts with the “reviewer” tag](https://ropensci.org/tags/reviewer/). 
+Read [blog posts with the "reviewer" tag](https://ropensci.org/tags/reviewer/). 
 Many people review an R package before ever making one. 
 Check out the [list of past reviewers](https://devguide.ropensci.org/softwarereviewintro.html#reviewers). 
 Maybe you know one of them and can ask about their experience. 
@@ -35,12 +35,12 @@ Maybe you know one of them and can ask about their experience.
 > <br>
 > *[Miles McBain in "Where is the value in package peer review?"](https://ropensci.org/blog/2018/04/06/peer-review-value/)*
 
-If you’re **interested in submitting a package for peer-review**, 
+If you're **interested in submitting a package for peer-review**, 
 read the Dev Guide section [Why review packages for rOpenSci?](https://devguide.ropensci.org/softwarereviewintro.html#whyreview) or read 
-[blog posts with the “software-peer-review” tag](https://ropensci.org/tags/software-peer-review/) to get the perspectives of authors whose packages have passed peer review as well as learn about the process itself.
+[blog posts with the "software-peer-review" tag](https://ropensci.org/tags/software-peer-review/) to get the perspectives of authors whose packages have passed peer review as well as learn about the process itself.
 
-Once you’ve submitted your package and an editor has assigned reviewers, 
-you and the reviewers will be invited to join rOpenSci’s [Slack](#channels-slack) workspace where you can connect more directly with members of the rOpenSci community, 
+Once you've submitted your package and an editor has assigned reviewers, 
+you and the reviewers will be invited to join rOpenSci's [Slack](#channels-slack) workspace where you can connect more directly with members of the rOpenSci community, 
 including other reviewers, package authors, users, and the rOpenSci staff and leadership team.
 
 When you submit your package for review, **consider also publishing a journal article about your package**. 
@@ -59,10 +59,10 @@ Sometimes an rOpenSci package maintainer finds that maintaining a package is no 
 When that happens, we work hard to find new maintainers.
 If you think you might be interested, the Dev Guide Chapter on [Changing Maintainers](https://devguide.ropensci.org/changing-maintainers.html) is a good place to start.
 If taking on a whole package seems like a bit much, 
-check out our [“Issues”](#issues) section here to find specific issues you could help tackle in a package.
+check out our ["Issues"](#issues) section here to find specific issues you could help tackle in a package.
 
-For the big picture, watch the video of Noam Ross’s useR! 2020 keynote, 
-“[Peer-Reviewing R Code: Where We've Been and Where We're Going at rOpenSci](https://youtu.be/iJnn_9xKkqk)” 
+For the big picture, watch the video of Noam Ross's useR! 2020 keynote, 
+"[Peer-Reviewing R Code: Where We've Been and Where We're Going at rOpenSci](https://youtu.be/iJnn_9xKkqk)" 
 
 Read how our Dev Guide has been used in the wild in a manuscript review: 
 [When Standards Go Wild - Software Review for a Manuscript](https://ropensci.org/blog/2019/04/18/wild-standards/), 
@@ -75,7 +75,7 @@ and in the core curriculum of a Master of Data Science program: [Using rOpenSci 
     Read the [Guide for Reviewers](https://devguide.ropensci.org/reviewerguide.html)
 *   **Volunteer to review a package**. 
     Fill out [this form to get started](https://airtable.com/shrnfDI2S9uuyxtDw). 
-    You’ll be contacted by an editor when a submitted package fits your profile. 
+    You'll be contacted by an editor when a submitted package fits your profile. 
     First-time reviewers are paired with more experienced reviewers and can request guidance from an editor.
 *   **Submit your package for peer review**. 
     Read the [Guide for Authors](https://devguide.ropensci.org/guide-for-authors.html) and then submit a pre-submission inquiry to the 
@@ -88,4 +88,4 @@ and in the core curriculum of a Master of Data Science program: [Using rOpenSci 
 *   **Request a co-maintainer for your package**. Post a request in the  #package-maintenance [Slack channel](#channels-Slack).
 *   **Volunteer to maintain a package**. 
     Check out the [rOpenSci Newsletter](https://news.ropensci.org/), 
-    the last section is a “Call For Maintainers” and consists of a list of packages specifically looking for maintainers.
+    the last section is a "Call For Maintainers" and consists of a list of packages specifically looking for maintainers.

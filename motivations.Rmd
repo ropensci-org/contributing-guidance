@@ -14,18 +14,18 @@ fellowship, or award applications.
 Participation in an open source project like rOpenSci is more likely to be a lifecycle than a linear path. 
 Having a package pass peer review for the first time can feel like a huge milestone. 
 You might write a blog post about the package, 
-“give back” by participating as a reviewer or mentoring someone else in their first review, 
+"give back" by participating as a reviewer or mentoring someone else in their first review, 
 or answering questions about package maintenance. 
 But as a person becomes more experienced, they may move on. 
 The value someone might get out of participating here will change over time and that is perfectly ok.
 
 > ...users pursuing their own "selfish" interests build collective value as an automatic byproduct. 
 > <br>
-> [Tim O’Reilly on The Architecture of Participation](https://www.oreilly.com/pub/a/tim/articles/paradigmshift_0504.html)
+> [Tim O'Reilly on The Architecture of Participation](https://www.oreilly.com/pub/a/tim/articles/paradigmshift_0504.html)
 
 Do you already know what value you want to get out of contributing? 
-(It’s ok if you don’t know yet.) 
-**To help you recognize yourself**, we’ve categorized what we think contributors to rOpenSci want into:
+(It's ok if you don't know yet.) 
+**To help you recognize yourself**, we've categorized what we think contributors to rOpenSci want into:
 [Discover](#discover); [Connect](#connect); [Learn](#learn); [Build](#build); [Help](#help). 
 For each category, **we list examples of what those contributions might look like and we link to our [resources](#resources)** to help you get started. 
 

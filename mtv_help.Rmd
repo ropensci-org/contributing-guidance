@@ -1,14 +1,14 @@
 ## Help {#help}
 
-One major motivation for contributing to rOpenSci is people’s desire to 
-“give back” in appreciation of good software, good infrastructure, 
+One major motivation for contributing to rOpenSci is people's desire to 
+"give back" in appreciation of good software, good infrastructure, 
 and a good community in which folks share their gratitude often and openly. 
 The ways you can help are limitless. We encourage people to support others by 
 sharing their experience or expertise. 
-Don’t underestimate the value of sharing your first-time experience doing a thing; 
-that is an immense help to others who don’t yet recognize the value of their own contributions.
+Don't underestimate the value of sharing your first-time experience doing a thing; 
+that is an immense help to others who don't yet recognize the value of their own contributions.
 
-Scan the “I want to” statements below to find something that interests you. 
+Scan the "I want to" statements below to find something that interests you. 
 Click on any action under a statement to go to a description of the relevant rOpenSci resource with details on how to contribute.
 
 **I want to:**
@@ -41,4 +41,4 @@ Help other community members
 
 Provide something I think the community is missing 
 
-*   [Contribute something that isn’t addressed in this Contributing Guide](#contributing)
+*   [Contribute something that isn't addressed in this Contributing Guide](#contributing)

@@ -10,8 +10,8 @@ Documentation for rOpenSci packages is built and hosted at an automated document
 [docs repository](https://github.com/ropensci/docs)).
 
 You can discover packages by searching with a package name, 
-name of the maintainer (maybe you’re a fan of their work), 
-or by keywords in the description such as “taxonomy” or “weather”. 
+name of the maintainer (maybe you're a fan of their work), 
+or by keywords in the description such as "taxonomy" or "weather". 
 Clicking on any package row expands the listing to include a package description and list of academic citations. 
 Clicking on the "View Documentation" Button takes you to the docs page where you can find information on using the package from Getting Started, 
 Articles and Vignettes, and on making contributions from reporting bugs, 
@@ -29,18 +29,18 @@ Some of our [Community Calls](#commcalls) focus on packages in a specific domain
 [Check out our archive](https://ropensci.org/commcalls/) with videos of past calls. 
 Looking for more examples? Ask in the [forum](#channels-forum). 
 
-Most developers are interested to hear from you while you’re getting to know a package
-Is there something unclear in the documentation? Some parts of the software you find confusing? It’s helpful if you share these experiences
-When possible, use a “[reprex](https://reprex.tidyverse.org/articles/reprex-dos-and-donts.html)”, a reproducible example.
+Most developers are interested to hear from you while you're getting to know a package
+Is there something unclear in the documentation? Some parts of the software you find confusing? It's helpful if you share these experiences
+When possible, use a [reprex](https://reprex.tidyverse.org/articles/reprex-dos-and-donts.html)", a reproducible example.
 
 While package maintainers have the ultimate say on package features, they are often eager to modify a package to accommodate real world use cases
 If you have a particular feature request in mind, open an issue in the package repository with a succinct idea, and ideally a minimal [reproducible example](https://reprex.tidyverse.org/articles/reprex-dos-and-donts.html) if code is applicable
 Avoid emailing maintainers directly - it may be tempting but benefits no one else
-For some, it’s a challenge to have the confidence to make your suggestion in the open, but taking that step can help others
+For some, it's a challenge to have the confidence to make your suggestion in the open, but taking that step can help others
 This also helps maintainers manage their work by keeping communications within the GitHub infrastructure that houses the package.
 
 You can also help out by addressing issues (see the [Issues List](#issues)), or making pull requests to add features, fix bugs, add documentation, or add vignettes or articles
-To do so, take a look at the project’s contributing guide (here's a [nice example](https://gist.github.com/peterdesmet/e90a1b0dc17af6c12daf6e8b2f044e7c) from [Peter Desmet](https://ropensci.org/author/peter-desmet/), and [another](https://github.com/ecohealthalliance/fasterize/blob/master/CONTRIBUTING.md) from [Noam Ross](https://ropensci.org/author/noam-ross/)), then open an issue to discuss your approach with the author
+To do so, take a look at the project's contributing guide (here's a [nice example](https://gist.github.com/peterdesmet/e90a1b0dc17af6c12daf6e8b2f044e7c) from [Peter Desmet](https://ropensci.org/author/peter-desmet/), and [another](https://github.com/ecohealthalliance/fasterize/blob/master/CONTRIBUTING.md) from [Noam Ross](https://ropensci.org/author/noam-ross/)), then open an issue to discuss your approach with the author
 Create a pull request and submit your proposed solution!
 
 
@@ -67,9 +67,9 @@ It totally made my morning to think that my code might someday contribute a teen
 
 *   **Write a post about using rOpenSci packages** on your own blog
 *   [Report a bug by opening an issue](#channels-github). 
-    If you’re asking for R help, reporting a bug, or requesting a new feature, you’re more likely to succeed if you include a good [reprex](https://reprex.tidyverse.org/articles/reprex-dos-and-donts.html) (a reproducible example).
+    If you're asking for R help, reporting a bug, or requesting a new feature, you're more likely to succeed if you include a good [reprex](https://reprex.tidyverse.org/articles/reprex-dos-and-donts.html) (a reproducible example).
 *   **Review the documentation** and give feedback to the author in [an issue](#channels-github) on any parts that are confusing
 *   [Make a pull request](#channels-github) to fix a typo or a bug, to add/fix examples, to add/clarify documentation, to add/update a citation file
-*   [Make a feature request](#channels-github) by opening an issue in a package that’s critical for your work
+*   [Make a feature request](#channels-github) by opening an issue in a package that's critical for your work
 *   **Write a vignette/article for a package**. 
     Contact the package author, preferably in [an issue](#channels-github), to confirm they are receptive, propose your idea, and determine how they will review your contribution.

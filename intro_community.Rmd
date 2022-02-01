@@ -2,10 +2,10 @@
 
 
 Our community is our best asset! 
-Without the secret sauce that is the Humans of rOpenSci, we’re just a lot of (really good) packages and processes. 
+Without the secret sauce that is the Humans of rOpenSci, we're just a lot of (really good) packages and processes. 
 Our community is an ephemeral thing. 
-It’s everywhere and nowhere. 
-It’s people who believe in our mission and share our values, and have a mindset for learning, improving, and innovating together. 
+It's everywhere and nowhere. 
+It's people who believe in our mission and share our values, and have a mindset for learning, improving, and innovating together. 
 It's people who prioritize open, reusable, and reproducible research software while also prioritizing creating inclusive spaces through empathy and building trust. 
 There are no stupid questions at rOpenSci; everyone appreciates the diversity of expertise and entryways to coding in this thing we love called R.
 
@@ -24,13 +24,13 @@ no matter their technical expertise, career stage, or work sector.
 Further, we welcome people of all backgrounds, including but not limited to any sexuality, 
 gender identity, and race. We are anti-racist. 
 We recognize that communities are not inclusive by default, particularly as they grow: they require deliberate attention. 
-We are all supported by rOpenSci’s Community Manager and a [Code of Conduct](#conduct) that has clear guidelines for behavior and reporting, and is enforced by a committee including rOpenSci staff and an independent community member.
+We are all supported by rOpenSci's Community Manager and a [Code of Conduct](#conduct) that has clear guidelines for behavior and reporting, and is enforced by a committee including rOpenSci staff and an independent community member.
 
 
 ### Humans of rOpenSci {#humans}
 
 In this section we point to groups of people with various formal and informal roles in our community.
-This gives some transparency, may help people “recognize themselves” in some roles, 
+This gives some transparency, may help people "recognize themselves" in some roles, 
 and provide a foundation to allow folks to reach out to others to learn about making contributions.
 
 rOpenSci was **founded** in 2011 by [Karthik Ram](https://ropensci.org/author/karthik-ram/), [Scott Chamberlain](https://ropensci.org/author/scott-chamberlain/), 
@@ -70,7 +70,7 @@ We occasionally recruit [guest editors](https://devguide.ropensci.org/softwarere
 
 Get to know some of the **more experienced folks in our community** by reading the 
 [.Rprofile series of posts](https://ropensci.org/tags/rprofile/) for which 
-[Kelly O’Briant](https://ropensci.org/author/kelly-obriant/) interviewed 
+[Kelly O'Briant](https://ropensci.org/author/kelly-obriant/) interviewed 
 [Mara Averick](https://ropensci.org/blog/2017/11/10/rprofile-mara-averick/), 
 [Jenny Bryan](https://ropensci.org/blog/2017/12/08/rprofile-jenny-bryan/), 
 [Julia Stewart Lowndes](https://ropensci.org/blog/2018/02/09/rprofile-julia-stewart-lowndes/) 
@@ -84,11 +84,11 @@ Over [150 people have reviewed](https://devguide.ropensci.org/softwarereviewintr
 
 More than 35 people have presented in our Community Calls attended by people in more than 25 countries. 
 
-You can get to know some community members by reading the blog posts and tech notes they’ve written about their packages, their reviewer experiences, the Community Calls they’ve presented in, or their career paths in R. We have an [authors page](https://ropensci.org/author/) on our website that allows you to find these people by name. The authors page does not yet include rOpenSci package authors.
+You can get to know some community members by reading the blog posts and tech notes they've written about their packages, their reviewer experiences, the Community Calls they've presented in, or their career paths in R. We have an [authors page](https://ropensci.org/author/) on our website that allows you to find these people by name. The authors page does not yet include rOpenSci package authors.
 
 [![Screenshot of the rOpenSci authors page showing thumbnails of author avatars next to their names](images/authors_2020-10.png "Some authors on rOpenSci.org")](https://ropensci.org/authors/)
 
-Many of rOpenSci’s tools are developed by practicing scientists and other researchers who foster strong communities among users and developers in their research domains and openly share their expertise in discussions of best practices. 
+Many of rOpenSci's tools are developed by practicing scientists and other researchers who foster strong communities among users and developers in their research domains and openly share their expertise in discussions of best practices. 
 
 *   The [Antarctic/Southern Ocean rOpenSci community](https://ropensci.org/blog/2018/11/13/antarctic/) led by [Ben Raymond](https://ropensci.org/author/ben-raymond/), 
 [Jess Melbourne-Thomas](https://en.wikipedia.org/wiki/Jessica_Melbourne-Thomas), 
@@ -120,10 +120,10 @@ We believe in giving credit to people for their contributions and sharing our gr
 Our [Thank You, 2019](https://ropensci.org/blog/2019/12/23/thankyou/) post, 
 acknowledging individual contributors, is one example of how we do that. 
 For package authors participating in software peer review, 
-we encourage “[gratitude through semantic metadata](https://ropensci.org/blog/2018/03/16/thanking-reviewers-in-metadata/)” with the option to acknowledge reviewers in the package DESCRIPTION (with reviewers’ consent).  
+we encourage "[gratitude through semantic metadata](https://ropensci.org/blog/2018/03/16/thanking-reviewers-in-metadata/)" with the option to acknowledge reviewers in the package DESCRIPTION (with reviewers' consent).  
 
 <!--
-Try [https://allcontributors.org/](https://allcontributors.org/) used by [Stats Peer Review book: Contributors](https://ropenscilabs.github.io/statistical-software-peer-review/index.html#contributors), recommended by Mark Padgham. “Recognize All Contributors. Including those that don't push code”. 
+Try [https://allcontributors.org/](https://allcontributors.org/) used by [Stats Peer Review book: Contributors](https://ropenscilabs.github.io/statistical-software-peer-review/index.html#contributors), recommended by Mark Padgham. "Recognize All Contributors. Including those that don't push code". 
 -->
 
 
@@ -131,13 +131,13 @@ Try [https://allcontributors.org/](https://allcontributors.org/) used by [Stats 
 ### The special case of rOpenSci unconfs {#unconfs}
 
 Between 2014 and 2019 we held in-person hackathon-flavored unconferences - five in the US and four in Australia. 
-The “[rOpenSci unconf](https://ropensci.org/blog/2017/06/02/unconf2017/)” became a place where people met, created and developed projects together, and got to know each other. 
+The "[rOpenSci unconf](https://ropensci.org/blog/2017/06/02/unconf2017/)" became a place where people met, created and developed projects together, and got to know each other. 
 You can get a feel for our unconfs by reading blog posts about [the events and projects](https://ropensci.org/tags/unconf/) and by listening to the [Credibly Curious podcast](https://soundcloud.com/crediblycurious/episode-6-oz-unconf) episode recorded during ozunconf18 by [Nick Tierney](https://ropensci.org/author/nicholas-tierney/) and [Saskia Freytag](https://twitter.com/trashystats).
 Through these we fostered a community of trust that functions online effectively and [with kindness](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/). 
 Our unconfs empowered many participants to run their own local unconferences, make new projects happen, build new communities, build relationships that led to collaborations and career moves.
-Perhaps the biggest impact of rOpenSci unconfs was on peoples’ confidence and their perceptions of the value they each bring to the world of R in open research.
+Perhaps the biggest impact of rOpenSci unconfs was on peoples' confidence and their perceptions of the value they each bring to the world of R in open research.
 
-Rest assured, we’re pondering how to continue building this trust network through collaborative online events.
+Rest assured, we're pondering how to continue building this trust network through collaborative online events.
 
 > The rOpenSci model has contributed much hidden skills and relationship infrastructure that has helped #rstats flourish. 
 > It's been a delight to participate in this and see people that got a start at an unconf gain confidence and grow into heavyweight community contributors and leaders over the years.
@@ -145,7 +145,7 @@ Rest assured, we’re pondering how to continue building this trust network thro
 > [Miles McBain on Twitter](https://twitter.com/MilesMcBain/status/1232458838307065858)
 
 > My life took a turn thanks to rOpenSci - the community I was welcomed into there gave me deep friendships, new skills & confidence to get out of my comfort zone. 
-> And the #rstats world as a whole is better for rOpenSci’s existence.
+> And the #rstats world as a whole is better for rOpenSci's existence.
 > <br>
 > [Jennifer Thompson on Twitter](https://twitter.com/jent103/status/1232460524031545344)
 
