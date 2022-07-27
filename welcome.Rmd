@@ -1,4 +1,4 @@
-# Welcome {-}
+# Welcome {.unnumbered}
 
 We're so happy you found your way here!
 
