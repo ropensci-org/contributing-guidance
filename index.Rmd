@@ -1,20 +1,8 @@
---- 
-title: "rOpenSci Community Contributing Guide"
-author: "Stefanie Butland and Steffi LaZerte"
+---
 date: "`r Sys.Date()`"
-site: bookdown::bookdown_site
-documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-description: "A guide to help people find ways to contribute to rOpenSci"
-github-repo: ropensci-org/contributing-guidance
-url: 'https\://contributing.ropensci.org/'
-apple-touch-icon: "favicon/apple-touch-icon.png"
-apple-touch-icon-size: 120
-favicon: "favicon/favicon.ico"
-twitter: ropensci
-cover-image: images/contrib_guide_cover.png
 ---
 
 # {-}

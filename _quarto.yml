@@ -3,12 +3,21 @@ project:
   
 book:
   title: "rOpenSci Community Contributing Guide"
+  description: "A guide to help people find ways to contribute to rOpenSci"
   author-meta: "Stefanie Butland & Steffi LaZerte"
+  favicon: "favicon/favicon.ico"
   cover-image: images/contrib_guide_cover.png
   reader-mode: true
   site-url: https://contributing.ropensci.org/
   repo-url: https://github.com/ropensci-org/contributing-guidance/
   repo-actions: [edit, issue]
+  open-graph: true
+  twitter-card: 
+    site: "@rOpenSci"
+    creator: "@rOpenSci"
+    image: images/contrib_guide_cover.png
+    image-alt: "Contributing guide cover featuring hexagonal panels each with a different person doing something different: lab work, computer work, field work, waving, hanging out with a dog/cat."
+    
 
   chapters:
   - index.Rmd
