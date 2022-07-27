@@ -1,0 +1,29 @@
+project:
+  type: book
+  
+book:
+  title: "rOpenSci Community Contributing Guide"
+  author-meta: "Stefanie Butland & Steffi LaZerte"
+  cover-image: images/contrib_guide_cover.png
+  reader-mode: true
+  site-url: https://contributing.ropensci.org/
+  repo-url: https://github.com/ropensci-org/contributing-guidance/
+  repo-actions: [edit, issue]
+
+  chapters:
+  - index.Rmd
+  - welcome.Rmd
+  - intro.Rmd
+  - motivations.Rmd
+  - resources.Rmd
+  - appendix.Rmd
+
+  - part: Appendix
+    chapters:
+    - appendix.Rmd
+
+format:
+  html:
+    theme: [cosmo, custom.scss]
+    code-link: true
+    include-in-header: "matomo.html"

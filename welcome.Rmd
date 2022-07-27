@@ -38,4 +38,4 @@ _This work was supported in part by a [NumFOCUS Small Development Grant](https:/
 
 Please cite this guide as: 
 
-`r citation`
+`r contributingguidance::citation()`

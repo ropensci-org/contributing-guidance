@@ -21,7 +21,6 @@ cover-image: images/contrib_guide_cover.png
 
 ```{r, echo = FALSE, fig.alt = "Contributing guide cover featuring hexagonal panels each with a different person doing something different: lab work, computer work, field work, waving, hanging out with a dog/cat."}
 knitr::include_graphics("images/contrib_guide_cover.png")
-citation <- "Stefanie Butland & Steffi LaZerte. (2020). rOpenSci Community Contributing Guide (Version v0.1.0). Zenodo. http://doi.org/10.5281/zenodo.4000532"
 ```
 
 *Cover illustration by [Lydia Hill](https://www.lydiakahill.com/)*
@@ -34,7 +33,7 @@ citation <- "Stefanie Butland & Steffi LaZerte. (2020). rOpenSci Community Contr
 
 Please cite this guide as: 
 
-`r citation`
+`r contributingguidance::citation()`
 
 
 ```{r include = FALSE, eval = FALSE}
