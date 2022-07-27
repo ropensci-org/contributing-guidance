@@ -54,7 +54,24 @@ format_one <- function(person) {
   }
   
 }
-cat(glue::glue_collapse(purrr::map_chr(staff, format_one), sep = ", ", last = "and"))
+cat(paste(c(
+  glue::glue_collapse(purrr::map_chr(staff, format_one), sep = ", ", last = " and "),
+  ".",
+  collapse = ""
+  ))
+)
+```
+
+```{r}
+#| results: asis
+was_staff <- function(person) {
+  any(person$past_role == "staff")
+}
+past_staff <- team[purrr::map_lgl(team, was_staff)]
+cat(paste(c(
+  glue::glue_collapse(purrr::map_chr(past_staff, format_one), sep = ", ", last = " and  ")),
+  "are Staff alumni."
+))
 ```
 
 **Strategic Advisors** 
@@ -66,7 +83,7 @@ is_advisor <- function(person) {
 }
 advisors <- team[purrr::map_lgl(team, is_advisor)]
 cat(paste(c(
-  glue::glue_collapse(purrr::map_chr(advisors, format_one), sep = ", ", last = "and")),
+  glue::glue_collapse(purrr::map_chr(advisors, format_one), sep = ", ", last = " and ")),
   "volunteer their time."
 ))
 ```
@@ -81,14 +98,23 @@ is_editor <- function(person) {
 }
 editors <- team[purrr::map_lgl(team, is_editor)]
 cat(paste(c(
-  glue::glue_collapse(purrr::map_chr(editors, format_one), sep = ", ", last = "and")),
+  glue::glue_collapse(purrr::map_chr(editors, format_one), sep = ", ", last = " and  ")),
   "volunteer their time."
 ))
 ```
 
+```{r}
+#| results: asis
+was_editor <- function(person) {
+  any(person$past_role == "editor")
+}
+past_editors <- team[purrr::map_lgl(team, was_editor)]
+cat(paste(c(
+  glue::glue_collapse(purrr::map_chr(past_editors, format_one), sep = ", ", last = " and ")),
+  "are Editor alumni."
+))
+```
 
-[Scott Chamberlain](https://ropensci.org/author/scott-chamberlain/) and 
-[Lincoln Mullen](https://ropensci.org/author/lincoln-mullen/) are Editor alumni. 
 Read posts introducing [Laura DeCicco, Julia Gustavsen, Mauro Lepore](https://ropensci.org/blog/2020/10/27/editors2020/), 
 [Brooke Anderson and Melina Vidoni](https://ropensci.org/blog/2019/01/31/more_editors/), 
 and [Anna Krystalli and Lincoln Mullen](https://ropensci.org/blog/2018/06/22/new_editors/).
