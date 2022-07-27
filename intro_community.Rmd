@@ -37,28 +37,56 @@ rOpenSci was **founded** in 2011 by [Karthik Ram](https://ropensci.org/author/ka
 and [Carl Boettiger](https://ropensci.org/author/carl-boettiger/), 
 ecologists who were motivated to make scientific data retrieval reproducible.
 
-**Staff** are R users, developers, research software engineers, community builders, 
-and an office jedi: [Karthik Ram](https://ropensci.org/author/karthik-ram/), 
-[Jeroen Ooms](https://ropensci.org/author/jeroen-ooms/), 
-[Maëlle Salmon](https://ropensci.org/author/ma%C3%ABlle-salmon/), 
-[Mark Padgham](https://ropensci.org/author/mark-padgham/), 
-[Steffi LaZerte](https://ropensci.org/author/steffi-lazerte/), 
-and Stacey Dorton.
+**Staff** are:
 
-**Strategic Advisors** [Noam Ross](https://ropensci.org/author/noam-ross/), 
-[Carl Boettiger](https://ropensci.org/author/carl-boettiger/), 
-[Jenny Bryan](https://ropensci.org/author/jenny-bryan/), and 
-[Rich FitzJohn](https://ropensci.org/author/rich-fitzjohn/) volunteer their time.
+```{r}
+#| results: asis
+team <- jsonlite::read_json("https://raw.githubusercontent.com/ropensci/roweb3/main/data/team/team.json")
+is_staff <- function(person) {
+  any(person$role == "staff")
+}
+staff <- team[purrr::map_lgl(team, is_staff)]
+format_one <- function(person) {
+  if (!is.null(person$home)) {
+    sprintf("[%s](%s) (%s)", person$name, person$home, person$affiliation)
+  } else {
+    sprintf("%s (%s)", person$name, person$affiliation)
+  }
+  
+}
+cat(glue::glue_collapse(purrr::map_chr(staff, format_one), sep = ", ", last = "and"))
+```
 
-**Software peer review Editors** [Noam Ross](https://ropensci.org/author/noam-ross/), 
-[Karthik Ram](https://ropensci.org/author/karthik-ram/), 
-[Maëlle Salmon](https://ropensci.org/author/ma%C3%ABlle-salmon/), 
-[Anna Krystalli](https://ropensci.org/author/anna-krystalli/), 
-[Melina Vidoni](https://ropensci.org/author/melina-vidoni/), 
-[Brooke Anderson](https://ropensci.org/author/brooke-anderson/), 
-[Mauro Lepore](https://ropensci.org/author/mauro-lepore/), 
-[Laura DeCicco](https://ropensci.org/author/laura-decicco/), and 
-[Julia Gustavsen](https://ropensci.org/author/julia-gustavsen/) volunteer their time. 
+**Strategic Advisors** 
+
+```{r}
+#| results: asis
+is_advisor <- function(person) {
+  any(person$role == "strategic advisor") && all(person$role != "staff")
+}
+advisors <- team[purrr::map_lgl(team, is_advisor)]
+cat(paste(c(
+  glue::glue_collapse(purrr::map_chr(advisors, format_one), sep = ", ", last = "and")),
+  "volunteer their time."
+))
+```
+
+
+**Software peer review Editors** 
+
+```{r}
+#| results: asis
+is_editor <- function(person) {
+  any(person$role == "editor")
+}
+editors <- team[purrr::map_lgl(team, is_editor)]
+cat(paste(c(
+  glue::glue_collapse(purrr::map_chr(editors, format_one), sep = ", ", last = "and")),
+  "volunteer their time."
+))
+```
+
+
 [Scott Chamberlain](https://ropensci.org/author/scott-chamberlain/) and 
 [Lincoln Mullen](https://ropensci.org/author/lincoln-mullen/) are Editor alumni. 
 Read posts introducing [Laura DeCicco, Julia Gustavsen, Mauro Lepore](https://ropensci.org/blog/2020/10/27/editors2020/), 
