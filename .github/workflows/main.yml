@@ -1,7 +1,11 @@
 on:
+  workflow_dispatch:
   push:
     branches:
       main
+  schedule:
+    - cron:  '30 12 * * 2'
+
   
 name: Render-Book-from-main
 
