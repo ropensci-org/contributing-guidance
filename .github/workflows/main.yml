@@ -1,0 +1,38 @@
+on:
+  push:
+    branches:
+      main
+  
+name: Render-Book-from-main
+
+jobs:
+  bookdown:
+    name: Render-Book
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      - uses: quarto-dev/quarto-actions/setup@v2
+      
+      - uses: r-lib/actions/setup-r@v2
+      
+      - uses: r-lib/actions/setup-pandoc@v2
+      
+      - uses: r-lib/actions/setup-r-dependencies@v2
+      
+      - name: Render book
+        run: Rscript -e 'quarto::quarto_render()'
+        
+      - name: Commit results
+        if: github.repository == 'ropensci-org/contributing-guidance'
+        run: |
+          cp ghpagescname _book/CNAME
+          cp -r favicon/ _book/
+          cp images/logo.png _book/logo.png
+          cd _book
+          git config --global user.email ${{secrets.EMAIL}}
+          git config --global user.name "gh-pages committer"
+          git init
+          git add .
+          git commit -m 'update book'
+          git push https://${{github.actor}}:${{secrets.GITHUB_TOKEN}}@github.com/${{github.repository}}.git HEAD:gh-pages --force
