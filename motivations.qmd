@@ -33,18 +33,18 @@ Choose your path. It's the journey, not the destination.
 
 
 
-```{r child="mtv_discover.Rmd", echo=FALSE}
+```{r child="mtv_discover.qmd", echo=FALSE}
 ```
 
-```{r child="mtv_connect.Rmd", echo=FALSE}
+```{r child="mtv_connect.qmd", echo=FALSE}
 ```
 
-```{r child="mtv_learn.Rmd", echo=FALSE}
+```{r child="mtv_learn.qmd", echo=FALSE}
 ```
 
-```{r child="mtv_build.Rmd", echo=FALSE}
+```{r child="mtv_build.qmd", echo=FALSE}
 ```
 
-```{r child="mtv_help.Rmd", echo=FALSE}
+```{r child="mtv_help.qmd", echo=FALSE}
 ```
 

@@ -20,17 +20,17 @@ book:
     
 
   chapters:
-  - index.Rmd
-  - welcome.Rmd
-  - intro.Rmd
-  - motivations.Rmd
-  - resources.Rmd
-  - appendix.Rmd
+  - index.qmd
+  - welcome.qmd
+  - intro.qmd
+  - motivations.qmd
+  - resources.qmd
+  - appendix.qmd
 
   - part: Appendix
     chapters:
-    - bibliography.Rmd
-    - news.Rmd
+    - bibliography.qmd
+    - news.qmd
 
 format:
   html:
