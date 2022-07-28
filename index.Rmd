@@ -7,9 +7,11 @@ link-citations: yes
 
 # Preface {.unnumbered}
 
+<!--
 ```{r, echo = FALSE, fig.alt = "Contributing guide cover featuring hexagonal panels each with a different person doing something different: lab work, computer work, field work, waving, hanging out with a dog/cat."}
 knitr::include_graphics("images/contrib_guide_cover.png")
 ```
+-->
 
 *Cover illustration by [Lydia Hill](https://www.lydiakahill.com/)*
 
