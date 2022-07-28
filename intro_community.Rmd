@@ -49,7 +49,7 @@ staff <- team[purrr::map_lgl(team, is_staff)]
 format_one <- function(person) {
   if (!is.null(person$home)) {
     if (grepl("^/", person$home)) {
-      person$home <- sprintf("https://ropensci.org", person$home)
+      person$home <- sprintf("https://ropensci.org%s", person$home)
     }
     sprintf("[%s](%s) (%s)", person$name, person$home, person$affiliation)
   } else {
