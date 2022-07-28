@@ -29,7 +29,8 @@ book:
 
   - part: Appendix
     chapters:
-    - appendix.Rmd
+    - bibliography.Rmd
+    - news.Rmd
 
 format:
   html:
