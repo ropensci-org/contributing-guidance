@@ -120,7 +120,16 @@ Read posts introducing [Laura DeCicco, Julia Gustavsen, Mauro Lepore](https://ro
 and [Anna Krystalli and Lincoln Mullen](https://ropensci.org/blog/2018/06/22/new_editors/).
 We occasionally recruit [guest editors](https://devguide.ropensci.org/softwarereviewintro.html#editors-and-reviewers) for some package reviews.
 
-[![Headshots of the rOpensci team](images/team-all.png "Headshots of the rOpensci team")](https://ropensci.org/about/)
+```{r}
+pic <- webshot2::webshot(
+  "https://ropensci.org/about/", 
+  expand = 5,
+  selector = "#team-staff-others"
+)
+```
+
+
+[![Headshots of the rOpensci team](webshot.png "Headshots of the rOpensci team")](https://ropensci.org/about/#team)
 
 Get to know some of the **more experienced folks in our community** by reading the 
 [.Rprofile series of posts](https://ropensci.org/tags/rprofile/) for which 
