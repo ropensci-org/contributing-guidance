@@ -4,65 +4,47 @@ name: PR-workflow
 
 jobs:
   bookdown:
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+      NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+      NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
     name: Render Book
-    runs-on: macOS-latest
+    runs-on: ubuntu-latest
     steps:
       - name: Is this a fork
         run: |
           fork=$(jq --raw-output .pull_request.head.repo.fork "${GITHUB_EVENT_PATH}");echo "fork=${fork}" >> $GITHUB_ENV
             
-      
-      - uses: actions/checkout@v1
-        
-      - uses: r-lib/actions/setup-r@v1
-      
-      - uses: r-lib/actions/setup-pandoc@v1
-      
-      - name: Install pak and query dependencies
-        run: |
-          install.packages("pak", repos = "https://r-lib.github.io/p/pak/dev/")
-          saveRDS(pak::pkg_deps("local::.", dependencies = TRUE), ".github/r-depends.rds")
-        shell: Rscript {0}
+      - uses: actions/checkout@v2
 
-      - name: Cache R packages
-        uses: actions/cache@v2
+      - uses: quarto-dev/quarto-actions/setup@v2
         with:
-          path: ${{ env.R_LIBS_USER }}
-          key: mac-${{ steps.install-r.outputs.installed-r-version }}-1-${{ hashFiles('.github/r-depends.rds') }}
-          restore-keys: mac-${{ steps.install-r.outputs.installed-r-version }}-1-
-
-      - name: Install dependencies
-        run: |
-          pak::local_install_dev_deps(upgrade = TRUE)
-          pak::pkg_install("pkgdown")
-        shell: Rscript {0}
-        
-      - name: Render Book
-        run: Rscript -e 'bookdown::render_book("index.Rmd")'
-        
-      - uses: actions/setup-node@v1
-        if: env.fork == 'false'
+          version: 1.1.107
+      
+      - uses: r-lib/actions/setup-r@v2
+      
+      - uses: r-lib/actions/setup-pandoc@v2
+      
+      - uses: r-lib/actions/setup-r-dependencies@v2
         with:
-          node-version: "12.x"
-          
-      - name: Install Netlify CLI
-        if: env.fork == 'false'
-        run: npm install netlify-cli -g
+          extra-packages: local::.
+      
+      - name: Render book
+        run: Rscript -e 'quarto::quarto_render()'
         
-      - name: Deploy to Netlify (test)
+      - name: Deploy to Netlify
         if: env.fork == 'false'
-        run: DEPLOY_URL=$(netlify deploy --site ${{ secrets.NETLIFY_SITE_ID }} --auth ${{ secrets.NETLIFY_AUTH_TOKEN }} --dir=docs --json | jq '.deploy_url' --raw-output);echo "DEPLOY_URL=${DEPLOY_URL}" >> $GITHUB_ENV
-                
-      - name: Update commit status
-        if: env.fork == 'false'
-        run: |
-          curl --request POST \
-          --url https://api.github.com/repos/${{ github.repository }}/statuses/${{ github.event.pull_request.head.sha }} \
-          --header 'authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' \
-          --header 'Accept: application/vnd.github.antiope-preview+json' \
-          --header 'content-type: application/json' \
-          --data '{
-            "state": "success",
-            "target_url": "${{ env.DEPLOY_URL }}",
-            "context": "Netlify"
-            }'
+        id: netlify-deploy
+        uses: nwtgck/actions-netlify@v1.1
+        with:
+          publish-dir: './_book'
+          production-branch: master
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          deploy-message:
+            'Deploy from GHA: ${{ github.event.pull_request.title || github.event.head_commit.message }} (${{ github.sha }})'
+          # these all default to 'true'
+          enable-pull-request-comment: false
+          enable-commit-comment: false
+          # enable-commit-status: true
+          #o verwrites-pull-request-comment: true
+        timeout-minutes: 1

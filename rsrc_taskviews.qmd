@@ -1,0 +1,27 @@
+## Task Views {#taskviews}
+
+Task views are excellent resources for guidance on which packages are relevant to a certain topic
+They might list packages under sections like data retrieval, visualization, or analysis
+Here we list some [task views](https://github.com/topics/task-view) maintained by rOpenSci staff and community members.
+They contain packages that are on CRAN and/or on GitHub.
+
+You can contribute to task views by looking at the project's contributing guide, then comment in an issue to discuss your approach with the maintainer
+Create a pull request and submit your proposed changes! If you have a problem with one of the packages discussed it's best to use the specific communication channels of that package (e.g., GitHub Issues).
+
+[Taxonomy](https://github.com/ropensci/taxonomy/blob/master/README.md), maintained by Scott Chamberlain, contains information on retrieving and manipulating taxonomic data in R.
+
+[Antarctic and Southern Ocean Science](https://github.com/SCAR/ropensci/blob/master/task_view/README.md), maintained by Ben Raymond, covers a range of topics within the geosciences, life sciences, physical sciences, and humanities and social sciences of particular interest to Antarctic and Southern Ocean researchers. 
+
+[Hydrological Data and Modeling](https://github.com/ropensci/Hydrology/blob/master/README.md), maintained by Sam Zipper, Sam Albers, and Ilaria Prosdocimi, contains information about packages broadly relevant to hydrology, defined as the movement, distribution and quality of water and water resources over a broad spatial scale of landscapes
+The maintainers built on this task view in "[Getting your toes wet in R: Hydrology, meteorology, and more](https://ropensci.org/blog/2019/04/02/hydrology-task-view/)".
+
+[Archaeological Science](https://github.com/benmarwick/ctv-archaeology/blob/master/README.md), maintained by Ben Marwick, contains packages useful for scientific work in Archaeology, grouped by topic. 
+
+[Web Technologies and Services](https://github.com/ropensci/webservices/blob/master/README.md), maintained by Scott Chamberlain, Thomas Leeper, Patrick Mair, Karthik Ram, and Christopher Gandrud, contains information about how to use R and the world wide web together
+It focuses on packages for obtaining web-based data and information, frameworks for building web-based R applications, and online services that can be accessed from R.
+
+
+### How to contribute
+
+*   **Browse existing [Task Views](https://github.com/topics/task-view)** to discover packages to use.
+*   [Make a pull request](#channels-github) to add packages or details to an existing task view after discussing your approach with the maintainer.

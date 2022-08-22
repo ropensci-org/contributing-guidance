@@ -1,0 +1,21 @@
+## Statistical Software Peer Review Book {#statsreview}
+
+We invite you to join us in developing new standards for peer-reviewed evaluation of statistical software
+Learn about this work in progress at [rOpenSci Statistical Software Peer Review](https://stats-devguide.ropensci.org/index.html). 
+
+Until recently, rOpenSci's software peer review program  focused on R packages for reproducible data life cycle management
+To apply these processes to software implementing statistical methods and algorithms, we need new ways of evaluating and testing software, and of managing the review process, and to bring in new expert editors and reviewers
+This book serves as a home for collecting research and developing those standards, documenting not only our guidelines for statistical software but also the process of expanding the scope of review so the general processes of software review may be adapted and reproduced in other domains.
+
+This work is [supported by the Sloan Foundation](https://ropensci.org/blog/2019/07/15/expanding-software-review/) and is organized under an R Consortium Working Group.
+
+
+### How to contribute
+
+*   **Read our in-progress book** [rOpenSci Statistical Software Peer Review](https://stats-devguide.ropensci.org/index.html) to familiarize yourself with standards and processes under development
+*   **Follow the discussion**. 
+    Browse the dedicated [area for discussion on the rOpenSci forum](https://discuss.ropensci.org/c/statistical-software-peer-review/28) and share your comments or questions.
+*   **Make a suggestion**. 
+    We welcome contributions to the project either by filing suggestions as [issues in the book's GitHub repository](https://github.com/ropenscilabs/statistical-software-peer-review/issues), or by submitting a pull request. 
+*   **Contact us** directly (via [Slack](#channels-slack) or our 
+    [contact form](https://ropensci.org/contact/)) to inquire about submitting a statistical software package for pre-review.

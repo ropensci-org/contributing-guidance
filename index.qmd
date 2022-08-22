@@ -1,0 +1,51 @@
+---
+date: "`r Sys.Date()`"
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+---
+
+# Preface {.unnumbered}
+
+<!--
+```{r, echo = FALSE, fig.alt = "Contributing guide cover featuring hexagonal panels each with a different person doing something different: lab work, computer work, field work, waving, hanging out with a dog/cat."}
+knitr::include_graphics("images/contrib_guide_cover.png")
+```
+-->
+
+*Cover illustration by [Lydia Hill](https://www.lydiakahill.com/)*
+
+
+
+<a href="https://doi.org/10.5281/zenodo.4000531"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4000531.svg?branch=master" alt="DOI"></a>
+
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/us/88x31.png" /></a><br /> This work is licensed under [a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 United States License](https://creativecommons.org/licenses/by-nc-sa/3.0/us/).
+
+Please cite this guide as: 
+
+`r contributingguidance::citation()`
+
+
+```{r include = FALSE, eval = FALSE}
+# Check links (adapted from roblog::ro_check_urls)
+
+df <- tibble::tibble(rmds = list.files(pattern = "Rmd", full.names = TRUE),
+                     text = purrr::map(rmds, ~try(readLines(.), silent = TRUE)),
+                     error_read = inherits(text, "try-error"))
+
+if (any(df$error_read)) {
+  stop(glue::glue("The file {df$rmds[df$error_read]} could not be read."))
+}
+
+df_check <- df %>%
+  dplyr::mutate(urls = purrr::map(text, ~stringr::str_extract_all(., "http[s]*\\:[^ \\)\\]\"\\>]*")),
+                urls = purrr:: map(urls, unlist)) %>%
+  tidyr::unnest(urls) %>%
+  dplyr::select(rmds, urls) %>%
+  dplyr::distinct() %>%
+  dplyr::mutate(ok = purrr:: map_lgl(urls, crul::ok, verb = "get"))
+
+dplyr::filter(df_check, !ok)
+```
+
+

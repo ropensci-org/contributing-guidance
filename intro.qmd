@@ -1,0 +1,7 @@
+# rOpenSci & Our Community {#intro}
+
+```{r child="intro_mission.qmd", echo=FALSE}
+```
+
+```{r child="intro_community.qmd", echo=FALSE}
+```

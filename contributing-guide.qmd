@@ -1,0 +1,283 @@
+--- 
+title: "rOpenSci Community Contributing Guide"
+author: "Stefanie Butland and Steffi LaZerte"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "A guide to help people find ways to contribute to rOpenSci"
+github-repo: ropensci-org/contributing-guidance
+url: 'https\://contributing.ropensci.org/'
+apple-touch-icon: "favicon/apple-touch-icon.png"
+apple-touch-icon-size: 120
+favicon: "favicon/favicon.ico"
+twitter: ropensci
+cover-image: images/contrib_guide_cover.png
+---
+
+# {-}
+
+```{r, echo = FALSE, fig.alt = "Contributing guide cover featuring hexagonal panels each with a different person doing something different: lab work, computer work, field work, waving, hanging out with a dog/cat."}
+knitr::include_graphics("images/contrib_guide_cover.png")
+```
+
+*Cover illustration by [Lydia Hill](https://www.lydiakahill.com/)*
+
+
+
+<a href="https://doi.org/10.5281/zenodo.4000531"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4000531.svg?branch=master" alt="DOI"></a>
+
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/us/88x31.png" /></a><br /> This work is licensed under [a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 United States License](https://creativecommons.org/licenses/by-nc-sa/3.0/us/).
+
+Please cite this guide as: 
+
+`r contributingguidance::citation()`
+
+
+```{r include = FALSE, eval = FALSE}
+# Check links (adapted from roblog::ro_check_urls)
+
+df <- tibble::tibble(rmds = list.files(pattern = "Rmd", full.names = TRUE),
+                     text = purrr::map(rmds, ~try(readLines(.), silent = TRUE)),
+                     error_read = inherits(text, "try-error"))
+
+if (any(df$error_read)) {
+  stop(glue::glue("The file {df$rmds[df$error_read]} could not be read."))
+}
+
+df_check <- df %>%
+  dplyr::mutate(urls = purrr::map(text, ~stringr::str_extract_all(., "http[s]*\\:[^ \\)\\]\"\\>]*")),
+                urls = purrr:: map(urls, unlist)) %>%
+  tidyr::unnest(urls) %>%
+  dplyr::select(rmds, urls) %>%
+  dplyr::distinct() %>%
+  dplyr::mutate(ok = purrr:: map_lgl(urls, crul::ok, verb = "get"))
+
+dplyr::filter(df_check, !ok)
+```
+
+
+
+<!--chapter:end:index.Rmd-->
+
+# Welcome {-}
+
+We're so happy you found your way here!
+
+The **purpose of this guide** is to welcome you to rOpenSci and help you recognize yourself as a potential contributor. It will help you figure out what you might gain by giving your time, expertise, and experience; match your needs with things that will help rOpenSci's mission; and connect you with resources to help you along the way. 
+
+rOpenSci creates technical and community infrastructure for open and reproducible research that lowers barriers to working with scientific data in R. Our staff and community actively foster a welcoming environment where users and developers from different backgrounds and skill levels learn, share ideas and innovate together openly through shared norms and software. Participation in all rOpenSci activities is supported by our [Code of Conduct](#conduct).
+
+We welcome code and non-code contributions from new and seasoned coders at any career stage, and in any sector. You don't have to be a developer! Maybe you want to **spend 30 minutes** sharing your package use case in our public forum or reporting a bug, **one hour** learning by attending a Community Call, **five hours** reviewing an R package submitted for open peer review, **or maybe you want to make an ongoing commitment** to help maintain a package.
+
+What are some benefits of contributing?
+
+*   Connect with a community  who shares your interest in making science more open
+*   Learn from people outside your domain who use R with challenges similar to yours
+*   Ask and answer new research questions by getting to know new software tools and allies
+*   Feel confident and supported in your efforts to write code and develop software
+*   Gain visibility for your open source work
+*   Improve the software you use or build
+*   Level up your R skills and help others level up theirs
+*   Level up your writing skills
+*   Get more exposure for your package
+
+Read [rOpenSci & Our Community](#intro) to learn about our mission, what it means to be part of our community, and to meet some [Humans of rOpenSci](#humans).
+
+Browse [What brings you here?](#motivations) to find which "I want to..." statements fit you best and choose your path! To help you recognize yourself, we've grouped these into: [Discover](#discover); [Connect](#connect); [Learn](#learn); [Build](#build); [Help](#help). For each category, we list examples of what those contributions might look like and we link to our [resources](#resources) to help you get started. 
+
+Or jump directly into rOpenSci [Resources](#resources) to find descriptions and links to guide specific contributions.
+
+---
+
+_A huge thank you to everyone who has contributed to this guide so far! [Toby Hodges](https://github.com/tobyhodges), [Julia Stewart Lowndes](https://github.com/jules32), [Scott Chamberlain](https://github.com/sckott), [Jeroen Ooms](https://github.com/jeroen), [Karthik Ram](https://github.com/karthik), [Noam Ross](https://github.com/noamross), [Maëlle Salmon](https://github.com/maelle) (alphabetical order with community members followed by staff). Please tell us if we forgot to acknowledge your contribution._
+
+_Cover illustration by [Lydia Hill](https://www.lydiakahill.com/)._
+
+_This work was supported in part by a [NumFOCUS Small Development Grant](https://numfocus.org/programs/sustainability) to rOpenSci._
+
+---
+
+Please cite this guide as: 
+
+`r contributingguidance::citation()`
+
+<!--chapter:end:welcome.Rmd-->
+
+# rOpenSci & Our Community {#intro}
+
+```{r child="intro_mission.Rmd", echo=FALSE}
+```
+
+```{r child="intro_community.Rmd", echo=FALSE}
+```
+
+<!--chapter:end:intro.Rmd-->
+
+# What brings you here? I want to ... {#motivations}
+
+
+Contributors to rOpenSci come with a wide range of motivations, 
+which can include wanting a tangible way to participate in open science. 
+First-time contributions may come from people in different places on a continuum of experience: 
+from those who consider themselves newcomers exploring the landscape and trying to see where they fit,
+all the way to more experienced folks who know exactly what they have to offer and what they would like to contribute. 
+
+Contributing to rOpenSci can help you build your track record of public contributions 
+(such as code or documentation on GitHub), and may help improve your CV for job, 
+fellowship, or award applications. 
+
+Participation in an open source project like rOpenSci is more likely to be a lifecycle than a linear path. 
+Having a package pass peer review for the first time can feel like a huge milestone. 
+You might write a blog post about the package, 
+"give back" by participating as a reviewer or mentoring someone else in their first review, 
+or answering questions about package maintenance. 
+But as a person becomes more experienced, they may move on. 
+The value someone might get out of participating here will change over time and that is perfectly ok.
+
+> ...users pursuing their own "selfish" interests build collective value as an automatic byproduct. 
+> <br>
+> [Tim O'Reilly on The Architecture of Participation](https://www.oreilly.com/pub/a/tim/articles/paradigmshift_0504.html)
+
+Do you already know what value you want to get out of contributing? 
+(It's ok if you don't know yet.) 
+**To help you recognize yourself**, we've categorized what we think contributors to rOpenSci want into:
+[Discover](#discover); [Connect](#connect); [Learn](#learn); [Build](#build); [Help](#help). 
+For each category, **we list examples of what those contributions might look like and we link to our [resources](#resources)** to help you get started. 
+
+Choose your path. It's the journey, not the destination.
+
+
+
+```{r child="mtv_discover.Rmd", echo=FALSE}
+```
+
+```{r child="mtv_connect.Rmd", echo=FALSE}
+```
+
+```{r child="mtv_learn.Rmd", echo=FALSE}
+```
+
+```{r child="mtv_build.Rmd", echo=FALSE}
+```
+
+```{r child="mtv_help.Rmd", echo=FALSE}
+```
+
+
+<!--chapter:end:motivations.Rmd-->
+
+# rOpenSci Resources {#resources}
+
+Each section of this chapter describes and links to a specific rOpenSci resource with a "How to contribute" list of actions you could take. 
+
+Not sure where to get started? 
+Browse [What brings you here?](#motivations) to help you explore what you want to get out of contributing. 
+Categories - [Discover](#discover), [Connect](#connect), [Learn](#learn), [Build](#build), [Help](#help) - 
+each have "I want to" statements followed by examples of specific ways you can contribute. 
+Each example links to a resource in this chapter to help you take action.
+
+
+```{r child="rsrc_conduct.Rmd", echo=FALSE}
+```
+
+```{r child="rsrc_channels.Rmd", echo=FALSE}
+```
+
+```{r child="rsrc_commcalls.Rmd", echo=FALSE}
+```
+
+```{r child="rsrc_coworking.Rmd", echo=FALSE}
+```
+
+```{r child="rsrc_blog.Rmd", echo=FALSE}
+```
+
+```{r child="rsrc_blogguide.Rmd", echo=FALSE}
+```
+
+```{r child="rsrc_packages.Rmd", echo=FALSE}
+```
+
+```{r child="rsrc_taskviews.Rmd", echo=FALSE}
+```
+
+```{r child="rsrc_usecases.Rmd", echo=FALSE}
+```
+
+```{r child="rsrc_issues.Rmd", echo=FALSE}
+```
+
+```{r child="rsrc_devguide.Rmd", echo=FALSE}
+```
+
+```{r child="rsrc_runiverse.Rmd", echo=FALSE}
+```
+
+```{r child="rsrc_statsreview.Rmd", echo=FALSE}
+```
+
+```{r child="rsrc_contributing.Rmd", echo=FALSE}
+```
+
+<!-- Currently not evaluated, so not added (This comment can't be in the code block or rmarkdown complains-->
+```{r child="rsrc_wishlist.Rmd", echo=FALSE, eval = FALSE}
+```
+
+<!--chapter:end:resources.Rmd-->
+
+# Bibliography
+
+We're always standing on the shoulders of giants, some of whom don't think of themselves as giants. 
+The following resources together influenced the ideas, approach, design, tone, and content of the rOpenSci Community Contributing Guide. 
+
+- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/). 
+Authors: https://github.com/github/opensource.guide#acknowledgments
+
+- Dan Sholler, Igor Steinmacher, Denae Ford, Mara Averick, Mike Hoye, Greg Wilson (2019). 
+  [Ten simple rules for helping newcomers become contributors to open projects](https://doi.org/10.1371/journal.pcbi.1007296). 
+  PLoS Comput Biol, 15(9), e1007296. https://doi.org/10.1371/journal.pcbi.1007296
+
+- Tim O'Reilly (2004). [Open Source Paradigm Shift](https://www.oreilly.com/pub/a/tim/articles/paradigmshift_0504.html)
+
+- The Astropy Project. [Contribute to Astropy](https://www.astropy.org/contribute.html)
+
+- Jupyter Team. [Jupyter Contributing guide](https://jupyter.readthedocs.io/en/latest/contributing/content-contributor.html)
+
+- RStudio. [RStudio Education](https://education.rstudio.com/)
+
+- Nadia Eghbal (2020) [Working in Public: The Making and Maintenance of Open Source Software](https://press.stripe.com/#working-in-public). 
+Stripe Press, San Francisco, CA.
+
+- Mozilla Open Leadership Series. [Contributor Personas & Pathways](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/bring-on-contributors-using-personas-and-pathways/)
+
+- Software Carpentry. [Carpentries Learner Profiles](https://software-carpentry.org/audience/)
+
+
+# NEWS 
+
+## 0.2.0
+
+* Added NEWS chapter to appendix (#35)
+* Update title on Zenodo (#45)
+* Fix back-button issues (#44)
+* Add cover and illustrator acknowledgement (#43)
+* Update screenshots to match new rOpenSci website (#39)
+* Update peer-review editor (#38)
+* Fix Twitter link (#28)
+* Minor text re-wording (e.g., #34)
+* Switched to BS4 bookdown template
+* Added new resources: Help Wanted Page, Use Cases Page, R-universe, Social Co-working
+* Tweaked content
+* Updated staff and community manager information
+
+## 0.1.0 (2020-08-25)
+
+* Initial release 🎉
+
+
+
+<!--chapter:end:appendix.Rmd-->
+
