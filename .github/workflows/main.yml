@@ -18,7 +18,7 @@ jobs:
       
       - uses: quarto-dev/quarto-actions/setup@v2
         with:
-          version: v1.1.107
+          version: 1.1.107
       
       - uses: r-lib/actions/setup-r@v2
       
