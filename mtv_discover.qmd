@@ -20,8 +20,6 @@ Discover packages I can use to facilitate my research and access open data
 *   [Browse task views](#taskviews) to discover packages to use
 *   [Subscribe to our Newsletter](#channels)
 *   [Follow rOpenSci on Twitter](#channels)
-*   [Follow roknowtifier on Twitter](#channels) to get notified about new 
-    packages and package updates in real time
 *   [Browse citations of rOpenSci packages](#packages) to see what other 
     researchers are using
 *   [Explore the R-universe](#runiverse)

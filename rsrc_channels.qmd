@@ -23,7 +23,6 @@ tribble(~Channel, ~Purpose,
         "[Newsletter](https://news.ropensci.org/)", "A digest of R package news, use cases, blog posts, events, curated every two weeks. [Subscribe](https://news.ropensci.org/) via RSS (XML), JSON feed, or email.",
         "[Videos](https://vimeo.com/ropensci)", "Videos from past Community Calls on Vimeo",
         "[Twitter - rOpenSci](https://twitter.com/rOpenSci)", "Tweets about rOpenSci software, use cases, blog posts, tech notes, events",
-        "[Twitter - roknowtifier](https://twitter.com/roknowtifier)", "Bot that tweets new rOpenSci packages or new versions of packages",
         "Video conferencing", "Community Calls and remote co-working sessions on  Zoom",
         "[GitHub - ropensci](https://github.com/ropensci)", "Mature R packages contributed by rOpenSci staff or community-contributed peer-reviewed packages; software peer review system; rOpenSci website",
         "[GitHub - ropenscilabs](https://github.com/ropenscilabs)", "Experimental packages and code experiments from staff, collaborators, and participants of unconfs and related events",
@@ -120,7 +119,6 @@ and an rOpenSci Community Call - [How to Ask Questions so they get Answered! Pos
 
 *   Read our [Code of Conduct](https://ropensci.org/code-of-conduct/) to ensure you are ready to participate
 *   **Follow [rOpenSci on Twitter](https://twitter.com/rOpenSci)**
-*   **Follow [roknowtifer on Twitter](https://twitter.com/roknowtifier)** for notifications when new rOpenSci packages or new versions of packages are released
 *   **Subscribe to our [Newsletter](https://news.ropensci.org/)**
 *   **Ask or answer questions**. Participate in discussions in the [forum](https://discuss.ropensci.org/), on GitHub or on Slack
 *   **Try a 2-hour [remote co-working session](https://www.cscce.org/2020/02/04/online-co-working-partnerships-are-community-of-practice-in-action/)** with someone in our Slack #co-working channel
