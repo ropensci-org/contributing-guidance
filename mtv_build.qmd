@@ -46,7 +46,7 @@ Improve package documentation and examples
 
 Promote best practices for R development
 
-*   [Engage with us on Twitter](#channels). 
+*   [Engage with us on Mastodon](#channels). 
     Amplify best practices from our social media to your networks
 *   [Ask or answer questions](#channels) in the the "Best Practices" category in our forum or on [Slack](#channels-slack)
 *   **Write a blog post or tech note** about the development of your rOpenSci package or your implementation of best practices (see both the [Blog](#blog) and the [Blog Guide](#blogguide))

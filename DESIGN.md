@@ -21,5 +21,5 @@ Links look like `[My text](my-anchor)`
 ```
 > My awesome quote.
 >
-> [Awesome Name in Awesome Source or on Twitter](https://awesome.source) 
+> [Awesome Name in Awesome Source or on Mastodon](https://awesome.source) 
 ```

@@ -6,7 +6,7 @@ We carry out our work using multiple channels for one-way and multi-way communic
 
 **GitHub** is the platform we use to host our software and documentation projects using Git version control. 
 Our **newsletter**, delivered every two weeks, is the ideal way to stay informed without being overwhelmed by communication channels. 
-We use our public **discussion forum**, **Twitter**, and **Slack**, 
+We use our public **discussion forum**, **Mastodon**, and **Slack**, 
 each for specific modes of making announcements, promoting contributions from community members, 
 asking and answering questions about rOpenSci packages and recommended best practices,
 knowledge-sharing and exploration of ideas, 
@@ -22,8 +22,8 @@ tribble(~Channel, ~Purpose,
         "Website <https://ropensci.org/> <https://github.com/ropensci/roweb3>", "Home of rOpenSci",
         "[Newsletter](https://news.ropensci.org/)", "A digest of R package news, use cases, blog posts, events, curated every two weeks. [Subscribe](https://news.ropensci.org/) via RSS (XML), JSON feed, or email.",
         "[Videos](https://vimeo.com/ropensci)", "Videos from past Community Calls on Vimeo",
-        "[Twitter - rOpenSci](https://twitter.com/rOpenSci)", "Tweets about rOpenSci software, use cases, blog posts, tech notes, events",
-        "Video conferencing", "Community Calls and remote co-working sessions on  Zoom",
+        "[Mastodon](https://hachyderm.io/@rOpenSci)", "Posts about rOpenSci software, use cases, blog posts, tech notes, events",
+        "Video conferencing", "Community Calls and remote co-working sessions on Zoom",
         "[GitHub - ropensci](https://github.com/ropensci)", "Mature R packages contributed by rOpenSci staff or community-contributed peer-reviewed packages; software peer review system; rOpenSci website",
         "[GitHub - ropenscilabs](https://github.com/ropenscilabs)", "Experimental packages and code experiments from staff, collaborators, and participants of unconfs and related events",
         "[GitHub - ropensci-org](https://github.com/ropensci-org)", "Non-code repositories like this guide, the blog guide, ideas for Community Calls",
@@ -118,7 +118,7 @@ and an rOpenSci Community Call - [How to Ask Questions so they get Answered! Pos
 ### How to contribute? 
 
 *   Read our [Code of Conduct](https://ropensci.org/code-of-conduct/) to ensure you are ready to participate
-*   **Follow [rOpenSci on Twitter](https://twitter.com/rOpenSci)**
+*   **Follow [rOpenSci on Mastodon](https://hachyderm.io/@rOpenSci)**
 *   **Subscribe to our [Newsletter](https://news.ropensci.org/)**
 *   **Ask or answer questions**. Participate in discussions in the [forum](https://discuss.ropensci.org/), on GitHub or on Slack
 *   **Try a 2-hour [remote co-working session](https://www.cscce.org/2020/02/04/online-co-working-partnerships-are-community-of-practice-in-action/)** with someone in our Slack #co-working channel

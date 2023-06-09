@@ -65,7 +65,7 @@ Some good examples of contribution guides are
 and [this one](https://github.com/ecohealthalliance/fasterize/blob/master/CONTRIBUTING.md) from [Noam Ross](https://ropensci.org/author/noam-ross/).
 
 You can also label issues as suggested above. 
-We keep track of newly labelled `help wanted` issues and tweet about them to help
+We keep track of newly labelled `help wanted` issues and post about them to help
 developers get help.
 
 

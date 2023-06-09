@@ -34,9 +34,9 @@ Developers and users will thank you and you'll get the credit and some visibilit
 
 *   **Explore use cases** on the [rOpenSci Use Cases page](https://ropensci.org/usecases/) or in [our public forum UseCases category](https://discuss.ropensci.org/c/usecases/10)
     Comment on or [emoji heart] use cases that you find useful or inspiring. 
-    Consider tweeting or sharing to other platforms if you find them particularly helpful.
+    Consider posting or sharing to other platforms if you find them particularly helpful.
 *   We've made it easy to **submit your use cases** for rOpenSci packages (including your own) or resources by creating a template to guide you. 
-    When you [post your use case in the forum](https://discuss.ropensci.org/c/usecases/10) we'll tweet about it to rOpenSci's ~30,000 followers, 
+    When you [post your use case in the forum](https://discuss.ropensci.org/c/usecases/10) we'll post to Mastodon about it to rOpenSci's followers, 
     tagging you and the package or resource author, 
     and we might feature it in our [newsletter](#channels).
 *   **Encourage your peers to submit use cases**. 
