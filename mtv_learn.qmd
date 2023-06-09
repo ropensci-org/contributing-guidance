@@ -15,8 +15,7 @@ Click on any action under a statement to go to a description of the relevant rOp
 
 Be informed by reading and listening 
 
-*   [Follow rOpenSci on Twitter](#channels)
-*   [Follow roknowtifier on Twitter](#channels) to get notifications about new packages and package updates in real time
+*   [Follow rOpenSci on Mastodon](#channels)
 *   [Subscribe to our Newsletter](#channels)
 *   [Read blog posts or tech notes](#blog)
 *   [Read the R-universe discussion](#runiverse)

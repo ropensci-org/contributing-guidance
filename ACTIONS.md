@@ -41,10 +41,9 @@ Text in **SUB bullets** is either for Resources Chapter (noted Chp 3) with addit
 
 ### Communication channels {#channels}
 
-*   [Follow rOpenSci on Twitter](#channels)
-*   [Follow roknowtifier on Twitter](#channels) to get notified about new packages and package updates
+*   [Follow rOpenSci on Mastodon](#channels)
 *   [Subscribe to our Newsletter](#channels)
-*   [Engage with us on Twitter](#channels). Amplify best practices from our social media to your networks. Reply to or quote a tweet to share your experience or expertise on a topic
+*   [Engage with us on Mastodon](#channels). Amplify best practices from our social media to your networks. Reply to a post to share your experience or expertise on a topic
 *   [Ask or answer questions](#channels) in the forum or on [Slack](#channels-slack)
     *   [Read or ask questions](#channels) in the "Best Practices" category in our forum or on [Slack](#channels-slack)
     *   [Read or ask questions](#channels) in the "Packages" category in our forum or on [Slack](#channels-slack)
