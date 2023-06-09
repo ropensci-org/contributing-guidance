@@ -4,7 +4,7 @@
 
 * Removed Twitter channel references
 * Added Mastodon
-
+* Clarified coworking
 
 ## 0.2.0
 
