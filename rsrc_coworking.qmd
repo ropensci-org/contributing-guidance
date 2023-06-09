@@ -1,4 +1,4 @@
-## Social coworking and Office Hours {#coworking}
+## Social Coworking and Office Hours {#coworking}
 
 Joining a [social coworking and office hours session](https://ropensci.org/blog/2021/08/17/coworking-sessions/) is a great way to interact with other community members as well as to get work done or
 ask questions. 
@@ -6,12 +6,12 @@ ask questions.
 Coworking is working at the same time, with others, but on different projects. 
 It helps with networking, reduces social isolation, and increases accountability.
 
-These sessions are informal 2hr meetings online, start with introductions and are followed by three 30min coworking sessions, inter spaced with 5-min breaks. 
+These sessions are informal 2hr meetings online, start with introductions and are followed by two 40min coworking sessions, inter spaced with a small break and scavenger hunt. 
 During coworking, you can work quietly in the "Quiet" room, or hangout in the "Noisy" room. 
 There, you can work, chat with others, or ask questions. 
 
 Each room has a host, either rOpenSci staff or a Community Host, eager to answer
-questions about rOpenSci or specific R projects they're working on. 
+questions about the theme of the month or other projects they're working on. 
 
 **Coworking**: 
 
