@@ -5,6 +5,7 @@
 * Removed Twitter channel references
 * Added Mastodon
 * Clarified coworking
+* Update links to Newsletter
 
 ## 0.2.0
 
