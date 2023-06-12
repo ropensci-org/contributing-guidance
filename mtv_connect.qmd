@@ -26,7 +26,7 @@ Belong to a supportive community
 *   [Read blog posts or tech notes](#blog), particularly those tagged with "Welcome" to get a feel for how we value people in our community.
 *   [Support fellow community members](#channels) (e.g., by welcoming newcomers, giving credit, connecting members with people or resources)
 *   [Ask or answer questions](#channels) in the forum or on [Slack](#channels-slack)
-*   [Join a coworking session](#coworking) and interact with others and get work done.
+*   [Join a coworking session](#coworking) to interact with others and get work done.
 
 Meet and work with other users and developers of open science packages
 

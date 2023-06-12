@@ -1,5 +1,11 @@
 # NEWS 
 
+## 0.2.1
+
+* Removed Twitter channel references
+* Added Mastodon
+* Clarified coworking
+
 ## 0.2.0
 
 * Added NEWS chapter to appendix (#35)

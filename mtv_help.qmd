@@ -24,8 +24,8 @@ Support rOpenSci or give back to open source
     Explore open issues in rOpenSci packages and consider submitting a fix. 
 *   [Contribute to the R-universe discussion](#runiverse)
 *   [Report a bug in the R-universe](#runiverse)
-*   [Engage with us on Twitter](#channels). Amplify best practices from our social media to your networks. 
-    Reply to or quote a tweet to share your experience or expertise on a topic
+*   [Engage with us on Mastodon](#channels). Amplify best practices from our social media to your networks. 
+    Reply to a post to share your experience or expertise on a topic
 *   [Weigh in on tough technical issues on software review threads](#devguide)
 *   [Donate](https://ropensci.org/donate/) to rOpenSci
 
