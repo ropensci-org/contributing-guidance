@@ -20,7 +20,7 @@ library(tibble)
 library(kableExtra)
 tribble(~Channel, ~Purpose,
         "Website <https://ropensci.org/> <https://github.com/ropensci/roweb3>", "Home of rOpenSci",
-        "[Newsletter](https://news.ropensci.org/)", "A digest of R package news, use cases, blog posts, events, curated every two weeks. [Subscribe](https://news.ropensci.org/) via RSS (XML), JSON feed, or email.",
+        "[Newsletter](https://ropensci.org/news/)", "A digest of R package news, use cases, blog posts, events, curated every two weeks. [Subscribe](https://ropensci.org/news/) via RSS (XML), JSON feed, or email.",
         "[Videos](https://vimeo.com/ropensci)", "Videos from past Community Calls on Vimeo",
         "[Mastodon](https://hachyderm.io/@rOpenSci)", "Posts about rOpenSci software, use cases, blog posts, tech notes, events",
         "Video conferencing", "Community Calls and remote co-working sessions on Zoom",
