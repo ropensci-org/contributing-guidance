@@ -87,5 +87,5 @@ and in the core curriculum of a Master of Data Science program: [Using rOpenSci 
 *   Add a CITATION file to **ensure your package is easily citable**
 *   **Request a co-maintainer for your package**. Post a request in the  #package-maintenance [Slack channel](#channels-Slack).
 *   **Volunteer to maintain a package**. 
-    Check out the [rOpenSci Newsletter](https://news.ropensci.org/), 
+    Check out the [rOpenSci Newsletter](https://ropensci.org/news/), 
     the last section is a "Call For Maintainers" and consists of a list of packages specifically looking for maintainers.
