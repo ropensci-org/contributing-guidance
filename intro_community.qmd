@@ -15,7 +15,7 @@ Community members are people who use, cite and share use cases for rOpenSci pack
 attend or present in our Community Calls, write a post for our blog, 
 participated in an rOpenSci unconf, or in our research domain focused communities like rOpenSci-Antarctic and Southern Ocean Research, 
 answer questions in our fora, actively participate in the life of an rOpenSci project reporting problems and recommending or implementing solutions, 
-contribute to, or maintain a package, or participate in rOpenSci peer review as a reviewer, 
+contribute to, or maintain a package, being champions, menor or trainer for our Champions Program, localize our material, or participate in rOpenSci peer review as a reviewer, 
 author or editor.
 
 Having a diverse community is important to us. 
