@@ -146,6 +146,8 @@ Get to know some of the **more experienced folks in our community** by reading t
 [Julia Silge](https://ropensci.org/blog/2018/06/08/rprofile-julia-silge/), and 
 [David Smith](https://ropensci.org/blog/2017/10/13/rprofile-david-smith/).
 
+You can also have a look at some of the teams and people behind the development of software and packages many of us use and which are available through the R-Universe by reading the [The Stars of the R-Universe series of post](https://ropensci.org/tags/r-universe-stars/).
+
 Over [150 people have reviewed](https://devguide.ropensci.org/softwarereviewintro.html#editors-and-reviewers) 135 packages from **803 authors!**
 
 More than 90 people have presented in our Community Calls attended by more than 900 people in more than 50 countries. 
