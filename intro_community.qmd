@@ -148,7 +148,7 @@ Get to know some of the **more experienced folks in our community** by reading t
 
 Over [150 people have reviewed](https://devguide.ropensci.org/softwarereviewintro.html#editors-and-reviewers) 135 packages from **803 authors!**
 
-More than 35 people have presented in our Community Calls attended by people in more than 25 countries. 
+More than 90 people have presented in our Community Calls attended by more than 900 people in more than 50 countries. 
 
 You can get to know some community members by reading the blog posts and tech notes they've written about their packages, their reviewer experiences, the Community Calls they've presented in, or their career paths in R. We have an [authors page](https://ropensci.org/author/) on our website that allows you to find these people by name. The authors page does not yet include rOpenSci package authors.
 
