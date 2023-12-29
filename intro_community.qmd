@@ -23,7 +23,7 @@ We welcome anyone dedicated to making their science more open and supporting oth
 no matter their technical expertise, career stage, or work sector.
 Further, we welcome people of all backgrounds, including but not limited to any sexuality, 
 gender identity, and race. We are anti-racist. 
-We recognize that communities are not inclusive by default, particularly as they grow: they require deliberate attention. 
+We recognize that communities are not inclusive by default, particularly as they grow: they require deliberate attention. We are carrying out a Champions Program and a Localization project to ensure our research software serves everyone in our communities. 
 We are all supported by rOpenSci's Community Manager and a [Code of Conduct](#conduct) that has clear guidelines for behavior and reporting, and is enforced by a committee including rOpenSci staff and an independent community member.
 
 
