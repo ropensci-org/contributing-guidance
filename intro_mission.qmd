@@ -8,8 +8,8 @@ rOpenSci fosters a culture that values **open and reproducible research** using 
 We do this by:
 
 
-- Creating technical **infrastructure** in the form of carefully vetted, staff- and community-contributed R software tools that lower barriers to working with scientific data sources on the web, and the r-universe to enhance the publication and discovery of research software in R.
-- Creating social infrastructure through a welcoming and diverse **community**, enhanced by mentoring and a localization efforts for broader inclusivity and accessibility.  
+- Creating technical **infrastructure** in the form of carefully vetted, staff- and community-contributed R software tools that lower barriers to working with scientific data sources on the web, and the R-universe to enhance the publication and discovery of research software in R.
+- Creating social infrastructure through a welcoming and diverse **community**, enhanced by mentoring and localization efforts for broader inclusivity and accessibility.  
 - Making the right data, tools and best practices more **discoverable**
 - Building **capacity** of software users and developers and fostering a sense of pride in their work
 - Promoting **advocacy** for a culture of data sharing and reusable software
