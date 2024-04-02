@@ -16,7 +16,7 @@ What are some benefits of contributing?
 *   Feel confident and supported in your efforts to write code and develop software
 *   Gain visibility for your open source work
 *   Improve the software you use or build
-*   Level up your R and other technical tools skills and help others level up theirs
+*   Level up your R and other technical skills and help others level up theirs
 *   Level up your writing skills
 *   Level up your mentoring skills 
 *   Get more exposure for your package and for your research
