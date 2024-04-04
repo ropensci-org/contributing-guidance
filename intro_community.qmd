@@ -15,7 +15,7 @@ Community members are people who use, cite and share use cases for rOpenSci pack
 attend or present in our Community Calls, write a post for our blog, 
 participated in an rOpenSci unconf, or in our research domain focused communities like rOpenSci-Antarctic and Southern Ocean Research, 
 answer questions in our fora, actively participate in the life of an rOpenSci project reporting problems and recommending or implementing solutions, 
-contribute to, or maintain a package, or participate in rOpenSci peer review as a reviewer, 
+contribute to, or maintain a package, are Champions, mentors or trainers in our Champions Program, localize our material, or participate in rOpenSci peer review as a reviewer, 
 author or editor.
 
 Having a diverse community is important to us. 
@@ -23,7 +23,7 @@ We welcome anyone dedicated to making their science more open and supporting oth
 no matter their technical expertise, career stage, or work sector.
 Further, we welcome people of all backgrounds, including but not limited to any sexuality, 
 gender identity, and race. We are anti-racist. 
-We recognize that communities are not inclusive by default, particularly as they grow: they require deliberate attention. 
+We recognize that communities are not inclusive by default, particularly as they grow: they require deliberate attention. We are carrying out a Champions Program and Localization projects to ensure our research software serves everyone in our communities. 
 We are all supported by rOpenSci's Community Manager and a [Code of Conduct](#conduct) that has clear guidelines for behavior and reporting, and is enforced by a committee including rOpenSci staff and an independent community member.
 
 
@@ -146,9 +146,11 @@ Get to know some of the **more experienced folks in our community** by reading t
 [Julia Silge](https://ropensci.org/blog/2018/06/08/rprofile-julia-silge/), and 
 [David Smith](https://ropensci.org/blog/2017/10/13/rprofile-david-smith/).
 
+You can also have a look at some of the teams and people behind the development of software and packages many of us use and which are available through the R-Universe by reading the [The Stars of the R-Universe series of post](https://ropensci.org/tags/r-universe-stars/).
+
 Over [150 people have reviewed](https://devguide.ropensci.org/softwarereviewintro.html#editors-and-reviewers) 135 packages from **803 authors!**
 
-More than 35 people have presented in our Community Calls attended by people in more than 25 countries. 
+More than 90 people have presented in our Community Calls attended by more than 900 people in more than 50 countries. 
 
 You can get to know some community members by reading the blog posts and tech notes they've written about their packages, their reviewer experiences, the Community Calls they've presented in, or their career paths in R. We have an [authors page](https://ropensci.org/author/) on our website that allows you to find these people by name. The authors page does not yet include rOpenSci package authors.
 
