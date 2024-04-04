@@ -6,7 +6,7 @@ The **purpose of this guide** is to welcome you to rOpenSci and help you recogni
 
 rOpenSci creates technical and community infrastructure for open and reproducible research that lowers barriers to working with scientific data in R. Our staff and community actively foster a welcoming environment where users and developers from different backgrounds and skill levels learn, share ideas and innovate together openly through shared norms and software. Participation in all rOpenSci activities is supported by our [Code of Conduct](#conduct).
 
-We welcome code and non-code contributions from new and seasoned coders at any career stage, and in any sector. You don't have to be a developer! Maybe you want to **spend 30 minutes** sharing your package use case in our public forum or reporting a bug, **one hour** learning by attending a Community Call, **five hours** reviewing an R package submitted for open peer review, **or maybe you want to make an ongoing commitment** to help maintain a package.
+We welcome contributions from individuals of all skill levels and backgrounds, whether they involve code, technical writing, mentoring, localization or other type of contributions. Whether you're a seasoned coder or new to the field, your input is valued. You don't need to identify as a developer for making meaningful contributions! Maybe you want to **spend 30 minutes** sharing your package use case in our public forum or reporting a bug, **one hour** learning by attending a Community Call, **five hours** reviewing an R package submitted for open peer review, **or maybe you want to make an ongoing commitment** to help maintain a package.
 
 What are some benefits of contributing?
 
@@ -16,9 +16,11 @@ What are some benefits of contributing?
 *   Feel confident and supported in your efforts to write code and develop software
 *   Gain visibility for your open source work
 *   Improve the software you use or build
-*   Level up your R skills and help others level up theirs
+*   Level up your R and other technical skills and help others level up theirs
 *   Level up your writing skills
-*   Get more exposure for your package
+*   Level up your mentoring skills 
+*   Get more exposure for your package and for your research
+
 
 Read [rOpenSci & Our Community](#intro) to learn about our mission, what it means to be part of our community, and to meet some [Humans of rOpenSci](#humans).
 
@@ -28,7 +30,7 @@ Or jump directly into rOpenSci [Resources](#resources) to find descriptions and 
 
 ---
 
-_A huge thank you to everyone who has contributed to this guide so far! [Toby Hodges](https://github.com/tobyhodges), [Julia Stewart Lowndes](https://github.com/jules32), [Scott Chamberlain](https://github.com/sckott), [Jeroen Ooms](https://github.com/jeroen), [Karthik Ram](https://github.com/karthik), [Noam Ross](https://github.com/noamross), [Maëlle Salmon](https://github.com/maelle) (alphabetical order with community members followed by staff). Please tell us if we forgot to acknowledge your contribution._
+_A huge thank you to everyone who has contributed to this guide so far! [Toby Hodges](https://github.com/tobyhodges), [Julia Stewart Lowndes](https://github.com/jules32), [Scott Chamberlain](https://github.com/sckott), [Jeroen Ooms](https://github.com/jeroen), [Karthik Ram](https://github.com/karthik), [Noam Ross](https://github.com/noamross), [Maëlle Salmon](https://github.com/maelle), [Yanina Bellini Saibene](https://github.com/yabellini)) (alphabetical order with community members followed by staff). Please tell us if we forgot to acknowledge your contribution._
 
 _Cover illustration by [Lydia Hill](https://www.lydiakahill.com/)._
 
