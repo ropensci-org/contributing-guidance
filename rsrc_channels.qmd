@@ -6,7 +6,7 @@ We carry out our work using multiple channels for one-way and multi-way communic
 
 **GitHub** is the platform we use to host our software and documentation projects using Git version control. 
 Our **newsletter**, delivered every two weeks, is the ideal way to stay informed without being overwhelmed by communication channels. 
-We use our public **discussion forum**, **Mastodon**, and **Slack**, 
+We use **Mastodon**, and **Slack**, 
 each for specific modes of making announcements, promoting contributions from community members, 
 asking and answering questions about rOpenSci packages and recommended best practices,
 knowledge-sharing and exploration of ideas, 
@@ -27,7 +27,6 @@ tribble(~Channel, ~Purpose,
         "[GitHub - ropensci](https://github.com/ropensci)", "Mature R packages contributed by rOpenSci staff or community-contributed peer-reviewed packages; software peer review system; rOpenSci website",
         "[GitHub - ropenscilabs](https://github.com/ropenscilabs)", "Experimental packages and code experiments from staff, collaborators, and participants of unconfs and related events",
         "[GitHub - ropensci-org](https://github.com/ropensci-org)", "Non-code repositories like this guide, the blog guide, ideas for Community Calls",
-        "[Discussion forum](https://discuss.ropensci.org/)", "Public forum on Discourse for use cases, Q & A about rOpenSci packages, exploration of ideas and best practices",
         "Slack", "A semi-open space for communications among people who contribute to rOpenSci",
         "Email: info at ropensci dot org", "To reach rOpenSci staff when other modes are not suitable") %>%
   kable(format = "markdown")
@@ -46,23 +45,6 @@ If you'd like some general information on the language and workflow of GitHub,
 see [Collaborating with issues and pull requests](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests). 
 To learn about Markdown formatting for interacting with others in issues and pull requests see [Getting started with writing and formatting on GitHub](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github). 
 For guidance on connecting R to GitHub we recommend Happy Git and GitHub for the useR - [https://happygitwithr.com/](https://happygitwithr.com/). 
-
-
-<div id="channels-forum"></div>
-
-**Public discussion forum**
-
-[The forum](https://discuss.ropensci.org/) is where we encourage people to have Q & A on a wide range of topics. 
-It is organized in categories including [**Use Cases**](#usecases) where people post examples of how they've used rOpenSci packages, 
-[**Blog**](#blog) where an entry is made every time a new post or tech note appears on our blog, [**Statistical Software Peer Review**](#statsreview) for discussion related to developing a software peer review system for statistical software in R, 
-**Wishlist** for discussions about requested new R packages, 
-**Antarctic** for discussions about R in Antarctic and Southern Ocean science, and others! 
-It includes posts like "How do you hire data people in a fair and unbiased way?" in the Community category, to specific help requests about our packages like "Taxize: Get rank of lowest common taxon". 
-
-The benefit of posting to our forum, rather than our semi-open Slack space or by email, 
-is that it is open for others to benefit, searchable within the forum, 
-and discoverable by browser-based searches.
-Posting in the forum requires login and we encourage people to use their real names. 
 
 <div id="channels-slack"></div>
 
@@ -120,6 +102,5 @@ and an rOpenSci Community Call - [How to Ask Questions so they get Answered! Pos
 *   Read our [Code of Conduct](https://ropensci.org/code-of-conduct/) to ensure you are ready to participate
 *   **Follow [rOpenSci on Mastodon](https://hachyderm.io/@rOpenSci)**
 *   **Subscribe to our [Newsletter](https://ropensci.org/news/)**
-*   **Ask or answer questions**. Participate in discussions in the [forum](https://discuss.ropensci.org/), on GitHub or on Slack
+*   **Ask or answer questions**. Participate in discussions on GitHub or on Slack
 *   **Try a 2-hour [remote co-working session](https://www.cscce.org/2020/02/04/online-co-working-partnerships-are-community-of-practice-in-action/)** with someone in our Slack #co-working channel
-*   **Seek community feedback on your package ideas in the "Packages" category in our [forum](https://discuss.ropensci.org/c/packages)**
