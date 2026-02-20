@@ -16,7 +16,7 @@ tweets about fires, and others!
 Some use cases outline examples of how resources like our [guide on package development, review and maintenance](#devguide) have been used independently of rOpenSci
 Read more in our blog post, [What are Your Use Cases for rOpenSci Tools and Resources?](https://ropensci.org/blog/2019/10/15/use-cases/)
 
-You can **search or sort by package, title or date** on the rOpenSci Use Cases page. 
+You can **search or sort by package, title or date** on the [rOpenSci Use Cases page](https://ropensci.org/usecases). 
 
 We love it when people share their use cases
 For so many reasons.
