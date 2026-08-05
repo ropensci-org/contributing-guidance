@@ -4,7 +4,7 @@ project:
 book:
   title: "rOpenSci Community Contributing Guide"
   description: "A guide to help people find ways to contribute to rOpenSci"
-  author: "Stefanie Butland & Steffi LaZerte"
+  author: "Stefanie Butland, Steffi LaZerte, and Yanina Bellini Saibene"
   favicon: "favicon/favicon.ico"
   cover-image: images/contrib_guide_cover.png
   cover-image-alt: |
