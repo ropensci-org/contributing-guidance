@@ -1,4 +1,4 @@
-## Social Coworking and Office Hours {#coworking}
+## Coworking {#coworking}
 
 Joining a [social coworking and office hours session](https://ropensci.org/blog/2021/08/17/coworking-sessions/) is a great way to interact with other community members as well as to get work done or
 ask questions. 
@@ -13,7 +13,6 @@ There, you can work, chat with others, or ask questions.
 Each room has a host, either rOpenSci staff or a Community Host, eager to answer
 questions about the theme of the month or other projects they're working on. 
 
-**Coworking**: 
 
 ### How to contribute? 
 

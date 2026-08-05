@@ -1,4 +1,4 @@
-# # Projects & Resources {#resources}
+# Projects & Resources {#resources}
 
 Each section of this chapter describes and links to a specific rOpenSci resource with a "How to contribute" list of actions you could take. 
 

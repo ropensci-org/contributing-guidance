@@ -1,6 +1,5 @@
 # What brings you here? {#motivations}
 
-
 Contributors to rOpenSci come with a wide range of motivations, 
 which can include wanting a tangible way to participate in open science. 
 First-time contributions may come from people in different places on a continuum of experience: 

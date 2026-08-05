@@ -1,4 +1,4 @@
-## Help {#help}
+# Help {#help}
 
 One major motivation for contributing to rOpenSci is people's desire to 
 "give back" in appreciation of good software, good infrastructure, 
