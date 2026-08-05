@@ -31,10 +31,7 @@ book:
   - intro.qmd
   - motivations.qmd
   - resources.qmd
-  - appendix.qmd
-
-  - part: Appendix
-    chapters:
+  appendices:
     - bibliography.qmd
     - news.qmd
 
