@@ -3,6 +3,9 @@
 # This guide is setup as an R package to control required dependencies and provide 
 # functions used in it's creation (i.e. `citation()`).
 
+# Review Book Structure and Design
+file.edit("DESIGN.md")
+file.edit("ACTIONS.md")
 
 # Local Preview ---------------------------------------------------------------
 
