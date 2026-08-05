@@ -1,0 +1,3 @@
+## Documentation {#pkg-docs}
+
+- TODO: MOVE SOME CONTENT FROM `3_proj_packages.qmd` HERE

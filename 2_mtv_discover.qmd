@@ -1,4 +1,4 @@
-## Discover {#discover}
+# Discover {#discover}
 
 Making data, tools, and best practices more discoverable is part of [our mission](#mission). 
 For many, using an rOpenSci package is their first encounter with our organization. 

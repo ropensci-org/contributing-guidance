@@ -1,0 +1,13 @@
+# Software Peer Review {#peer-review}
+
+- TODO: ADD INTRO CONTENT
+
+<!-- Add Dev Guide -->
+```{r, child="3_proj_review_standard.qmd"}
+#| echo: false
+```
+
+<!-- Add Stats Dev Guide -->
+```{r, child="3_proj_review_stats.qmd"}
+#| echo: false
+```

@@ -1,4 +1,4 @@
-## Build {#build}
+# Build {#build}
 
 Perhaps the roles people associate most with contributing to rOpenSci involve building and influencing the research software landscape in R. 
 This includes things like having a stake in package development and documentation, 

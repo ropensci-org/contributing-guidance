@@ -1,4 +1,4 @@
-## Connect {#connect}
+# Connect {#connect}
 
 An implicit value in participating in rOpenSci is the connections people make with other scientists, 
 R users, developers, or research software engineers who want to do their research in a more open and reproducible fashion. 
