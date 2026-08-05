@@ -22,14 +22,35 @@ book:
     creator: "@rOpenSci"
     image: images/contrib_guide_cover.png
     image-alt: "Contributing guide cover featuring hexagonal panels each with a different person doing something different: lab work, computer work, field work, waving, hanging out with a dog/cat."
-    
-
   chapters:
-  - index.qmd
-  - welcome.qmd
-  - intro.qmd
-  - motivations.qmd
-  - resources.qmd
+    - index.qmd     
+    - part: 1-intro.qmd       # rOpenSci and community
+      chapters: 
+        - 1-intro_mission.qmd
+        - 1-intro_community.qmd
+    - part: 2-motivations.qmd # What brings you here? I want to …
+      chapters:
+        - 2-mtv_discover.qmd
+        - 2-mtv_connect.qmd
+        - 2-mtv_learn.qmd
+        - 2-mtv_build.qmd
+        - 2-mtv_help.qmd
+    - part: 3-projects.qmd    # Projects
+      chapters:
+        - 3-proj_conduct.qmd
+        - 3-proj_channels.qmd
+        - 3-proj_commcalls.qmd
+        - 3-proj_coworking.qmd
+        - 3-proj_blog.qmd
+        - 3-proj_blogguide.qmd
+        - 3-proj_packages.qmd
+        - 3-proj_taskviews.qmd
+        - 3-proj_usecases.qmd
+        - 3-proj_issues.qmd
+        - 3-proj_devguide.qmd
+        - 3-proj_runiverse.qmd
+        - 3-proj_statsreview.qmd
+        - 3-proj_contributing.qmd
   appendices:
     - bibliography.qmd
     - news.qmd

@@ -1,4 +1,4 @@
-# What brings you here? I want to ... {#motivations}
+# What brings you here? {#motivations}
 
 
 Contributors to rOpenSci come with a wide range of motivations, 
@@ -30,21 +30,3 @@ Do you already know what value you want to get out of contributing?
 For each category, **we list examples of what those contributions might look like and we link to our [resources](#resources)** to help you get started. 
 
 Choose your path. It's the journey, not the destination.
-
-
-
-```{r child="mtv_discover.qmd", echo=FALSE}
-```
-
-```{r child="mtv_connect.qmd", echo=FALSE}
-```
-
-```{r child="mtv_learn.qmd", echo=FALSE}
-```
-
-```{r child="mtv_build.qmd", echo=FALSE}
-```
-
-```{r child="mtv_help.qmd", echo=FALSE}
-```
-
