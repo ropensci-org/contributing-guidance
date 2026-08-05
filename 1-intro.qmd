@@ -1,3 +1,9 @@
 # rOpenSci {#intro}
 
 ADD SOME TEXT?
+
+<!-- Add Code of Conduct -->
+```{r, child="coc.qmd"}
+#| echo: false
+```
+

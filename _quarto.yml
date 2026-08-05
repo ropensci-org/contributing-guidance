@@ -38,7 +38,6 @@ book:
         - 2-mtv_help.qmd
     - part: 3-projects.qmd    # Projects
       chapters:
-        - 3-proj_conduct.qmd
         - 3-proj_channels.qmd
         - 3-proj_commcalls.qmd
         - 3-proj_coworking.qmd
@@ -53,6 +52,7 @@ book:
         - 3-proj_statsreview.qmd
         - 3-proj_contributing.qmd
   appendices:
+    - coc.qmd
     - bibliography.qmd
     - news.qmd
 
