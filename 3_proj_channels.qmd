@@ -30,7 +30,7 @@ tribble(
   "[GitHub - ropensci-org](https://github.com/ropensci-org)"             , "Non-code repositories like this guide, the blog guide, ideas for Community Calls"                                                                                ,
   "Slack"                                                                , "A semi-open space for communications among people who contribute to rOpenSci"                                                                                    ,
   "Email: info at ropensci dot org"                                      , "To reach rOpenSci staff when other modes are not suitable"
-) %>%
+) |>
   kable(format = "markdown")
 ```
 

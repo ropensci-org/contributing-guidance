@@ -9,17 +9,17 @@ check_links <- function() {
     stop(glue::glue("The file {df$rmds[df$error_read]} could not be read."))
   }
 
-  df_check <- df %>%
+  df_check <- df |>
     dplyr::mutate(
       urls = purrr::map(
         text,
         ~ stringr::str_extract_all(., "http[s]*\\:[^ \\)\\]\"\\>]*")
       ),
       urls = purrr::map(urls, unlist)
-    ) %>%
-    tidyr::unnest(urls) %>%
-    dplyr::select(qmds, urls) %>%
-    dplyr::distinct() %>%
+    ) |>
+    tidyr::unnest(urls) |>
+    dplyr::select(qmds, urls) |>
+    dplyr::distinct() |>
     dplyr::mutate(ok = purrr::map_lgl(urls, crul::ok, verb = "get"))
 
   dplyr::filter(df_check, !ok)
