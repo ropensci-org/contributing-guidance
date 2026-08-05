@@ -100,7 +100,7 @@ This guide is an evolving document and we want people to tell us what's missing 
 
 `r contributingguidance::citation()`
 
-<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/us/88x31.png" /></a><br />
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />
 This work is licensed under [a Creative Commons
-Attribution-NonCommercial-ShareAlike 3.0 United States
-License](https://creativecommons.org/licenses/by-nc-sa/3.0/us/).
+Attribution-NonCommercial-ShareAlike 4.0 United States
+License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
