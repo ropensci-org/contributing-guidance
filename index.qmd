@@ -81,6 +81,14 @@ contribution.*
 *This work was supported in part by a [NumFOCUS Small Development
 Grant](https://numfocus.org/programs/sustainability) to rOpenSci.*
 
+### Contributing to this guide
+
+This guide is an evolving document and we want people to tell us what's missing or what's not clear. 
+
+*   To contribute small changes (e.g., typo fixes), [open a pull request](https://github.com/ropensci-org/contributing-guidance/pulls).
+*   To make a clarification or tell us what's missing, [open an issue](https://github.com/ropensci-org/contributing-guidance/issues) to discuss your idea.
+*   To contribute something that isn't addressed in the guide, [open an issue](https://github.com/ropensci-org/contributing-guidance/issues) and/or tag our Community Manager, or ping them on [Slack](3_proj_channels.qmd#channels-slack) or via our [contact form](https://ropensci.org/contact/) to discuss your idea. 
+
 <!-- Add Code of Conduct -->
 ```{r, child="coc.qmd"}
 #| echo: false
