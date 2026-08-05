@@ -81,6 +81,11 @@ contribution.*
 *This work was supported in part by a [NumFOCUS Small Development
 Grant](https://numfocus.org/programs/sustainability) to rOpenSci.*
 
+<!-- Add Code of Conduct -->
+```{r, child="coc.qmd"}
+#| echo: false
+```
+
 ### Licence & Citation
 
 [![](https://zenodo.org/badge/DOI/10.5281/zenodo.4000531.svg){fig-alt="DOI"}](https://doi.org/10.5281/zenodo.4000531)
