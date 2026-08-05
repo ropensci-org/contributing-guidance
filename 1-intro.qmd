@@ -1,7 +1,3 @@
-# rOpenSci & Our Community {#intro}
+# rOpenSci {#intro}
 
-```{r child="intro_mission.qmd", echo=FALSE}
-```
-
-```{r child="intro_community.qmd", echo=FALSE}
-```
+ADD SOME TEXT?
