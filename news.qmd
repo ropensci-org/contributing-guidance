@@ -1,27 +1,47 @@
-# NEWS 
+# NEWS
+
+## 0.3.0
+
+### Reorganization
+
+- Restructure format of book to use parts
+- Simplify part headings
+- Combine Welcome and Preface
+- ...
+
+### New
+
+- Add ...
+
+### Minor
+
+- Update Zenodo links
+- Update Quarto version
+- ...
 
 ## 0.2.1
 
-* Removed Twitter channel references
-* Added Mastodon
-* Clarified coworking
-* Update links to Newsletter
+- Removed Twitter channel references
+- Added Mastodon
+- Clarified coworking
+- Update links to Newsletter
 
 ## 0.2.0
 
-* Added NEWS chapter to appendix (#35)
-* Update title on Zenodo (#45)
-* Fix back-button issues (#44)
-* Add cover and illustrator acknowledgement (#43)
-* Update screenshots to match new rOpenSci website (#39)
-* Update peer-review editor (#38)
-* Fix Twitter link (#28)
-* Minor text re-wording (e.g., #34)
-* Switched to BS4 bookdown template
-* Added new resources: Help Wanted Page, Use Cases Page, R-universe, Social Co-working
-* Tweaked content
-* Updated staff and community manager information
+- Added NEWS chapter to appendix (#35)
+- Update title on Zenodo (#45)
+- Fix back-button issues (#44)
+- Add cover and illustrator acknowledgement (#43)
+- Update screenshots to match new rOpenSci website (#39)
+- Update peer-review editor (#38)
+- Fix Twitter link (#28)
+- Minor text re-wording (e.g., #34)
+- Switched to BS4 bookdown template
+- Added new resources: Help Wanted Page, Use Cases Page, R-universe, Social
+  Co-working
+- Tweaked content
+- Updated staff and community manager information
 
 ## 0.1.0 (2020-08-25)
 
-* Initial release 🎉
+- Initial release 🎉

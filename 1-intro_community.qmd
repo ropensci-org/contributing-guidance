@@ -124,6 +124,7 @@ and [Anna Krystalli and Lincoln Mullen](https://ropensci.org/blog/2018/06/22/new
 We occasionally recruit [guest editors](https://devguide.ropensci.org/softwarereviewintro.html#editors-and-reviewers) for some package reviews.
 
 ```{r}
+#| include: false
 pic <- webshot2::webshot(
   "https://ropensci.org/about/", 
   expand = 5,
