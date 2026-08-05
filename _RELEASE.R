@@ -32,6 +32,10 @@ file.edit("news.qmd")
 # - Update README.md
 devtools::build_readme()
 
+# - Check links (adapted from roblog::ro_check_urls)
+check_links()
+
+
 # - Build Package, Book & preview
 devtools::install(quick = TRUE) # Or Ctrl-Shift-B
 quarto::quarto_render()         # Also can be run in terminal as `quarto render`
