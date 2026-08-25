@@ -1,8 +1,4 @@
 # rOpenSci {#intro}
 
 - TODO: ADD INTRO TEXT
-
-<!-- Add Code of Conduct -->
-```{r, child="coc.qmd"}
-#| echo: false
-```
+- TODO: DO we need code of conduct here in addition to 'Welcome!' page?

@@ -46,7 +46,6 @@ book:
         - 3_proj_packages.qmd
         - 3_proj_runiverse.qmd
   appendices:
-    - coc.qmd
     - bibliography.qmd
     - news.qmd
 
