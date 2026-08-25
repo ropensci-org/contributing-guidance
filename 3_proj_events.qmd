@@ -1,18 +1,18 @@
-# Social Events {#social}
+# Events {#events}
 
 - TODO: ADD INTRO TEXT
 
 <!-- Add Community Calls -->
-```{r, child="3_proj_soc_commcalls.qmd"}
+```{r, child="3_proj_events_commcalls.qmd"}
 #| echo: false
 ```
 
 <!-- Add Coworking -->
-```{r, child="3_proj_soc_coworking.qmd"}
+```{r, child="3_proj_events_coworking.qmd"}
 #| echo: false
 ```
 
 <!-- Add Translathons & Hackathons -->
-```{r, child="3_proj_soc_athons.qmd"}
+```{r, child="3_proj_events_athons.qmd"}
 #| echo: false
 ```
