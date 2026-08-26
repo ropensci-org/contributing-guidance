@@ -2,8 +2,8 @@
 
 Our [Community Calls](https://ropensci.org/commcalls/) are an ideal way to get
 familiar with rOpenSci. They give you a feeling for how we blend rigorous
-expertise and recommendations with a friendly and safe way for all participants -
-presenters and attendees - to stretch themselves. They're free and open for
+expertise and recommendations with a friendly and safe way for all participants
+- presenters and attendees - to stretch themselves. They're free and open for
 anyone to attend, and provide an opportunity to connect with rOpenSci community
 members around the world. Our session on [Maintaining an R
 package](https://ropensci.org/commcalls/2020-03-18/) had 90 participants from 18
