@@ -1,0 +1,22 @@
+# Blog {#blog}
+
+The rOpenSci blog contains both long form [blog
+posts](https://ropensci.org/blog/) and shorter [tech
+notes](https://ropensci.org/technotes). It's a large, rich resource for learning
+about the R packages developed by staff and by community members and how people
+use them, the people and processes involved in our open software peer review
+system, and the value people get from being part of our community. We've
+published more than 500 posts since 2012 with more than half written by
+community members. The long form blog posts are for a broad readership, and the
+shorter tech notes include information on a software release with major new
+features, breaking changes, or significant new documentation for example.
+
+<!-- Add Blog posts -->
+```{r, child="3_proj_blog_posts.qmd"}
+#| echo: false
+```
+
+<!-- Add Blog guide -->
+```{r, child="3_proj_blog_guide.qmd"}
+#| echo: false
+```

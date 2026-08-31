@@ -1,0 +1,9 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4000531.svg)](https://doi.org/10.5281/zenodo.4000531)
+
+rOpenSci Community Contributing Guide https://contributing.ropensci.org/
+
+**Citation**
+
+```{r}
+contributingguidance::citation()
+```

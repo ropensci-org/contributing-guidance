@@ -1,0 +1,19 @@
+![](images/runiverse.png){style="float:right;width: 40%" fig-alt="R-Universe logo grey background with white text 'rOpenSci R-universe'. The O in 'Open' is a ringed planet with moons"}
+
+# R-Universe {#r-universe}
+
+- TODO: UPDATE AND DIVIDE AMONT SUB-HEADINGS
+
+rOpenSci's [R-universe](https://ropensci.org/r-universe/) is a new platform
+which launched in 2021 with the aim of improving publication and discovery of R
+research software.
+
+<!-- Add services -->
+```{r, child="3_proj_ru_services.qmd"}
+#| echo: false
+```
+
+<!-- Add docs -->
+```{r, child="3_proj_ru_docs.qmd"}
+#| echo: false
+```
