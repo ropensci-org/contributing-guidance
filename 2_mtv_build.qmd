@@ -36,7 +36,6 @@ Influence package development
 - [Volunteer to review a package](#devguide)
 - [Report a bug](#packages) in an rOpenSci package
 - [Make a feature request](#packages)
-- [Add a package idea to the Wishlist](#channels-forum) in the rOpenSci forums
 - [Address an issue](#issues). Explore open issues in rOpenSci packages and
   consider submitting a fix.
 - [Make a pull request](#packages) to fix a bug or add a feature
@@ -53,10 +52,10 @@ Improve package documentation and examples
 
 Promote best practices for R development
 
-- [Engage with us on Mastodon](#channels). Amplify best practices from our
+- [Engage with us on social media](#channels). Amplify best practices from our
   social media to your networks
-- [Ask or answer questions](#channels) in the the "Best Practices" category in
-  our forum or on [Slack](#channels-slack)
+- [Ask or answer questions](#channels-slack) in the #package-maintenance channel
+  on Slack
 - **Write a blog post or tech note** about the development of your rOpenSci
   package or your implementation of best practices (see both the [Blog](#blog)
   and the [Blog Guide](#blogguide))

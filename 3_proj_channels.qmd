@@ -5,14 +5,14 @@ timezones. We carry out our work using multiple channels for one-way and
 multi-way communications that involve different levels of commitment.
 
 **GitHub** is the platform we use to host our software and documentation
-projects using Git version control. Our **newsletter**, delivered every two
-weeks, is the ideal way to stay informed without being overwhelmed by
-communication channels. We use our public **discussion forum**, **Mastodon**,
-and **Slack**, each for specific modes of making announcements, promoting
-contributions from community members, asking and answering questions about
-rOpenSci packages and recommended best practices, knowledge-sharing and
-exploration of ideas, as well as more passive learning by "listening" to
-community wisdom.
+projects using Git version control. Our **newsletter**, delivered once a month,
+is the ideal way to stay informed without being overwhelmed by communication
+channels. We use our social media accounts (**Mastodon**, **Bluesky**, and
+**LinkedIn**), and our semi-open **Slack**, each for specific modes of making
+announcements, promoting contributions from community members, asking and
+answering questions about rOpenSci packages and recommended best practices,
+knowledge-sharing and exploration of ideas, as well as more passive learning by
+"listening" to community wisdom.
 
 The following table lists every communication channel and its purpose. Below
 that we describe how we use a few specific channels and provide some advice on
@@ -26,16 +26,18 @@ more general forum.
 library(tibble)
 library(kableExtra)
 tribble(
-  ~Channel                                                               , ~Purpose                                                                                                                                                          ,
-  "Website <https://ropensci.org/> <https://github.com/ropensci/roweb3>" , "Home of rOpenSci"                                                                                                                                                ,
-  "[Newsletter](https://ropensci.org/news/)"                             , "A digest of R package news, use cases, blog posts, events, curated every two weeks. [Subscribe](https://ropensci.org/news/) via RSS (XML), JSON feed, or email." ,
-  "[Videos](https://vimeo.com/ropensci)"                                 , "Videos from past Community Calls on Vimeo"                                                                                                                       ,
-  "[Mastodon](https://hachyderm.io/@rOpenSci)"                           , "Posts about rOpenSci software, use cases, blog posts, tech notes, events"                                                                                        ,
-  "Video conferencing"                                                   , "Community Calls and remote co-working sessions on Zoom"                                                                                                          ,
-  "[GitHub - ropensci](https://github.com/ropensci)"                     , "Mature R packages contributed by rOpenSci staff or community-contributed peer-reviewed packages; software peer review system; rOpenSci website"                  ,
-  "[GitHub - ropenscilabs](https://github.com/ropenscilabs)"             , "Experimental packages and code experiments from staff, collaborators, and participants of unconfs and related events"                                            ,
-  "[GitHub - ropensci-org](https://github.com/ropensci-org)"             , "Non-code repositories like this guide, the blog guide, ideas for Community Calls"                                                                                ,
-  "Slack"                                                                , "A semi-open space for communications among people who contribute to rOpenSci"                                                                                    ,
+  ~Channel                                                               , ~Purpose                                                                                                                                                      ,
+  "Website <https://ropensci.org/> <https://github.com/ropensci/roweb3>" , "Home of rOpenSci"                                                                                                                                            ,
+  "[Newsletter](https://ropensci.org/news/)"                             , "A digest of R package news, use cases, blog posts, events, curated every month. [Subscribe](https://ropensci.org/news/) via RSS (XML), JSON feed, or email." ,
+  "[Videos](https://vimeo.com/ropensci)"                                 , "Videos from past Community Calls on Vimeo"                                                                                                                   ,
+  "[Mastodon](https://hachyderm.io/@rOpenSci)"                           , "Posts about rOpenSci software, use cases, blog posts, tech notes, events"                                                                                    ,
+  "[Bluesky](https://bsky.app/profile/ropensci.org)"                     , "Posts about rOpenSci software, use cases, blog posts, tech notes, events"                                                                                    ,
+  "[LinkedIn](https://www.linkedin.com/company/ropensci)"                , "Posts about rOpenSci software, use cases, blog posts, tech notes, events"                                                                                    ,
+  "Video conferencing"                                                   , "Community Calls and remote coworking sessions on Zoom"                                                                                                       ,
+  "[GitHub - ropensci](https://github.com/ropensci)"                     , "Mature R packages contributed by rOpenSci staff or community-contributed peer-reviewed packages; software peer review system; rOpenSci website"              ,
+  "[GitHub - ropenscilabs](https://github.com/ropenscilabs)"             , "Experimental packages and code experiments from staff, collaborators, and participants of unconfs and related events"                                        ,
+  "[GitHub - ropensci-org](https://github.com/ropensci-org)"             , "Non-code repositories like this guide, the blog guide, ideas for Community Calls"                                                                            ,
+  "Slack"                                                                , "A semi-open space for communications among people who contribute to rOpenSci"                                                                                ,
   "Email: info at ropensci dot org"                                      , "To reach rOpenSci staff when other modes are not suitable"
 ) |>
   kable(format = "markdown")
@@ -60,24 +62,34 @@ useR - [https://happygitwithr.com/](https://happygitwithr.com/).
 We use
 [Slack](https://slack.com/intl/en-ca/help/articles/115004071768-What-is-Slack-)
 as a semi-open space for communications among people who have made specific
-contributions to rOpenSci. These include people who:
+contributions to rOpenSci. If you're interested in joining this space, all you
+have to do is contribute to the community in one of the following ways:
 
-- have begun the [software review process for their package](#devguide) (once
-  it's determined to be in scope)
-- are assigned to [review a package](#devguide)
-- made significant contributions to rOpenSci, including taking over maintenance
-  of an rOpenSci package
-- have written a [blog post or tech note](#blog) that is published on our site
-- presented in a [Community Call](#commcalls)
-- participated in an [unconf](#unconfs)
-- use R in a research domain that rOpenSci is explicitly supporting, such as
-  Antarctic and Southern Ocean Research
+- [co-host a coworking session](#coworking)
+- [write post or tech note](#blog) for our blog
+- [submit a package to software review](#devguide)
+- [review a package](#devguide)
+- [take over maintenance of an existing rOpenSci package](#packages)
+- [present in a Community Call](#commcalls)
+- [participate in the Champions Program](#champions)
+- [participate in a translations project](#multilingual)
+- participate in a project or research domain that rOpenSci is explicitly
+  supporting or partnering with, such as Antarctic and Southern Ocean Research,
+  or the Epiverse
+- [participate in an unconf](#unconfs)
 
-People join Slack by invitation from our Community Manager or other staff. If
-you are eligible, you may contact us via our [contact
-form](https://ropensci.org/contact/); provide your full name and email address.
+These contributions are not meant to be barriers to joining this space, just
+ways of ensuring that members are intentional in their commitment. If you'd like
+to join but aren't sure how to get started send us an email or ping us on social
+media and we'll give you some suggestions.
 
-<!-- TODO: COMMENT: (STEFFI) Perhaps include a sentence explaining the rational for a Slack being a semi-open space. -->
+By keeping this space by invitation we are also better able to curate a safe and
+respective space for our community members.
+
+People are normally invited to Slack by our Community Manager once they have
+participated in one of the above activities. If we've missed you, contact us via
+our [contact form](https://ropensci.org/contact/) and provide your full name and
+email address.
 
 The benefit of Slack is the ability to more directly access rOpenSci staff and
 community members, including some more experienced folks in channels like
@@ -94,8 +106,9 @@ developing, documenting code and infrastructure, and building community, as they
 specifically align with [our mission](#mission).
 
 People looking for more general R learning may refer to [RStudio
-Education](https://education.rstudio.com/) and [The
-Carpentries](https://carpentries.org/).
+Education](https://education.rstudio.com/), [The
+Carpentries](https://carpentries.org/), and the [Data Science Learning
+Collective](https://dslc.io).
 
 Read these posts if you have an R question: [Where to get help with your R
 question?](https://masalmon.eu/2018/07/22/wheretogethelp/), by Maëlle Salmon;
@@ -114,9 +127,8 @@ Long, and Scott Chamberlain.
 
 - Read our [Code of Conduct](https://ropensci.org/code-of-conduct/) to ensure
   you are ready to participate
-- **Follow [rOpenSci on Mastodon](https://hachyderm.io/@rOpenSci)**
+- **Follow rOpenSci on social media ([Mastodon](https://hachyderm.io/@rOpenSci),
+  [Bluesky](https://bsky.app/profile/ropensci.org),
+  [LinkedIn](https://www.linkedin.com/company/ropensci))**
 - **Subscribe to our [Newsletter](https://ropensci.org/news/)**
 - **Ask or answer questions**. Participate in discussions on GitHub or on Slack
-- **Try a 2-hour [remote co-working
-  session](https://www.cscce.org/2020/02/04/online-co-working-partnerships-are-community-of-practice-in-action/)**
-  with someone in our Slack #co-working channel

@@ -1,6 +1,7 @@
 # Software Peer Review {#peer-review}
 
 - TODO: ADD INTRO CONTENT
+- TODO: Add https://github.com/ropensci/software-review-meta/issues to ACTIONS
 
 <!-- Add Dev Guide -->
 ```{r, child="3_proj_review_standard.qmd"}

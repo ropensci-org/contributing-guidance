@@ -16,7 +16,7 @@ rOpenSci resource with details on how to contribute.
 
 Be informed by reading and listening
 
-- [Follow rOpenSci on Mastodon](#channels)
+- [Follow rOpenSci on social media](#channels)
 - [Subscribe to our Newsletter](#channels)
 - [Read blog posts or tech notes](#blog)
 - [Read the R-universe discussion](#runiverse)
@@ -25,7 +25,8 @@ Be informed by reading and listening
   Calls](#commcalls)
 - [Explore use cases](#usecases) shared by community members
 - [Follow discussions](#channels) about statistical software peer review, best
-  practices, and Q & A in the forum or on [Slack](#channels-slack)
+  practices, and Q & A on [Slack](#channels-slack) or in the [software review
+  meta repository](#peer-review)
 - [Join a coworking session](#coworking) and listen to questions and answers
 
 Improve the reproducibility of my research and apply best practices in my work
@@ -38,8 +39,7 @@ Improve the reproducibility of my research and apply best practices in my work
 - [Read the Dev Guide](#devguide) and adopt some new best practices
 - [Read our book on Statistical Software Peer Review](#statsreview) to
   familiarize yourself with standards being developed
-- [Read or ask questions](#channels) in the "Best Practices" category in our
-  forum or on [Slack](#channels-slack)
+- [Read or ask questions](#channels-slack) on Slack
 - [Submit your package for peer review](#devguide) after determining whether
   it's in scope for rOpenSci
 
@@ -48,8 +48,9 @@ Improve my R and software development skills
 - Find new packages to try: [Browse rOpenSci packages](#packages), [explore use
   cases](#usecases), [read blog posts or tech notes](#blog)
 - [Volunteer to review a package](#devguide)
-- [Seek community feedback on your package ideas in the "Packages" category in
-  our forum](#channels-forum)
+- Seek community feedback on your package ideas on [Slack](#channels-slack) or
+  during a [coworking session](#coworking). Ideas for new packages, package
+  updates, or package features.
 - [Review package documentation](#packages)
 - [Address an issue](#issues). Explore open issues in rOpenSci packages and
   consider submitting a fix.
@@ -60,8 +61,7 @@ Improve my R and software development skills
 - [Write a post about using rOpenSci packages](#packages) on your own blog
 - After learning something new, **write a blog post or tech note** to share your
   experiences (see both the [Blog](#blog) and the [Blog Guide](#blogguide))
-- [Ask or answer questions](#channels) in the forum or on
-  [Slack](#channels-slack)
+- [Ask or answer questions](#channels) on [Slack](#channels-slack)
 - [Volunteer to maintain or co-maintain a package](#devguide)
 - [Submit your package for peer review](#devguide) after determining whether
   it's in scope for rOpenSci
@@ -77,10 +77,11 @@ Learn how to review R code
 Learn how to get my package on CRAN
 
 - [Read the Dev Guide](#devguide), especially the CRAN Gotchas section
-- [Read or ask questions](#channels) in the "Packages" category in our forum or
-  on [Slack](#channels-slack)
-- [Seek community feedback on your package ideas in the "Packages" category in
-  our forum](#channels-forum)
+- [Read or ask questions](#channels-slack) in the #package-maintenance channel
+  on Slack
+- Seek community feedback on your package ideas on [Slack](#channels-slack) or
+  during a [coworking session](#coworking). Ideas for new packages, package
+  updates, or package features.
 - [Submit your package for peer review](#devguide) after determining whether
   it's in scope for rOpenSci. The review process is very useful for making sure
   your package is also suitable for CRAN.
@@ -91,5 +92,4 @@ Learn about career paths in R and open science
   research, career paths, and contributions
 - [Read blog posts or tech notes](#blog), particularly those tagged with
   "Interviews", which feature experienced rOpenSci community members
-- [Browse the Jobs category](#channels) in our public forum or in
-  [Slack](#channels-slack)
+- [Browse the Jobs category](#channels-slack) on [Slack](#channels-slack)

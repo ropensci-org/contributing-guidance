@@ -53,10 +53,10 @@ posts and tech notes tagged with package names (like
 [tesseract](https://ropensci.org/tags/tesseract/) or
 [taxize](https://ropensci.org/tags/taxize/)). Browse the [tags
 page](https://ropensci.org/tags/) to find posts. Find examples of how others use
-them by browsing the [UsesCases category of our public forum](#usecases). Some
-of our [Community Calls](#commcalls) focus on packages in a specific domain.
-[Check out our archive](https://ropensci.org/commcalls/) with videos of past
-calls. Looking for more examples? Ask in the [forum](#channels-forum).
+them by browsing [usecases](#usecases). Some of our [Community
+Calls](#commcalls) focus on packages in a specific domain. [Check out our
+archive](https://ropensci.org/commcalls/) with videos of past calls. Looking for
+more examples? Ask on [social media or Slack](#channels).
 
 Most developers are interested to hear from you while you're getting to know a
 package Is there something unclear in the documentation? Some parts of the

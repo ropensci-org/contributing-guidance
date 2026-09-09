@@ -40,8 +40,8 @@ visibility for your work!
   platforms if you find them particularly helpful.
 - We've made it easy to **submit your use cases** for rOpenSci packages
   (including your own) or resources by creating a template to guide you. When
-  you [post your use case](https://ropensci.org/usecases/) we'll post to
-  Mastodon about it to rOpenSci's followers, tagging you and the package or
+  you [post your use case](https://ropensci.org/usecases/) we'll post to social
+  media about it to rOpenSci's followers, tagging you and the package or
   resource author, and we might feature it in our [newsletter](#channels).
 - **Encourage your peers to submit use cases**. Over time, these "small" actions
   are creating valuable open resources!

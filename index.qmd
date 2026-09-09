@@ -27,11 +27,10 @@ We welcome contributions from individuals of all skill levels and backgrounds,
 whether they involve code, technical writing, mentoring, localization or other
 type of contributions. Whether you're a seasoned coder or new to the field, your
 input is valued. You don't need to identify as a developer for making meaningful
-contributions! Maybe you want to **spend 30 minutes** sharing your package use
-case in our public forum or reporting a bug, **one hour** learning by attending
-a Community Call, **five hours** reviewing an R package submitted for open peer
-review, **or maybe you want to make an ongoing commitment** to help maintain a
-package.
+contributions! Maybe you want to **spend 30 minutes** sharing your package
+usecase or reporting a bug, **one hour** learning by attending a Community Call,
+**five hours** reviewing an R package submitted for open peer review, **or maybe
+you want to make an ongoing commitment** to help maintain a package.
 
 What are some benefits of contributing?
 
