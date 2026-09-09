@@ -134,8 +134,8 @@ variations on the action depending on the specific "I want to.."
   work](#packages)
 - [Browse citations of rOpenSci packages](#packages) to find interesting
   applications
-- [Cite rOpenSci packages](#packages**)\*\* in manuscripts and presentations and
-  **encourage your colleagues to cite software.** Highlighting software and its
+- **[Cite rOpenSci packages](#packages)** in manuscripts and presentations and
+  **encourage your colleagues to cite software**. Highlighting software and its
   maintainers will help promote software behind research
 - [Write a post about using rOpenSci packages\*\* on your own blog](#packages)
 - [Report a bug](#packages) by opening an issue. If you're asking for R help,
