@@ -53,8 +53,6 @@ There are many ways to explore our blog and tech notes content:
   notes](https://ropensci.org/technotes/)**
 - Did you find an article interesting or useful? **Share posts with your
   network**
-- **Comment on a post to share your perspective or to ask a question.** Comments
-  appear in our [public discussion forum](#channels).
 - We love to hear stories about how people use our tools and resources. Have an
   idea for our blog? **Write a blog post or tech note**. Take a look at examples
   of posts above and on the [blog](https://ropensci.org/blog), browse the [Blog

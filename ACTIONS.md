@@ -102,7 +102,6 @@ variations on the action depending on the specific "I want to.."
   - [Read blog posts or tech notes](#blog) about specific rOpenSci packages, or
     about [creative use cases](#blog-usecases) for multiple rOpenSci packages
 - [Share posts with your network](#blog)
-- [Comment on a post to share your perspective or to ask a question](#blog)
 - **Write a blog post or tech note** (see both the [Blog](#blog) and the [Blog
   Guide](#blogguide))
   - (Chp3 text) Take a look at examples of posts above and on the
