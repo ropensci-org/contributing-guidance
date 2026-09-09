@@ -4,7 +4,7 @@ project:
 book:
   title: "rOpenSci Community Contributing Guide"
   description: "A guide to help people find ways to contribute to rOpenSci"
-  author-meta: "Stefanie Butland & Steffi LaZerte"
+  author: "Stefanie Butland, Steffi LaZerte, and Yanina Bellini Saibene"
   favicon: "favicon/favicon.ico"
   cover-image: images/contrib_guide_cover.png
   cover-image-alt: |
@@ -22,18 +22,30 @@ book:
     creator: "@rOpenSci"
     image: images/contrib_guide_cover.png
     image-alt: "Contributing guide cover featuring hexagonal panels each with a different person doing something different: lab work, computer work, field work, waving, hanging out with a dog/cat."
-    
-
   chapters:
-  - index.qmd
-  - welcome.qmd
-  - intro.qmd
-  - motivations.qmd
-  - resources.qmd
-  - appendix.qmd
-
-  - part: Appendix
-    chapters:
+    - index.qmd     
+    - part: 1_intro.qmd       # rOpenSci and community
+      chapters: 
+        - 1_intro_mission.qmd
+        - 1_intro_community.qmd
+    - part: 2_motivations.qmd # What brings you here? I want to …
+      chapters:
+        - 2_mtv_discover.qmd
+        - 2_mtv_connect.qmd
+        - 2_mtv_learn.qmd
+        - 2_mtv_build.qmd
+        - 2_mtv_help.qmd
+    - part: 3_projects.qmd    # Projects
+      chapters:
+        - 3_proj_channels.qmd
+        - 3_proj_events.qmd
+        - 3_proj_champions.qmd
+        - 3_proj_blog.qmd
+        - 3_proj_multilingual.qmd
+        - 3_proj_review.qmd
+        - 3_proj_packages.qmd
+        - 3_proj_runiverse.qmd
+  appendices:
     - bibliography.qmd
     - news.qmd
 
