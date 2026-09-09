@@ -28,8 +28,8 @@ Discover packages I can use to facilitate my research and access open data
 Discover resources on best practices for software development
 
 - [Read the Dev Guide](#devguide)
-- [Read or ask questions](#channels) in the "Best Practices" category in our
-  forum or on [Slack](#channels-slack)
+  - [Read or ask questions](#channels-slack) in the #package-maintenance channel
+    on Slack
 - [Attend a Community Call](#commcalls)
 - [Watch recordings and read collaborative notes from past Community
   Calls](#commcalls)

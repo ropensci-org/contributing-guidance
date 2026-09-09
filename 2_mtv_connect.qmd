@@ -31,8 +31,7 @@ Belong to a supportive community
   "Welcome" to get a feel for how we value people in our community.
 - [Support fellow community members](#channels) (e.g., by welcoming newcomers,
   giving credit, connecting members with people or resources)
-- [Ask or answer questions](#channels) in the forum or on
-  [Slack](#channels-slack)
+- [Ask or answer questions](#channels-slack) on Slack
 - [Join a coworking session](#coworking) to interact with others and get work
   done.
 
@@ -46,9 +45,9 @@ Meet and work with other users and developers of open science packages
 - [Try a 2-hour remote co-working session](#channels-slack) with someone in our
   Slack #co-working channel. Read about contributions required to join [rOpenSci
   Slack](#channels-slack)
-- [Seek community feedback on your package ideas in the "Packages" category in
-  our forum](#channels-forum). Ideas for new packages, package updates, or
-  package features.
+- Seek community feedback on your package ideas on [Slack](#channels-slack) or
+  during a [coworking session](#coworking). Ideas for new packages, package
+  updates, or package features.
 - [Join a coworking session](#coworking) to interact with other developers and
   get work done.
 
