@@ -58,9 +58,6 @@ variations on the action depending on the specific "I want to.."
   repository, or on [Slack](#channels-slack)
 - [Support fellow community members](#channels) (e.g., by welcoming newcomers,
   giving credit, connecting members with people or resources)
-- [Try a 2-hour remote co-working session](#channels-slack) with someone in our
-  Sla[Slack](#channels-slack)ck #co-working channel. Read about contributions
-  required to join [rOpenSci Slack](#channels-slack).
 - Seek community feedback on your package ideas on [Slack](#channels-slack) or
   during a [coworking session](#coworking). Ideas for new packages, package
   updates, or package features.

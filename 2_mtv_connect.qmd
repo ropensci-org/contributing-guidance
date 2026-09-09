@@ -42,9 +42,6 @@ Meet and work with other users and developers of open science packages
 - [Volunteer to review a package](#devguide) and use your experience to help a
   developer
 - [Volunteer to maintain or co-maintain a package](#devguide)
-- [Try a 2-hour remote co-working session](#channels-slack) with someone in our
-  Slack #co-working channel. Read about contributions required to join [rOpenSci
-  Slack](#channels-slack)
 - Seek community feedback on your package ideas on [Slack](#channels-slack) or
   during a [coworking session](#coworking). Ideas for new packages, package
   updates, or package features.
