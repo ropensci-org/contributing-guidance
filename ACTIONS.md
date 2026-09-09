@@ -45,9 +45,9 @@ variations on the action depending on the specific "I want to.."
 
 ### Communication channels {#channels}
 
-- [Follow rOpenSci on Mastodon](#channels)
+- [Follow rOpenSci on social media](#channels)
 - [Subscribe to our Newsletter](#channels)
-- [Engage with us on Mastodon](#channels). Amplify best practices from our
+- [Engage with us on social media](#channels). Amplify best practices from our
   social media to your networks. Reply to a post to share your experience or
   expertise on a topic
 - [Ask or answer questions](#channels-slack) on Slack

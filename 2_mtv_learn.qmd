@@ -16,7 +16,7 @@ rOpenSci resource with details on how to contribute.
 
 Be informed by reading and listening
 
-- [Follow rOpenSci on Mastodon](#channels)
+- [Follow rOpenSci on social media](#channels)
 - [Subscribe to our Newsletter](#channels)
 - [Read blog posts or tech notes](#blog)
 - [Read the R-universe discussion](#runiverse)
