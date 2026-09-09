@@ -25,7 +25,8 @@ Be informed by reading and listening
   Calls](#commcalls)
 - [Explore use cases](#usecases) shared by community members
 - [Follow discussions](#channels) about statistical software peer review, best
-  practices, and Q & A in the forum or on [Slack](#channels-slack)
+  practices, and Q & A on [Slack](#channels-slack) or in the [software review
+  meta repository](#peer-review)
 - [Join a coworking session](#coworking) and listen to questions and answers
 
 Improve the reproducibility of my research and apply best practices in my work
@@ -38,8 +39,7 @@ Improve the reproducibility of my research and apply best practices in my work
 - [Read the Dev Guide](#devguide) and adopt some new best practices
 - [Read our book on Statistical Software Peer Review](#statsreview) to
   familiarize yourself with standards being developed
-- [Read or ask questions](#channels) in the "Best Practices" category in our
-  forum or on [Slack](#channels-slack)
+- [Read or ask questions](#channels-slack) on Slack
 - [Submit your package for peer review](#devguide) after determining whether
   it's in scope for rOpenSci
 
@@ -60,8 +60,7 @@ Improve my R and software development skills
 - [Write a post about using rOpenSci packages](#packages) on your own blog
 - After learning something new, **write a blog post or tech note** to share your
   experiences (see both the [Blog](#blog) and the [Blog Guide](#blogguide))
-- [Ask or answer questions](#channels) in the forum or on
-  [Slack](#channels-slack)
+- [Ask or answer questions](#channels) on [Slack](#channels-slack)
 - [Volunteer to maintain or co-maintain a package](#devguide)
 - [Submit your package for peer review](#devguide) after determining whether
   it's in scope for rOpenSci

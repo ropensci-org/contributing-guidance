@@ -50,24 +50,21 @@ variations on the action depending on the specific "I want to.."
 - [Engage with us on Mastodon](#channels). Amplify best practices from our
   social media to your networks. Reply to a post to share your experience or
   expertise on a topic
-- [Ask or answer questions](#channels) in the forum or on
-  [Slack](#channels-slack)
-  - [Read or ask questions](#channels) in the "Best Practices" category in our
-    forum or on [Slack](#channels-slack)
-  - [Read or ask questions](#channels) in the "Packages" category in our forum
-    or on [Slack](#channels-slack)
-- [Follow discussions](#channels) about statistical software peer review, best
-  practices, and Q & A in the forum or on [Slack](#channels-slack)
+- [Ask or answer questions](#channels-slack) on Slack
+  - [Read or ask questions](#channels-slack) in the #package-maintenance channel
+    on Slack
+- [Follow discussions](#channels-slack) about statistical software peer review,
+  best practices, and Q & A in the [software-review-meta](#software-review)
+  repository, or on [Slack](#channels-slack)
 - [Support fellow community members](#channels) (e.g., by welcoming newcomers,
   giving credit, connecting members with people or resources)
 - [Try a 2-hour remote co-working session](#channels-slack) with someone in our
   Sla[Slack](#channels-slack)ck #co-working channel. Read about contributions
   required to join [rOpenSci Slack](#channels-slack).
-- [Seek community feedback on your package ideas in the "Packages" category in
-  our forum](#channels-forum). Ideas for new packages, package updates, or
-  package features.
-- [Browse the Jobs category](#channels) in our public forum or in
-  \*\*[Slack](#channels-slack)
+- Seek community feedback on your package ideas on [Slack](#channels-slack) or
+  during a [coworking session](#coworking). Ideas for new packages, package
+  updates, or package features.
+- [Browse the Jobs category](#channels-slack) on [Slack](#channels-slack)
 
 ### Community Calls {#commcalls}
 
