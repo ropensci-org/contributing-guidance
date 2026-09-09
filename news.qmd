@@ -17,6 +17,7 @@
 
 - Update Zenodo links
 - Update Quarto version
+- Use 'social media' instead of Mastodon (etc.)
 - Remove references to forum
 
 ## 0.2.1
