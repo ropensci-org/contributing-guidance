@@ -2,7 +2,7 @@
 date: "`r Sys.Date()`"
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
-link-citations: yes
+link-citations: true
 ---
 
 # Preface {.unnumbered}
