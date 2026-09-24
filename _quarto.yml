@@ -3,6 +3,7 @@ project:
   
 book:
   title: "rOpenSci Community Contributing Guide"
+  llms-txt: true
   description: "A guide to help people find ways to contribute to rOpenSci"
   author-meta: "Stefanie Butland & Steffi LaZerte"
   favicon: "favicon/favicon.ico"
