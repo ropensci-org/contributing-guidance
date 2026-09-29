@@ -1,0 +1,12 @@
+# rOpenSci Community Contributing Guide
+
+## Pages
+
+- [rOpenSci Community Contributing Guide](https://contributing.ropensci.org/index.llms.md)
+- [Welcome](https://contributing.ropensci.org/welcome.llms.md)
+- [[[1]{.chapter-number}  [rOpenSci & Our Community]{.chapter-title}]{#intro .quarto-section-identifier}](https://contributing.ropensci.org/intro.llms.md)
+- [[[2]{.chapter-number}  [What brings you here? I want to ...]{.chapter-title}]{#motivations .quarto-section-identifier}](https://contributing.ropensci.org/motivations.llms.md)
+- [[[3]{.chapter-number}  [rOpenSci Resources]{.chapter-title}]{#resources .quarto-section-identifier}](https://contributing.ropensci.org/resources.llms.md)
+- [[4]{.chapter-number}  [Bibliography]{.chapter-title}](https://contributing.ropensci.org/appendix.llms.md)
+- [[5]{.chapter-number}  [Bibliography]{.chapter-title}](https://contributing.ropensci.org/bibliography.llms.md)
+- [[6]{.chapter-number}  [NEWS]{.chapter-title}](https://contributing.ropensci.org/news.llms.md)
