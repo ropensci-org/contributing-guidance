@@ -9,3 +9,5 @@ _bookdown_files
 .Rapp.history
 docs
 /.quarto/
+
+**/*.quarto_ipynb

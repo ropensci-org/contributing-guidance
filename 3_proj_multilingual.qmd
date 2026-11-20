@@ -1,0 +1,9 @@
+# Multilingual Publishing {#multilingual}
+
+- TODO: ADD CONTENT
+- TODO: Should translations guide be separate (below) or included?
+
+<!-- Add Translations Guide -->
+```{r, child="3_proj_ml_trans_guide.qmd"}
+#| echo: false
+```
