@@ -124,10 +124,20 @@ and [Anna Krystalli and Lincoln Mullen](https://ropensci.org/blog/2018/06/22/new
 We occasionally recruit [guest editors](https://devguide.ropensci.org/softwarereviewintro.html#editors-and-reviewers) for some package reviews.
 
 ```{r}
-pic <- webshot2::webshot(
-  "https://ropensci.org/about/", 
-  expand = 5,
-  selector = "#team-staff-others"
+#| include: false
+
+options(chromote.timeout = 60) # For CI which needs longer
+pic <- tryCatch(
+  webshot2::webshot(
+    "https://ropensci.org/about/",
+    expand = 5,
+    selector = "#team-staff-others"
+  ),
+  error = \(e) {
+    message(
+      "Webshot failed, use existing headshots (webshot.png) in the meanwhile"
+    )
+  }
 )
 ```
 
