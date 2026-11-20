@@ -1,8 +1,8 @@
 ## Coworking {#coworking}
 
 Joining a [social coworking and office hours
-session](https://ropensci.org/blog/2021/08/17/coworking-sessions/) is a great
-way to interact with other community members as well as to get work done or ask
+session](https://ropensci.org/blog/2023/06/21/coworking/) is a great way to
+interact with other community members as well as to get work done or ask
 questions.
 
 Coworking is working at the same time, with others, but on different projects.

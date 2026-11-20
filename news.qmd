@@ -18,7 +18,7 @@
 - Update Zenodo links
 - Update Quarto version
 - Use 'social media' instead of Mastodon (etc.)
-- Remove references to forum
+- Remove references to forum and private coworking
 
 ## 0.2.1
 
