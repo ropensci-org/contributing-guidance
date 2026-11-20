@@ -17,6 +17,7 @@ Imports:
     jsonlite,
     kableExtra,
     purrr,
+    quarto,
     readr,
     tibble,
     webshot2
