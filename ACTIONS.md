@@ -1,6 +1,6 @@
 # Master Actions List
 
-### A note about links
+## A note about links
 
 Within a Resource section, links to THAT resource, actually link externally to
 the resource \  i.e. in the blog resource section, links to the blog link to
@@ -11,7 +11,7 @@ i.e. in the blog resource section, links to the blog guide link to #blogguide
 
 --------------------------------------------------------------------------------
 
-### A note about text
+## A note about text
 
 Text in the **MAIN bullet** is the "common" action text, and ALSO the text to be
 inserted into Motivations Chapter.
@@ -51,17 +51,22 @@ variations on the action depending on the specific "I want to.."
   from our social media to your networks. Reply to a post to share your
   experience or expertise on a topic
 - [Ask or answer questions](#channels-slack) on Slack
+  - [Ask or answer questions](#channels-slack) in the #package-maintenance
+    channel on Slack
+  - Answer questions on [social media](#channels-social) or on
+    [Slack](#channels-slack)
+- [Read or ask questions](#channels-slack) on Slack
   - [Read or ask questions](#channels-slack) in the #package-maintenance channel
     on Slack
-- [Follow discussions](#channels-slack) about statistical software peer review,
-  best practices, and Q & A in the [software-review-meta](#software-review)
-  repository, or on [Slack](#channels-slack)
+- Follow discussions about statistical software peer review, best practices, and
+  Q & A in the [software review meta repository](#peer-review), or on
+  [Slack](#channels-slack)
 - [Support fellow community members](#channels) (e.g., by welcoming newcomers,
   giving credit, connecting members with people or resources)
 - Seek community feedback on your package ideas on [Slack](#channels-slack) or
   during a [coworking session](#coworking). Ideas for new packages, package
   updates, or package features.
-- [Browse the Jobs category](#channels-slack) on [Slack](#channels-slack)
+- [Browse the #jobs-and-funding channel](#channels-slack) on Slack
 
 ### Community Calls {#commcalls}
 
@@ -90,12 +95,8 @@ variations on the action depending on the specific "I want to.."
     and [making pull
     requests](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork).
 - [Read blog posts or tech notes](#blog)
-  - [Read blog posts or tech notes](#blog), particularly those [tagged with
-    "Welcome"](#blog-welcome)
-  - [Read blog posts or tech notes](#blog), particularly those [tagged with
-    "Reviewer"](#blog-reviewers)
-  - [Read blog posts or tech notes](#blog), particularly those [tagged with
-    "Interviews"](#blog-interviews)
+  - [Read blog posts or tech notes](#blog), particularly those tagged with
+    "Welcome", "Review", "Interviews"
   - [Read blog posts or tech notes](#blog) about specific rOpenSci packages, or
     about [creative use cases](#blog-usecases) for multiple rOpenSci packages
 - [Share posts with your network](#blog)
