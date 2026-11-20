@@ -38,7 +38,7 @@ tribble(
   "[GitHub - ropenscilabs](https://github.com/ropenscilabs)"             , "Experimental packages and code experiments from staff, collaborators, and participants of unconfs and related events"                                        ,
   "[GitHub - ropensci-org](https://github.com/ropensci-org)"             , "Non-code repositories like this guide, the blog guide, ideas for Community Calls"                                                                            ,
   "Slack"                                                                , "A semi-open space for communications among people who contribute to rOpenSci"                                                                                ,
-  "Email: info at ropensci dot org"                                      , "To reach rOpenSci staff when other modes are not suitable"
+  "[Contact form](https://ropensci.org/contact)"                         , "To reach rOpenSci staff when other modes are not suitable"
 ) |>
   kable(format = "markdown")
 ```
@@ -92,8 +92,9 @@ have to do is contribute to the community in one of the following ways:
 
 These contributions are not meant to be barriers to joining this space, just
 ways of ensuring that members are intentional in their commitment. If you'd like
-to join but aren't sure how to get started send us an email or ping us on
-[social media](#channels-socials) and we'll give you some suggestions.
+to join but aren't sure how to get started send us a message via our [contact
+form](https://ropensci.org/contact) or ping us on [social
+media](#channels-socials) and we'll give you some suggestions.
 
 By keeping this space by invitation we are also better able to curate a safe and
 respective space for our community members.
@@ -101,7 +102,7 @@ respective space for our community members.
 People are normally invited to Slack by our Community Manager once they have
 participated in one of the above activities. If we've missed you, contact us via
 our [contact form](https://ropensci.org/contact/) and provide your full name and
-email address.
+the email address you'd like to use for Slack.
 
 The benefit of Slack is the ability to more directly access rOpenSci staff and
 community members, including some more experienced folks in channels like
