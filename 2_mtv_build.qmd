@@ -52,8 +52,8 @@ Improve package documentation and examples
 
 Promote best practices for R development
 
-- [Engage with us on social media](#channels). Amplify best practices from our
-  social media to your networks
+- [Engage with us on social media](#channels-socials). Amplify best practices
+  from our social media to your networks
 - [Ask or answer questions](#channels-slack) in the #package-maintenance channel
   on Slack
 - **Write a blog post or tech note** about the development of your rOpenSci

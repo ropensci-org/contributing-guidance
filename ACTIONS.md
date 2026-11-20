@@ -45,11 +45,11 @@ variations on the action depending on the specific "I want to.."
 
 ### Communication channels {#channels}
 
-- [Follow rOpenSci on social media](#channels)
+- [Follow rOpenSci on social media](#channels-socials)
 - [Subscribe to our Newsletter](#channels)
-- [Engage with us on social media](#channels). Amplify best practices from our
-  social media to your networks. Reply to a post to share your experience or
-  expertise on a topic
+- [Engage with us on social media](#channels-socials). Amplify best practices
+  from our social media to your networks. Reply to a post to share your
+  experience or expertise on a topic
 - [Ask or answer questions](#channels-slack) on Slack
   - [Read or ask questions](#channels-slack) in the #package-maintenance channel
     on Slack

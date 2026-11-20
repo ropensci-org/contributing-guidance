@@ -43,6 +43,18 @@ tribble(
   kable(format = "markdown")
 ```
 
+## Social media {#channels-socials}
+
+rOpenSci is active on three social media platforms:
+[Mastodon](https://hachyderm.io/@rOpenSci),
+[Bluesky](https://bsky.app/profile/ropensci.org),
+[LinkedIn](https://www.linkedin.com/company/ropensci). There we post about our
+activities, advertise upcoming events, promote blog posts, use cases and other
+aspects of the rOpenSci community. Occasionally we have special campaigns to
+promote packages (e.g., [A Package a
+Day](https://hachyderm.io/@rOpenSci/113916267503450480)) and/or maintainers
+(e.g., [Maintainer Month](https://hachyderm.io/@rOpenSci/116658105810064810)).
+
 ## GitHub {#channels-github}
 
 The majority of rOpenSci's work happens on GitHub. In this Guide we use terms
@@ -80,8 +92,8 @@ have to do is contribute to the community in one of the following ways:
 
 These contributions are not meant to be barriers to joining this space, just
 ways of ensuring that members are intentional in their commitment. If you'd like
-to join but aren't sure how to get started send us an email or ping us on social
-media and we'll give you some suggestions.
+to join but aren't sure how to get started send us an email or ping us on
+[social media](#channels-socials) and we'll give you some suggestions.
 
 By keeping this space by invitation we are also better able to curate a safe and
 respective space for our community members.
