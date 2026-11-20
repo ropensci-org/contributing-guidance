@@ -5,7 +5,7 @@ Year: 2026
 Authors@R: c(
     person("Stefanie", "Butland", email = "stefaniebutland@gmail.com", role = c("aut"),
            comment = c(ORCID = "0000-0002-5427-8951")),
-    person("Steffi", "LaZerte", email = "steffi@steffi.ca", role = c("aut", "cre"),
+    person("Steffi", "LaZerte", email = "sel@steffilazerte.ca", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-7690-8360")),
     person("Yanina", "Bellini Saibene", email = "yabellini@ropensci.org", role = c("aut"), 
            comment = c(ORCID = "0000-0002-4522-7466")))
@@ -17,6 +17,7 @@ Imports:
     jsonlite,
     kableExtra,
     purrr,
+    quarto,
     readr,
     tibble,
     webshot2
